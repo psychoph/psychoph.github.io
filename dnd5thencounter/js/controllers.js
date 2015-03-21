@@ -13,8 +13,6 @@ dnd5EncApp.controller('calcCtrl', function($scope){
     $scope.expThresholdByLevel = [25,50,75,125,250,300,350,450,550,600,800,1100,1250,1400,1600,2000,2100,2400,2800];
 
     $scope.calculate = function(){
-
-
         var arrayLevel = $scope.level - 1;
         var levelEasy = $scope.expThresholdByLevel[arrayLevel];
         if(arrayLevel != 6 && arrayLevel != 16){ // level 7 and 17 are odd and don't follow the formula
@@ -26,7 +24,7 @@ dnd5EncApp.controller('calcCtrl', function($scope){
         }
 
         var levelHard = levelMedium + levelEasy;
-        if(arrayLevel > 3){
+        if(arrayLevel < 4){
             var levelDeadly = levelHard + levelMedium - levelEasy;
         } else {
             var levelDeadly = levelHard + levelMedium - (Math.ceil((levelEasy/2)/50)*50);
