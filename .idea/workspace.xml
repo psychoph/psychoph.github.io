@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" afterPath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/index.html" afterPath="$PROJECT_DIR$/dnd5thencounter/index.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="20" selection-start="4203" selection-end="4203" vertical-scroll-proportion="0.7863248" vertical-offset="607" max-vertical-offset="1751">
+            <state line="52" column="38" selection-start="2618" selection-end="2618" vertical-scroll-proportion="-10.653846" vertical-offset="607" max-vertical-offset="1751">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="19" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="20" column="37" selection-start="524" selection-end="524" vertical-scroll-proportion="0.3180873" vertical-offset="0" max-vertical-offset="962">
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -62,8 +61,8 @@
         <option value="$PROJECT_DIR$/dnd5thencounter/js/controller.js" />
         <option value="$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
         <option value="$PROJECT_DIR$/dnd5thencounter/index.html" />
+        <option value="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
       </list>
     </option>
   </component>
@@ -286,19 +285,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
+        <state line="52" column="38" selection-start="2618" selection-end="2618" vertical-scroll-proportion="-10.653846" vertical-offset="607" max-vertical-offset="1751">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
+    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="20" selection-start="4203" selection-end="4203" vertical-scroll-proportion="0.7863248" vertical-offset="607" max-vertical-offset="1751">
-          <folding />
+        <state line="20" column="37" selection-start="524" selection-end="524" vertical-scroll-proportion="0.3180873" vertical-offset="0" max-vertical-offset="962">
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
