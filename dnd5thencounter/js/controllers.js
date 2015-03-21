@@ -25,9 +25,13 @@ dnd5EncApp.controller('calcCtrl', function($scope){
 
         var levelHard = levelMedium + levelEasy;
         if(arrayLevel < 4){
-            var levelDeadly = levelHard + levelMedium - levelEasy;
+            if(arrayLevel != 2){ // level 3 is off the formula
+                var levelDeadly = levelHard + levelMedium - levelEasy;
+            } else {
+                var levelDeadly = 400;
+            }
         } else {
-            var levelDeadly = levelHard + levelMedium - (Math.ceil((levelEasy/2)/50)*50);
+            var levelDeadly = levelHard + levelMedium - (Math.ceil((levelEasy/2)/100)*100);
         }
 
         $scope.easy = $scope.players * levelEasy;
