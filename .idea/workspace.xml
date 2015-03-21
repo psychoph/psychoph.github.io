@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" afterPath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +46,7 @@
       <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="71" selection-start="723" selection-end="723" vertical-scroll-proportion="0.3180873" vertical-offset="0" max-vertical-offset="962">
+            <state line="34" column="49" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.5654886" vertical-offset="0" max-vertical-offset="962">
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -322,7 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="71" selection-start="723" selection-end="723" vertical-scroll-proportion="0.3180873" vertical-offset="0" max-vertical-offset="962">
+        <state line="34" column="49" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.5654886" vertical-offset="0" max-vertical-offset="962">
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
