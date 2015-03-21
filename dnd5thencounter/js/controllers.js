@@ -10,7 +10,6 @@ dnd5EncApp.controller('calcCtrl', function($scope){
     $scope.experience = 100;
     $scope.challengeRating = 1;
 
-    $scope.calculate();
     $scope.calculate = function(){
         $scope.easy = $scope.players * $scope.level;
         $scope.medium = $scope.players * $scope.level;
