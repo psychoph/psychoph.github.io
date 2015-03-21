@@ -50,7 +50,7 @@
 <div class="container" ng-controller="calcCtrl">
     <!-- Three columns of text below the carousel -->
     <div class="row">
-        <div class="col-lg-4" >
+        <div class="col-lg-6" >
             <h2>Party</h2>
             <form name="partyCalculation" class="form-inline">
                 <div class="form-group">
@@ -61,8 +61,6 @@
                     <button class="btn btn-success" type="button">Add players</button>
                 </div>
             </form>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
             <h2>Monsters</h2>
             <form name="monstersCalculation" class="form-inline">
                 <div class="form-group">
@@ -73,8 +71,8 @@
                     <button class="btn btn-success" type="button">Add monsters</button>
                 </div>
             </form>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4" ng-init="calculate()">
+        </div><!-- /.col-lg-6 -->
+        <div class="col-lg-6" ng-init="calculate()">
             <h2>Results</h2>
             <p>
                 <h3>General Experience</h3>
@@ -91,7 +89,7 @@
                 <h3>Encounter</h3>
                 math: {{math}}
             </p>
-        </div><!-- /.col-lg-4 -->
+        </div><!-- /.col-lg-6 -->
     <!-- FOOTER -->
     <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
