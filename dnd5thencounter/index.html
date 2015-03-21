@@ -1,4 +1,4 @@
-<html>
+<html ng-app="dnd5EncApp">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,14 +21,21 @@
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
-        <div class="col-lg-4">
-            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Players</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="dnd5thencouter/index.html" role="button">View details »</a></p>
+        <div class="col-lg-4" ng-controller="playerCalcCtrl">
+            <h2>Party</h2>
+            <p>
+                <form name="partyCalculation">
+                    <div class="input-group">
+                        <label for="players">Players</label><input type="text" name="players" value="3" /> at
+                        <label for="level">Level</label><input type="text" name="level" />
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">Add</button>
+                        </span>
+                    </div>
+                </form>
+           </p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
             <h2>Monsters</h2>
             <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
             <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
@@ -41,8 +48,11 @@
     </footer>
 
 </div>
-<script src="../bs3.3.4/js/jquery.min.js"></script>
+<script src="../bs3.3.4/js/jquery-2.1.3.min.js"></script>
 <script src="../bs3.3.4/js/bootstrap.min.js"></script>
-<script src="../bs3.3.4/js/bootstrap-accessibility.js"></script>
+<script src="../bs3.3.4/js/bootstrap-accessibility.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-aria.min.js"></script>
+<script src="js/controllers.js"></script>
 </body>
 </html>
