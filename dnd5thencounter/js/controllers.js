@@ -7,3 +7,8 @@ dnd5EncApp.controller('playerCalcCtrl', function($scope){
 
 
 });
+
+dnd5EncApp.controller('monstersCalcCtrl', function($scope){
+
+
+});

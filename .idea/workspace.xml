@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\angular\angular.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bs3.3.4/css/bootstrap-accessibility.css" afterPath="$PROJECT_DIR$/bs3.3.4/css/bootstrap-accessibility.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js" afterPath="$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" afterPath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/index.html" afterPath="$PROJECT_DIR$/dnd5thencounter/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -29,28 +28,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="33" selection-start="2812" selection-end="2812" vertical-scroll-proportion="0.5579632" vertical-offset="454" max-vertical-offset="1428">
+            <state line="71" column="54" selection-start="112175" selection-end="112175" vertical-scroll-proportion="-23.076923" vertical-offset="607" max-vertical-offset="1768">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="54" selection-start="1403" selection-end="1403" vertical-scroll-proportion="-15.692307" vertical-offset="102" max-vertical-offset="1071">
+            <state line="59" column="28" selection-start="2928" selection-end="2928" vertical-scroll-proportion="-20.923077" vertical-offset="459" max-vertical-offset="1411">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="23" selection-start="124" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+            <state line="10" column="31" selection-start="197" selection-end="197" vertical-scroll-proportion="0.14137214" vertical-offset="0" max-vertical-offset="962">
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -72,10 +71,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/dnd5thencounter/js/controller.js" />
-        <option value="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
-        <option value="$PROJECT_DIR$/dnd5thencounter/index.html" />
         <option value="$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dnd5thencounter/index.html" />
+        <option value="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
       </list>
     </option>
   </component>
@@ -282,35 +281,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="124" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="44" selection-start="224" selection-end="224" vertical-scroll-proportion="0.05374078" vertical-offset="0" max-vertical-offset="949">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="54" selection-start="1403" selection-end="1403" vertical-scroll-proportion="-15.692307" vertical-offset="102" max-vertical-offset="1071">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="33" selection-start="2812" selection-end="2812" vertical-scroll-proportion="0.5579632" vertical-offset="454" max-vertical-offset="1428">
+        <state line="59" column="28" selection-start="2928" selection-end="2928" vertical-scroll-proportion="-20.923077" vertical-offset="459" max-vertical-offset="1411">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="54" selection-start="112175" selection-end="112175" vertical-scroll-proportion="-23.076923" vertical-offset="607" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="197" selection-end="197" vertical-scroll-proportion="0.14137214" vertical-offset="0" max-vertical-offset="962">
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
