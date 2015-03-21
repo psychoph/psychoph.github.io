@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" afterPath="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
-    </list>
+    <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="" />
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +44,7 @@
       <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="932" selection-end="932" vertical-scroll-proportion="0.42411643" vertical-offset="0" max-vertical-offset="962">
+            <state line="14" column="34" selection-start="438" selection-end="438" vertical-scroll-proportion="0.21205822" vertical-offset="0" max-vertical-offset="962">
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -320,7 +318,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="932" selection-end="932" vertical-scroll-proportion="0.42411643" vertical-offset="0" max-vertical-offset="962">
+        <state line="14" column="34" selection-start="438" selection-end="438" vertical-scroll-proportion="0.21205822" vertical-offset="0" max-vertical-offset="962">
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
