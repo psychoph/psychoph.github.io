@@ -4,7 +4,10 @@
 var dnd5EncApp  = angular.module('dnd5EncApp', ['ngAria']);
 
 dnd5EncApp.controller('playerCalcCtrl', function($scope){
-    $scope.math = $scope.players * $scope.level;
+    $scope.math = 0;
+    $scope.calculate = function(){
+        $scope.math = $scope.players * $scope.level;
+    }
 
 });
 
