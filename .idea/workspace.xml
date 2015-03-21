@@ -26,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="133" selection-start="4151" selection-end="4151" vertical-scroll-proportion="-26.346153" vertical-offset="607" max-vertical-offset="1751">
+            <state line="79" column="20" selection-start="4203" selection-end="4203" vertical-scroll-proportion="0.7863248" vertical-offset="607" max-vertical-offset="1751">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="56" selection-start="96" selection-end="96" vertical-scroll-proportion="0.017671518" vertical-offset="0" max-vertical-offset="962">
+            <state line="20" column="19" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -286,19 +286,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="133" selection-start="4151" selection-end="4151" vertical-scroll-proportion="-26.346153" vertical-offset="607" max-vertical-offset="1751">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="56" selection-start="96" selection-end="96" vertical-scroll-proportion="0.017671518" vertical-offset="0" max-vertical-offset="962">
+        <state line="20" column="19" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="20" selection-start="4203" selection-end="4203" vertical-scroll-proportion="0.7863248" vertical-offset="607" max-vertical-offset="1751">
+          <folding />
         </state>
       </provider>
     </entry>

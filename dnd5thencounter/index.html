@@ -56,12 +56,11 @@
                 <form name="partyCalculation" class="form-inline">
                     <div class="form-group">
                         <label for="players">Players</label>
-                        <input type="text" class="form-control" name="players" value="1" maxlength="2" size="2" ng-model="players" ng-change="calculate()"/>
+                        <input type="text" class="form-control" name="players" maxlength="2" size="2" ng-model="players" ng-change="calculate()"/>
                         <label for="level">Level</label>
-                        <input type="text" class="form-control" name="level" value="1" maxlength="2" size="2" ng-model="level" ng-change="calculate()"/>
+                        <input type="text" class="form-control" name="level" maxlength="2" size="2" ng-model="level" ng-change="calculate()"/>
                         <button class="btn btn-success" type="button">Add players</button>
                     </div>
-                    <button class="btn btn-primary" type="button">Calculate</button>
                 </form>
             {{math}}
            </p>
@@ -72,12 +71,13 @@
             <form name="monstersCalculation" class="form-inline">
                 <div class="form-group">
                     <label for="monsters">Monsters</label>
-                    <input type="text" class="form-control" name="monsters" value="1" maxlength="3" size="3" ng-model="monsters" ng-change="calculate()"/>
+                    <input type="text" class="form-control" name="monsters" maxlength="3" size="3" ng-model="monsters" ng-change="calculate()"/>
                     <label for="experience">Experience</label>
-                    <input type="text"class="form-control"  name="experience" value="100" maxlength="6" size="6" ng-model="experience" ng-change="calculate()"/>
+                    <input type="text"class="form-control"  name="experience" maxlength="6" size="6" ng-model="experience" ng-change="calculate()"/>
                     <button class="btn btn-success" type="button">Add monsters</button>
                 </div>
             </form>
+            {{math}}
             </p>
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
