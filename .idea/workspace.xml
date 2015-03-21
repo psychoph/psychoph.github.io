@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/index.html" afterPath="$PROJECT_DIR$/dnd5thencounter/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="22" selection-start="312" selection-end="312" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="1649">
+            <state line="62" column="108446" selection-start="111367" selection-end="111367" vertical-scroll-proportion="0.6641387" vertical-offset="441" max-vertical-offset="1445">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="16" selection-start="946" selection-end="946" vertical-scroll-proportion="0.42361864" vertical-offset="0" max-vertical-offset="923">
+            <state line="16" column="16" selection-start="803" selection-end="803" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -57,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dnd5thencounter/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -221,16 +220,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="312" selection-end="312" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="1649">
+        <state line="16" column="16" selection-start="803" selection-end="803" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/embed.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="946" selection-end="946" vertical-scroll-proportion="0.42361864" vertical-offset="0" max-vertical-offset="923">
+        <state line="13" column="22" selection-start="427" selection-end="427" vertical-scroll-proportion="0.22972973" vertical-offset="0" max-vertical-offset="11271">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="108446" selection-start="111367" selection-end="111367" vertical-scroll-proportion="0.6641387" vertical-offset="441" max-vertical-offset="1445">
           <folding />
         </state>
       </provider>
