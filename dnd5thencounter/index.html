@@ -39,13 +39,7 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
-                                <li class="divider"></li>
-                                <li class="dropdown-header">Nav header</li>
-                                <li><a href="#">Separated link</a></li>
-                                <li><a href="#">One more separated link</a></li>
+                                <li><a href="index.html">D&D 5th Edition Encounter Calculator</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -62,18 +56,16 @@
             <p>
                 <form name="partyCalculation" class="form-inline">
                     <div class="form-group">
-                        <div class="input-group">
-                            <label for="players">Players</label>
-                            <div class="col-xs-2">
-                                <input type="text" class="form-control" name="players" value="3" maxlength="2" size="2"/>
-                            </div>
-                            at
-                            <label for="level">Level</label>
-                            <div class="col-xs-2">
-                                <input type="text" class="form-control" name="level" maxlength="2" size="2"/>
-                            </div>
-                            <button class="btn btn-success" type="button">Add</button>
+                        <label for="players">Players</label>
+                        <div class="col-xs-2">
+                            <input type="text" class="form-control" name="players" value="3" maxlength="2" size="2"/>
                         </div>
+                        at
+                        <label for="level">Level</label>
+                        <div class="col-xs-2">
+                            <input type="text" class="form-control" name="level" maxlength="2" size="2"/>
+                        </div>
+                        <button class="btn btn-success" type="button">Add</button>
                     </div>
                 </form>
            </p>
@@ -83,18 +75,16 @@
             <p>
             <form name="monstersCalculation" class="form-inline">
                 <div class="form-group">
-                    <div class="input-group">
-                        <label for="players">Monsters</label>
-                        <div class="col-xs-2">
-                            <input type="text" class="form-control" name="monsters" value="3" maxlength="3" size="3"/>
-                        </div>
-                        at
-                        <label for="level">Experience</label>
-                        <div class="col-xs-2">
-                            <input type="text"class="form-control"  name="experience" maxlength="6" size="6"/>
-                        </div>
-                        <button class="btn btn-success" type="button">Add</button>
+                    <label for="monsters">Monsters</label>
+                    <div class="col-xs-2">
+                        <input type="text" class="form-control" name="monsters" value="3" maxlength="3" size="3"/>
                     </div>
+                    at
+                    <label for="experience">Experience</label>
+                    <div class="col-xs-2">
+                        <input type="text"class="form-control"  name="experience" maxlength="6" size="6"/>
+                    </div>
+                    <button class="btn btn-success" type="button">Add</button>
                 </div>
             </form>
             </p>
