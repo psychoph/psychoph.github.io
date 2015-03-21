@@ -47,27 +47,23 @@
         </nav>
     </div>
 </div>
-<div class="container marketing">
+<div class="container" ng-controller="calcCtrl">
     <!-- Three columns of text below the carousel -->
     <div class="row">
-        <div class="col-lg-6" ng-controller="playerCalcCtrl">
+        <div class="col-lg-4" >
             <h2>Party</h2>
-            <p>
-                <form name="partyCalculation" class="form-inline">
-                    <div class="form-group">
-                        <label for="players">Players</label>
-                        <input type="text" class="form-control" name="players" maxlength="2" size="2" ng-model="players" ng-change="calculate()"/>
-                        <label for="level">Level</label>
-                        <input type="text" class="form-control" name="level" maxlength="2" size="2" ng-model="level" ng-change="calculate()"/>
-                        <button class="btn btn-success" type="button">Add players</button>
-                    </div>
-                </form>
-            {{math}}
-           </p>
+            <form name="partyCalculation" class="form-inline">
+            <div class="form-group">
+                <label for="players">Players</label>
+                <input type="text" class="form-control" name="players" maxlength="2" size="2" ng-model="players" ng-change="calculate()"/>
+                <label for="level">Level</label>
+                <input type="text" class="form-control" name="level" maxlength="2" size="2" ng-model="level" ng-change="calculate()"/>
+                <button class="btn btn-success" type="button">Add players</button>
+            </div>
+            </form>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-6"  ng-controller="monstersCalcCtrl">
+        <div class="col-lg-4">
             <h2>Monsters</h2>
-            <p>
             <form name="monstersCalculation" class="form-inline">
                 <div class="form-group">
                     <label for="monsters">Monsters</label>
@@ -77,16 +73,30 @@
                     <button class="btn btn-success" type="button">Add monsters</button>
                 </div>
             </form>
-            {{math}}
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+            <h2>Results</h2>
+            <p>
+                <h3>General Experience</h3>
+                Encounter Difficulty:
+            </p>
+            <p>
+                <h3>Player Experience</h3>
+                Easy: {{easy}}</br>
+                Medium: {{medium}}</br>
+                Hard: {{hard}}</br>
+                Deadly: {{deadly}}
+            </p>
+            <p>
+                <h3>Encounter</h3>
+                math: {{math}}
             </p>
         </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
-
     <!-- FOOTER -->
     <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
     </footer>
-
+    </div><!-- /.row -->
 </div>
 <script src="../bs3.3.4/js/jquery-2.1.3.min.js"></script>
 <script src="../bs3.3.4/js/bootstrap.min.js"></script>
