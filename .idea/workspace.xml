@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dnd5thencounter/index.html" afterPath="$PROJECT_DIR$/dnd5thencounter/index.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="47" selection-start="111342" selection-end="111866" vertical-scroll-proportion="0.28169015" vertical-offset="879" max-vertical-offset="1904">
+            <state line="74" column="29" selection-start="3803" selection-end="3803" vertical-scroll-proportion="0.69551283" vertical-offset="607" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -306,7 +305,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="47" selection-start="111342" selection-end="111866" vertical-scroll-proportion="0.28169015" vertical-offset="879" max-vertical-offset="1904">
+        <state line="74" column="29" selection-start="3803" selection-end="3803" vertical-scroll-proportion="0.69551283" vertical-offset="607" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
