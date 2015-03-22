@@ -10,7 +10,13 @@ dnd5EncApp.controller('calcCtrl', function($scope){
     $scope.experience = 100;
     $scope.challengeRating = 1;
 
-    $scope.playerGroups = [{id: 'player1'}];
+    $scope.easy = 0;
+    $scope.medium = 0;
+    $scope.hard = 0;
+    $scope.deadly = 0;
+    $scope.encounterExp = 0;
+
+    $scope.playerGroups = [{id: 'player1',count:3,level:1}];
     $scope.monsterGroups = [{id: 'monster1'}];
 
     $scope.easyLvlThresholds = [25,50,75,125,250,300,350,450,550,600,800,1100,1250,1400,1600,2000,2100,2400,2800];
@@ -20,14 +26,17 @@ dnd5EncApp.controller('calcCtrl', function($scope){
     
     $scope.calculate = function(){
         var arrayLevel = $scope.playerLevel - 1;
-
-        $scope.easy = $scope.playerCount * $scope.easyLvlThresholds[arrayLevel];
-        $scope.medium = $scope.playerCount * $scope.mediumLvlThresholds[arrayLevel];
-        $scope.hard = $scope.playerCount * $scope.hardLvlThresholds[arrayLevel];
-        $scope.deadly = $scope.playerCount * $scope.deadlyLvlThresholds[arrayLevel];
+        var totalMonsters = 0;
+        for(var i = 0; i< playerGroups.length; i++){
+            $scope.easy = $scope.easy + $scope.playerGroups[i].count * $scope.easyLvlThresholds[arrayLevel];
+            //$scope.medium = $scope.medium+ $scope.playerCount * $scope.mediumLvlThresholds[arrayLevel];
+            //$scope.hard = $scope.hard + $scope.playerCount * $scope.hardLvlThresholds[arrayLevel];
+           // $scope.deadly = $scope.deadly + $scope.playerCount * $scope.deadlyLvlThresholds[arrayLevel];
+        }
         $scope.encounterExp = $scope.monsterCount * $scope.monsterExp;
         $scope.perPlayerExp =  $scope.encounterExp/$scope.playerCount;
-        if($scope.monsterCount == 1){
+
+        if(totalMonsters == 1){
             $scope.encounterMultiplier = 1;
         } else if($scope.monsterCount == 2){
             $scope.encounterMultiplier = 1.5;
