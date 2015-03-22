@@ -27,12 +27,12 @@ dnd5EncApp.controller('calcCtrl', function($scope){
     $scope.calculate = function(){
         var arrayLevel = $scope.playerLevel - 1;
         var totalMonsters = 0;
-        for(var i = 0; i< playerGroups.length; i++){
-            $scope.easy = $scope.easy + $scope.playerGroups[i].count * $scope.easyLvlThresholds[arrayLevel];
+        angular.forEach(playGroups,function(players,key){
+            $scope.easy = $scope.easy + $scope.players.count * $scope.easyLvlThresholds[arrayLevel];
             //$scope.medium = $scope.medium+ $scope.playerCount * $scope.mediumLvlThresholds[arrayLevel];
             //$scope.hard = $scope.hard + $scope.playerCount * $scope.hardLvlThresholds[arrayLevel];
            // $scope.deadly = $scope.deadly + $scope.playerCount * $scope.deadlyLvlThresholds[arrayLevel];
-        }
+        },$scope);
         $scope.encounterExp = $scope.monsterCount * $scope.monsterExp;
         $scope.perPlayerExp =  $scope.encounterExp/$scope.playerCount;
 
