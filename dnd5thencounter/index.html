@@ -52,25 +52,42 @@
     <div class="row">
         <div class="col-lg-6" >
             <h2>Party</h2>
-            <form name="partyCalculation" class="form-inline">
-                <div class="form-group" ng-repeat="player in playerGroups">
-                    <label for="{{player.countId}}">Players</label>
-                    <input type="text" class="form-control" name="{{player.countId}}" maxlength="2" size="2" ng-model="player.count" ng-change="calculate()"/>
-                    <label for="{{player.levelId}}">Level</label>
-                    <input type="text" class="form-control" name="{{player.levelId}}" maxlength="2" size="2" ng-model="player.level" ng-change="calculate()"/>
-                    <button class="btn btn-failure" type="button" ng-click="removePlayerGroup($index)">Remove players</button>
+            <form name="partyCalculation">
+                <div class="form-group row" ng-repeat="players in playerGroups">
+                    <label class="col-sm-2 control-label" for="playerCount{{players.id}}">Players</label>
+                    <div class="col-sm-2">
+                        <input class="form-control" type="text" name="playerCount{{players.id}}" maxlength="2" size="2" ng-model="players.count" ng-change="calculate()"/>
+                    </div>
+                    <label class="col-sm-2 control-label" for="playerLevel{{players.id}}">Level</label>
+                    <div class="col-sm-2">
+                        <input class="form-control" type="text" name="playerLevel{{players.id}}" maxlength="2" size="2" ng-model="players.level" ng-change="calculate()"/>
+                    </div>
+                    <div class="col-sm-1">
+                        <button type="button" class="btn btn-danger" aria-label="Remove player group {{players.id}}" ng-click="removePlayerGroup($index)">
+                            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </button>
+                    </div>
                 </div>
-                <button class="btn btn-success" type="button" ng-click="addNewPlayerGroup()">Add players</button>
+                <button class="btn btn-success" type="button" ng-click="addNewPlayerGroup()">Add player group</button>
             </form>
             <h2>Monsters</h2>
-            <form name="monstersCalculation" class="form-inline">
-                <div class="form-group">
-                    <label for="monsterCount">Monsters</label>
-                    <input type="text" class="form-control" name="monster.count" maxlength="3" size="3" ng-model="monsterCount" ng-change="calculate()"/>
-                    <label for="monsterExp">Experience</label>
-                    <input type="text"class="form-control"  name="monster.exp" maxlength="6" size="6" ng-model="monsterExp" ng-change="calculate()"/>
-                    <button class="btn btn-success" type="button">Add monsters</button>
+            <form name="monstersCalculation">
+                <div class="form-group row" ng-repeat="monsters in monsterGroups">
+                    <label class="col-sm-2 control-label" for="monsterCount{{monsters.id}}">Monsters</label>
+                    <div class="col-sm-2">
+                        <input class="form-control" type="text" name="monsterCount{{monsters.id}}" maxlength="3" size="3" ng-model="monsters.count" ng-change="calculate()"/>
+                    </div>
+                    <label class="col-sm-2 control-label" for="monsterExp{{monsters.id}}">Experience</label>
+                    <div class="col-sm-2">
+                        <input class="form-control" type="text" name="monsterExp{{monsters.id}}" maxlength="6" size="6" ng-model="monsters.experience" ng-change="calculate()"/>
+                    </div>
+                    <div class="col-sm-1">
+                        <button type="button" class="btn btn-danger" aria-label="Remove monster group {{monsters.id}}" ng-click="removeMonsterGroup($index)">
+                            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </button>
+                    </div>
                 </div>
+                <button class="btn btn-success" type="button" ng-click="addNewMonsterGroup()">Add monster group</button>
             </form>
         </div><!-- /.col-lg-6 -->
         <div class="col-lg-6" ng-init="calculate()">
@@ -78,7 +95,9 @@
             <p>
                 <h3>General Experience</h3>
                 Encounter Difficulty: {{encounterDifficulty}}</br>
-                Per Player Exp: {{perPlayerExp}}
+                Per Player Exp: {{perPlayerExp}}</br>
+                Total Player: {{totalPlayerCount}}</br>
+                Total Monsters: {{totalMonsterCount}}
             </p>
             <p>
                 <h3>Experience Thresholds</h3>
@@ -90,7 +109,7 @@
             <p>
                 <h3>Encounter</h3>
                 Encounter Multiplier:{{encounterMultiplier}}</br>
-                Encounter Exp: {{encounterTotalExp}}</br>
+                Encounter Exp: {{encounterExp}}</br>
                 Encounter Threshold Comparison Exp: {{encounterCompExp}}
             </p>
         </div><!-- /.col-lg-6 -->
@@ -103,8 +122,8 @@
 <script src="../bs3.3.4/js/jquery-2.1.3.min.js"></script>
 <script src="../bs3.3.4/js/bootstrap.min.js"></script>
 <script src="../bs3.3.4/js/bootstrap-accessibility.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-aria.min.js"></script>
+<script src="../angular/angular.min.js"></script>
+<script src="../angular/angular-aria.min.js"></script>
 <script src="js/controllers.js"></script>
 </body>
 </html>
