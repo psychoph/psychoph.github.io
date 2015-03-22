@@ -4,40 +4,65 @@
 var dnd5EncApp  = angular.module('dnd5EncApp', ['ngAria']);
 
 dnd5EncApp.controller('calcCtrl', function($scope){
-    $scope.players = 3;
-    $scope.level = 1;
-    $scope.monsters = 3;
+    $scope.playerCount = 3;
+    $scope.playerLevel = 1;
+    $scope.monsterCount = 3;
     $scope.experience = 100;
     $scope.challengeRating = 1;
 
-    $scope.expThresholdByLevel = [25,50,75,125,250,300,350,450,550,600,800,1100,1250,1400,1600,2000,2100,2400,2800];
+    $scope.playerGroups = [{id: 'player1'}];
+    $scope.monsterGroups = [{id: 'monster1'}];
 
+    $scope.easyLvlThresholds = [25,50,75,125,250,300,350,450,550,600,800,1100,1250,1400,1600,2000,2100,2400,2800];
+    $scope.mediumLvlThresholds = [50,100,150,250,500,600,750,900,1100,1200,1600,200,2200,2500,2800,3200,3900,4200,4900,5700];
+    $scope.hardLvlThresholds = [75,150,225,375,750,900,1100,1400,1600,1900,2400,3000,3400,3800,4300,4800,5900,6300,7300,8500];
+    $scope.deadlyLvlThresholds = [100,200,400,500,1100,1400,1700,2100,2400,2800,3600,4500,5100,5700,6400,7200,8800,9500,10900,12700];
+    
     $scope.calculate = function(){
-        var arrayLevel = $scope.level - 1;
-        var levelEasy = $scope.expThresholdByLevel[arrayLevel];
-        if(arrayLevel != 6 && arrayLevel != 16){ // level 7 and 17 are odd and don't follow the formula
-            var levelMedium = $scope.expThresholdByLevel[arrayLevel]*2;
-        } else if(arrayLevel == 6) {
-            var levelMedium = 750;
+        var arrayLevel = $scope.playerLevel - 1;
+
+        $scope.easy = $scope.playerCount * $scope.easyLvlThresholds[arrayLevel];
+        $scope.medium = $scope.playerCount * $scope.mediumLvlThresholds[arrayLevel];
+        $scope.hard = $scope.playerCount * $scope.hardLvlThresholds[arrayLevel];
+        $scope.deadly = $scope.playerCount * $scope.deadlyLvlThresholds[arrayLevel];
+        $scope.encounterExp = $scope.monsterCount * $scope.monsterExp;
+        $scope.perPlayerExp =  $scope.encounterExp/$scope.playerCount;
+        if($scope.monsterCount == 1){
+            $scope.encounterMultiplier = 1;
+        } else if($scope.monsterCount == 2){
+            $scope.encounterMultiplier = 1.5;
+        } else if($scope.monsterCount <= 6 && $scope.monsterCount >= 3){
+            $scope.encounterMultiplier = 2;
+        } else if($scope.monsterCount <= 10 && $scope.monsterCount >= 7){
+            $scope.encounterMultiplier = 2.5;
+        } else if($scope.monsterCount <= 14 && $scope.monsterCount >= 11){
+            $scope.encounterMultiplier = 3;
         } else {
-            var levelMedium = 3900;
+            $scope.encounterMultiplier = 4;
         }
 
-        var levelHard = levelMedium + levelEasy;
-        if(arrayLevel < 4){
-            if(arrayLevel != 2){ // level 3 is off the formula
-                var levelDeadly = levelHard + levelMedium - levelEasy;
-            } else {
-                var levelDeadly = 400;
-            }
-        } else {
-            var levelDeadly = levelHard + levelMedium - (Math.ceil((levelEasy/2)/100)*100);
-        }
+        $scope.encounterCompExp = $scope.monsterCount * $scope.monsterExp * $scope.encounterMultiplier;
 
-        $scope.easy = $scope.players * levelEasy;
-        $scope.medium = $scope.players * levelMedium;
-        $scope.hard = $scope.players * levelHard;
-        $scope.deadly = $scope.players * levelDeadly;
-        $scope.math = $scope.monsters * $scope.experience;
+        if($scope.encounterCompExp > $scope.hard){
+            $scope.encounterDifficulty == 'Deadly';
+        } else if ($scope.encounterCompExp > $scope.medium && $scope.encounterCompExp <= $scope.hard){
+            $scope.encounterDifficulty == 'Hard';
+        } else if($scope.encounterCompExp > $scope.easy && $scope.encounterCompExp <= $scope.medium){
+            $scope.encounterDifficulty == 'Medium';
+        } else {
+            $scope.encounterDifficulty == 'Easy';
+        }
+    }
+
+    $scope.addNewPlayerGroup = function() {
+        var newItemNo = $scope.playerGroups.length+1;
+        $scope.playerGroups.push({'countId':'playerCount'+newItemNo,'levelId':'playerLevel'+newItemNo});
+    };
+    $scope.addNewMonsterGroup = function() {
+        var newItemNo = $scope.monsterGroups.length+1;
+        $scope.monsterGroups.push({'id':'monster'+newItemNo});
+    };
+    $scope.removePlayerGroup = function(index){
+        $scope.playerGroups.splice(index,1);
     }
 });

@@ -53,21 +53,22 @@
         <div class="col-lg-6" >
             <h2>Party</h2>
             <form name="partyCalculation" class="form-inline">
-                <div class="form-group">
-                    <label for="players">Players</label>
-                    <input type="text" class="form-control" name="players" maxlength="2" size="2" ng-model="players" ng-change="calculate()"/>
-                    <label for="level">Level</label>
-                    <input type="text" class="form-control" name="level" maxlength="2" size="2" ng-model="level" ng-change="calculate()"/>
-                    <button class="btn btn-success" type="button">Add players</button>
+                <div class="form-group" ng-repeat="player in playerGroups">
+                    <label for="{{player.countId}}">Players</label>
+                    <input type="text" class="form-control" name="{{player.countId}}" maxlength="2" size="2" ng-model="player.count" ng-change="calculate()"/>
+                    <label for="{{player.levelId}}">Level</label>
+                    <input type="text" class="form-control" name="{{player.levelId}}" maxlength="2" size="2" ng-model="player.level" ng-change="calculate()"/>
+                    <button class="btn btn-failure" type="button" ng-click="removePlayerGroup($index)">Remove players</button>
                 </div>
+                <button class="btn btn-success" type="button" ng-click="addNewPlayerGroup()">Add players</button>
             </form>
             <h2>Monsters</h2>
             <form name="monstersCalculation" class="form-inline">
                 <div class="form-group">
-                    <label for="monsters">Monsters</label>
-                    <input type="text" class="form-control" name="monsters" maxlength="3" size="3" ng-model="monsters" ng-change="calculate()"/>
-                    <label for="experience">Experience</label>
-                    <input type="text"class="form-control"  name="experience" maxlength="6" size="6" ng-model="experience" ng-change="calculate()"/>
+                    <label for="monsterCount">Monsters</label>
+                    <input type="text" class="form-control" name="monster.count" maxlength="3" size="3" ng-model="monsterCount" ng-change="calculate()"/>
+                    <label for="monsterExp">Experience</label>
+                    <input type="text"class="form-control"  name="monster.exp" maxlength="6" size="6" ng-model="monsterExp" ng-change="calculate()"/>
                     <button class="btn btn-success" type="button">Add monsters</button>
                 </div>
             </form>
@@ -76,10 +77,11 @@
             <h2>Results</h2>
             <p>
                 <h3>General Experience</h3>
-                Encounter Difficulty:
+                Encounter Difficulty: {{encounterDifficulty}}
+                Per Player Exp: {{perPlayerExp}}
             </p>
             <p>
-                <h3>Player Experience</h3>
+                <h3>Experience Thresholds</h3>
                 Easy: {{easy}}</br>
                 Medium: {{medium}}</br>
                 Hard: {{hard}}</br>
@@ -87,7 +89,9 @@
             </p>
             <p>
                 <h3>Encounter</h3>
-                math: {{math}}
+                Encounter Multiplier:{{encounterMultiplier}}
+                Encounter Exp: {{encounterTotalExp}}
+                Encounter Threshold Comparison Exp: {{encounterCompExp}}
             </p>
         </div><!-- /.col-lg-6 -->
     <!-- FOOTER -->
