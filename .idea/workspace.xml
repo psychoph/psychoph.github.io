@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\gmap\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\gmap\js\controllers.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\gmap\js\directives.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,27 +27,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="31" selection-start="0" selection-end="116770" vertical-scroll-proportion="-4.576923" vertical-offset="85" max-vertical-offset="3196">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="24" selection-start="111852" selection-end="112957" vertical-scroll-proportion="-17.846153" vertical-offset="1049" max-vertical-offset="2244">
+            <state line="23" column="0" selection-start="506" selection-end="506" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
+      <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="59" selection-start="0" selection-end="4136" vertical-scroll-proportion="0.7006237" vertical-offset="210" max-vertical-offset="1666">
+            <state line="28" column="0" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.508547" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
@@ -78,6 +67,7 @@
         <option value="$PROJECT_DIR$/gmap/js/directives.js" />
         <option value="$PROJECT_DIR$/gmap/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
   </component>
@@ -133,6 +123,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -176,14 +194,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1861" y="-8" width="1869" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -191,11 +209,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -215,9 +233,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="0" selection-end="116770" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="3196">
+        <state line="89" column="24" selection-start="111852" selection-end="112957" vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="2244">
           <folding />
         </state>
       </provider>
@@ -229,37 +247,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="0" selection-end="4136" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="0" selection-end="116770" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="3196">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="189" selection-start="113662" selection-end="113662" vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="2244">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="0" selection-end="4136" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="76" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="3196">
           <folding />
         </state>
       </provider>
@@ -271,21 +261,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="31" selection-start="1334" selection-end="1334" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="2618">
+        <state line="30" column="53" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1445">
           <folding />
         </state>
       </provider>
@@ -297,118 +275,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="66" selection-start="1596" selection-end="1596" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="53" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1445">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="66" selection-start="1596" selection-end="1596" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="53" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1445">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="48" selection-start="5722" selection-end="5722" vertical-scroll-proportion="0.0" vertical-offset="1104" max-vertical-offset="2278">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="51" selection-start="2207" selection-end="2207" vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1547">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="61" selection-start="3456" selection-end="3456" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1955">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="44" selection-start="3131" selection-end="3131" vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/embed.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="427" selection-end="427" vertical-scroll-proportion="0.22972973" vertical-offset="0" max-vertical-offset="11271">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="44" selection-start="224" selection-end="224" vertical-scroll-proportion="0.05374078" vertical-offset="0" max-vertical-offset="949" />
+        <state line="13" column="22" selection-start="427" selection-end="427" vertical-scroll-proportion="0.22972973" vertical-offset="0" max-vertical-offset="11271" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
@@ -416,28 +292,16 @@
         <state line="132" column="23" selection-start="3392" selection-end="3392" vertical-scroll-proportion="0.33264032" vertical-offset="1924" max-vertical-offset="8228" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="71" selection-end="71" vertical-scroll-proportion="0.036796536" vertical-offset="0" max-vertical-offset="924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="59" selection-start="0" selection-end="4136" vertical-scroll-proportion="0.7006237" vertical-offset="210" max-vertical-offset="1666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnd5thencounter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="0" selection-end="116770" vertical-scroll-proportion="-4.576923" vertical-offset="85" max-vertical-offset="3196">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="24" selection-start="111852" selection-end="112957" vertical-scroll-proportion="-17.846153" vertical-offset="1049" max-vertical-offset="2244">
+        <state line="23" column="0" selection-start="506" selection-end="506" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.508547" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
