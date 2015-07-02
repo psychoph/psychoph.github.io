@@ -4,7 +4,7 @@ email: jason@jasonhardin.com
 author: Jason Hardin
 description: "Blog about programming, video games, role-playing games, BBQ and DIY projects."
 url: "http://jasonhardin.com" # the base hostname & protocol for your site
-twitter_username: @JasonHardin8
+twitter_username: "@JasonHardin8"
 github_username: psychoph
 
 # Build settings
