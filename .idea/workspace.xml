@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.508547" vertical-offset="0" max-vertical-offset="936">
+            <state line="19" column="50" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.34994584" vertical-offset="0" max-vertical-offset="923">
               <folding />
             </state>
           </provider>
@@ -301,7 +300,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.508547" vertical-offset="0" max-vertical-offset="936">
+        <state line="19" column="50" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.34994584" vertical-offset="0" max-vertical-offset="923">
           <folding />
         </state>
       </provider>
