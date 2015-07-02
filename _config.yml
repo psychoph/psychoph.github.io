@@ -2,8 +2,7 @@
 title: String on a Finger
 email: jason@jasonhardin.com
 author: Jason Hardin
-description: > # this means to ignore newlines until "baseurl:"
-Blog about programming, video games, role-playing games, BBQ and DIY projects.
+description: "Blog about programming, video games, role-playing games, BBQ and DIY projects."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jasonhardin.com" # the base hostname & protocol for your site
 twitter_username: @JasonHardin8
