@@ -1,5 +1,5 @@
 .intro-header {
-    background: #149c82;
+    background: #2c3e50;
     background-image: url("../img/zenbg-1.png"), url("../img/zenbg-2.png");
     background-repeat: repeat-x, repeat;
     background-attachment: scroll;
@@ -13,11 +13,19 @@
 .rpg .intro-header{
     background-image: url("../img/rpg.jpg");
 }
+
+.logitechg13 .introheader {
+    background-image: url("../img/logitechg13.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.logitechg13 .intro-header .post-heading,
+.logitechg13 .intro-header .page-heading,
 .rpg .intro-header .post-heading,
 .rpg .intro-header .page-heading {
     background-color: rgba(44, 62, 80, 0.6);
 }
-
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
