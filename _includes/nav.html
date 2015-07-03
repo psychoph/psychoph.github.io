@@ -16,7 +16,7 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
+                    <a href="{{ site.baseurl }}/" {%if !page.title %} class="active" {% endif %}>Home</a>
                 </li>
                 {% for sitepage in site.pages %}
                 <li>
@@ -25,11 +25,6 @@
                 {% endfor %}
             </ul>
         </div>
-        <ul class="nav navbar-nav navbar-right">
-            <li><a href="../navbar/">Default</a></li>
-            <li class="active"><a href="./">Static top <span class="sr-only">(current)</span></a></li>
-            <li><a href="../navbar-fixed-top/">Fixed top</a></li>
-        </ul>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
