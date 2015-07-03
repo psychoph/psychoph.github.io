@@ -6,7 +6,7 @@ categories: Role-playing
 excerpt: "Test excerpt"
 excerpt-img: "/media/D&D-Transparent.png"
 author: "Jason Hardin"
-header-img: rpg.jpg
+header-img-class: rpg
 header-img-credit: "Daniele Muscetta"
 header-img-credit-url: "https://www.flickr.com/photos/dani3l3/"
 ---

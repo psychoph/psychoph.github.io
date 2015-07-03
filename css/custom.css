@@ -69,3 +69,11 @@
 .intro-header .post-heading .meta a {
     color: white;
 }
+
+.intro-header .rpg{
+    background-image: url("../img/rpg.png");
+}
+
+.intro-header .rpg:before{
+    opacity:0.5;
+}
