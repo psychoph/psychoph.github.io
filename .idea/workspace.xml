@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,7 +57,7 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="1" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.9465409" vertical-offset="571" max-vertical-offset="1275">
+            <state line="41" column="43" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.35849056" vertical-offset="469" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -543,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="1" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.9465409" vertical-offset="571" max-vertical-offset="1275">
+        <state line="41" column="43" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.35849056" vertical-offset="469" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
