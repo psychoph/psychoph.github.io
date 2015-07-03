@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-6">
-                <ul class="list-inline text-center">
+                <ul class="list-inline">
                     <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
                             <span class="fa-stack fa-lg">
@@ -46,7 +46,7 @@
                 </ul>
             </div>
             <div class="col-xs-6 ">
-                {% if page.pageclass == rpg %}
+                {% if page.pageclass == "rpg" %}
                     <span class="imagecredit">Header image by <a href="https://www.flickr.com/photos/dani3l3/">Daniele Muscetta</a></span>
                 {% endif %}
             </div>
