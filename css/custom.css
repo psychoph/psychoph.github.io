@@ -74,6 +74,6 @@
     background-image: url("../img/rpg.jpg");
 }
 
-.intro-header .rpg:before{
+.intro-header.rpg:before{
     opacity:0.5;
 }
