@@ -7,8 +7,6 @@ excerpt: "Test excerpt"
 excerpt-img: "/media/D&D-Transparent.png"
 author: "Jason Hardin"
 pageclass: rpg
-header-img-credit: "Daniele Muscetta"
-header-img-credit-url: "https://www.flickr.com/photos/dani3l3/"
 ---
 ![Dungeons and Dragons]({{ site.baseurl }}/media/Dungeons-Dragons-Transparent.png)
 
