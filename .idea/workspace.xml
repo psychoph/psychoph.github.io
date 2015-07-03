@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\ZenBG-1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\ZenBG-2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\githublogo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\twitterlogo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="" />
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
