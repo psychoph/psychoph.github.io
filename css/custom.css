@@ -1,6 +1,6 @@
 .intro-header {
     background: #149c82;
-    background-image: url("zenbg-1.png"), url("zenbg-2.png");
+    background-image: url("img/zenbg-1.png"), url("img/zenbg-2.png");
     background-repeat: repeat-x, repeat;
     background-attachment: scroll;
     -webkit-background-size: cover;
