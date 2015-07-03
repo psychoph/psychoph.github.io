@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
-      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\_posts\2015-07-01-welcome-to-jekyll.markdown" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" afterPath="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\about.md" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +28,7 @@
       <file leaf-file-name="2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="209" selection-end="209" vertical-scroll-proportion="0.14718615" vertical-offset="0" max-vertical-offset="924">
+            <state line="9" column="39" selection-start="249" selection-end="249" vertical-scroll-proportion="0.16558442" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
@@ -57,7 +49,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="12" selection-start="954" selection-end="954" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="952">
+            <state line="10" column="52" selection-start="369" selection-end="395" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -155,13 +147,13 @@
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown" />
         <option value="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
       </list>
     </option>
   </component>
@@ -639,6 +631,13 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="52" selection-start="369" selection-end="395" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="4" selection-start="1136" selection-end="1136" vertical-scroll-proportion="-29.423077" vertical-offset="0" max-vertical-offset="867">
@@ -646,16 +645,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="12" selection-start="954" selection-end="954" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="209" selection-end="209" vertical-scroll-proportion="0.14718615" vertical-offset="0" max-vertical-offset="924">
+        <state line="9" column="39" selection-start="249" selection-end="249" vertical-scroll-proportion="0.16558442" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
