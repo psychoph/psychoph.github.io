@@ -7,24 +7,16 @@
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-rss-square fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
                     {% if site.github_username %}
                     <li>
                         <a href="https://github.com/{{ site.github_username }}">
-                            <span class="icon icon-github">
-                                <img src="{{ "/img/githublogo.png" | prepend: site.baseurl }}">
-                            </span>
-                            <span class="username">{{ site.github_username }}</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/{{ site.github_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-github-square fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -33,17 +25,20 @@
                     {% if site.twitter_username %}
                     <li>
                         <a href="https://twitter.com/{{ site.twitter_username }}">
-                            <span class="icon icon-twitter">
-                                <img src="{{ "/img/twitterlogo.png" | prepend: site.baseurl }}">
-                            </span>
-                            <span class="username">{{ site.twitter_username }}</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/{{ site.twitter_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-twitter-square fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                    {% if site.googleplus_username %}
+                    <li>
+                        <a href="https://plus.google.com/{{ site.googleplus_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>

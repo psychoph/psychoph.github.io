@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -67,7 +66,7 @@
       <file leaf-file-name="footer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="25" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.5267094" vertical-offset="0" max-vertical-offset="1156">
+            <state line="9" column="58" selection-start="484" selection-end="484" vertical-scroll-proportion="0.16346154" vertical-offset="0" max-vertical-offset="1071">
               <folding />
             </state>
           </provider>
@@ -537,7 +536,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.5267094" vertical-offset="0" max-vertical-offset="1156">
+        <state line="9" column="58" selection-start="484" selection-end="484" vertical-scroll-proportion="0.16346154" vertical-offset="0" max-vertical-offset="1071">
           <folding />
         </state>
       </provider>
