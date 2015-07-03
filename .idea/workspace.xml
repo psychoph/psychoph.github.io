@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/disqus.html" afterPath="$PROJECT_DIR$/_includes/disqus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,7 +67,7 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="16" selection-start="1966" selection-end="1966" vertical-scroll-proportion="0.96465695" vertical-offset="381" max-vertical-offset="1428">
+            <state line="71" column="0" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.7702703" vertical-offset="466" max-vertical-offset="1428">
               <folding />
             </state>
           </provider>
@@ -639,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="16" selection-start="1966" selection-end="1966" vertical-scroll-proportion="0.96465695" vertical-offset="381" max-vertical-offset="1428">
+        <state line="71" column="0" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.7702703" vertical-offset="466" max-vertical-offset="1428">
           <folding />
         </state>
       </provider>

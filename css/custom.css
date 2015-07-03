@@ -70,8 +70,8 @@
     color: white;
 }
 
-.intro-header .rpg{
-    background-image: url("../img/rpg.png");
+.intro-header.rpg{
+    background-image: url("../img/rpg.jpg");
 }
 
 .intro-header .rpg:before{
