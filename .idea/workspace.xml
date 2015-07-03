@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,30 +30,9 @@
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="4" selection-start="958" selection-end="958" vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="748">
+            <state line="11" column="38" selection-start="379" selection-end="379" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="765">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disqus.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="4" selection-start="158" selection-end="158" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="459">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="41" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="578">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -67,7 +48,16 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="13" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.85862786" vertical-offset="466" max-vertical-offset="1428">
+            <state line="79" column="20" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.88357586" vertical-offset="493" max-vertical-offset="1513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -76,7 +66,7 @@
       <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="35" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-32.03846" vertical-offset="0" max-vertical-offset="1071">
+            <state line="48" column="43" selection-start="2216" selection-end="2216" vertical-scroll-proportion="-31.384615" vertical-offset="0" max-vertical-offset="1071">
               <folding />
             </state>
           </provider>
@@ -91,19 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="11" selection-start="828" selection-end="828" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="663">
+            <state line="11" column="20" selection-start="403" selection-end="421" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -142,14 +123,14 @@
         <option value="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/_includes/disqus.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
@@ -562,23 +543,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.2905983" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="30" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="158" selection-end="158" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="459">
           <folding />
         </state>
       </provider>
@@ -593,27 +560,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="14" selection-start="1113" selection-end="1113" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="4" selection-start="958" selection-end="958" vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="11" selection-start="828" selection-end="828" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="31" selection-start="1900" selection-end="1900" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="1156">
@@ -626,14 +572,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="35" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-32.03846" vertical-offset="0" max-vertical-offset="1071">
+        <state line="48" column="43" selection-start="2216" selection-end="2216" vertical-scroll-proportion="-31.384615" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="158" selection-end="158" vertical-scroll-proportion="0.12713675" vertical-offset="0" max-vertical-offset="936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="14" selection-start="1113" selection-end="1113" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="38" selection-start="379" selection-end="379" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="20" selection-start="403" selection-end="421" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="13" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.85862786" vertical-offset="466" max-vertical-offset="1428">
+        <state line="79" column="20" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.88357586" vertical-offset="493" max-vertical-offset="1513">
           <folding />
         </state>
       </provider>
