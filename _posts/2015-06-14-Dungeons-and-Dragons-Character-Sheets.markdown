@@ -4,8 +4,11 @@ title: "Dungeons and Dragons Character Sheets"
 date: 2015-06-14 08:48:00
 categories: Role-playing
 excerpt: "Test excerpt"
-excerpt_image: "/media/D&D-Transparent.png"
+excerpt-img: "/media/D&D-Transparent.png"
 author: "Jason Hardin"
+header-img: rpg.jpg
+header-img-credit: "Daniele Muscetta"
+header-img-credit-url: "https://www.flickr.com/photos/dani3l3/"
 ---
 ![Dungeons and Dragons]({{ site.baseurl }}/media/Dungeons-Dragons-Transparent.png)
 

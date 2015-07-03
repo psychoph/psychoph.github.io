@@ -7,7 +7,7 @@ description: "I'm Jason Hardin, Product Manager at Blackboard. This blog is my p
 <div class="container-fluid">
     <div class="row">
         <div class="col-xs-4">
-            <img src="/img/me.jpg" alt="">
+            <img src="/img/me.jpg" alt="" class="img-responsive">
         </div>
         <div class="col-xs-8">
             <ul class="list-unstyled">
@@ -38,11 +38,12 @@ description: "I'm Jason Hardin, Product Manager at Blackboard. This blog is my p
                 {% if site.googleplus_username %}
                 <li>
                     <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts">
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
-                                </span>
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
+                        </span>
                     </a>
+                    +{{ site.googleplus_username }}
                 </li>
                 {% endif %}
                 {% if site.linkedin_username %}

@@ -8,7 +8,7 @@ description: "Things I want to remember and share with the world"
         <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.excerpt_image %}
                 <div class="col-xs-12 col-sm-6">
-                    <img src="{{ post.excerpt_image | prepend: site.baseurl }}" alt="" class="img-responsive">
+                    <img src="{{ post.excerpt-img | prepend: site.baseurl }}" alt="" class="img-responsive">
                 </div>
             {% endif %}
             <div class="col-xs-12 {% if post.excerpt_image %} col-sm-6 {% endif %}">
@@ -20,14 +20,12 @@ description: "Things I want to remember and share with the world"
                         {{ post.subtitle }}
                     </h3>
                 {% endif %}
+                <span class="meta">Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 <p>
                     {{ post.excerpt }}
                 </p>
             </div>
         </a>
-    </div>
-    <div class="row">
-        <div class="post-meta col-xs-12">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</div>
     </div>
 </div>
 <hr>

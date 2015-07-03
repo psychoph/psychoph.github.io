@@ -7,7 +7,7 @@ url: "https://newblog.jasonhardin.com" # the base hostname & protocol for your s
 twitter_username: "@JasonHardin8"
 github_username: psychoph
 googleplus_username: JasonHardin
-linkedin_username:
+linkedin_username: jasonhardin
 
 # Build settings
 markdown: kramdown
