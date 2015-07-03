@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
+      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\ZenBG-1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\ZenBG-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\githublogo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\psychoph.github.io\img\twitterlogo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,7 +68,7 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="57" selection-start="98" selection-end="98" vertical-scroll-proportion="0.05345912" vertical-offset="0" max-vertical-offset="1292">
+            <state line="34" column="41" selection-start="935" selection-end="935" vertical-scroll-proportion="0.908805" vertical-offset="0" max-vertical-offset="1292">
               <folding />
             </state>
           </provider>
@@ -208,6 +212,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychoph.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -544,7 +562,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="57" selection-start="98" selection-end="98" vertical-scroll-proportion="0.05345912" vertical-offset="0" max-vertical-offset="1292">
+        <state line="34" column="41" selection-start="935" selection-end="935" vertical-scroll-proportion="0.908805" vertical-offset="0" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>
