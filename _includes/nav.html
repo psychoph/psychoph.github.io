@@ -15,9 +15,6 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="{{ site.baseurl }}/" {%if !page.title %} class="active" {% endif %}>Home</a>
-                </li>
                 {% for sitepage in site.pages %}
                 <li>
                     {% if sitepage.title %}<a href="{{ sitepage.url | prepend: site.baseurl }}" {%if sitepage.title == page.title %} class="active" {% endif %} > {{ sitepage.title }}</a>{% endif %}
