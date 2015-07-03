@@ -1,19 +1,16 @@
-<footer class="site-footer">
-
-    <div class="wrapper">
-
-        <h2 class="footer-heading">{{ site.title }}</h2>
-
-        <div class="footer-col-wrapper">
-            <div class="footer-col footer-col-1">
-                <ul class="contact-list">
-                    <li>{{ site.title }}</li>
-                    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                </ul>
-            </div>
-
-            <div class="footer-col footer-col-2">
-                <ul class="social-media-list">
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
                     {% if site.github_username %}
                     <li>
                         <a href="https://github.com/{{ site.github_username }}">
@@ -21,6 +18,14 @@
                                 <img src="{{ "/img/githublogo.png" | prepend: site.baseurl }}">
                             </span>
                             <span class="username">{{ site.github_username }}</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/{{ site.github_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
                         </a>
                     </li>
                     {% endif %}
@@ -32,6 +37,14 @@
                                 <img src="{{ "/img/twitterlogo.png" | prepend: site.baseurl }}">
                             </span>
                             <span class="username">{{ site.twitter_username }}</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
                         </a>
                     </li>
                     {% endif %}
