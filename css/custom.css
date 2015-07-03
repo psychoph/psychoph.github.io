@@ -10,18 +10,20 @@
     margin-bottom: 50px;
 }
 
-.intro-header.rpg{
+.rpg .intro-header{
     background-image: url("../img/rpg.jpg");
+}
+.rpg .intro-header .post-heading,
+.rpg .intro-header .page-heading {
+    background-color: rgba(44, 62, 80, 0.6);
 }
 
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-    background-color: rgba(44, 62, 80, 0.6);
     margin: 11vh 0;
     padding: 1em 0.75em;
     color: white;
-    width:65%;
 }
 
 .intro-header .site-heading,
@@ -66,11 +68,6 @@
 }
 
 @media only screen and (max-width: 768px) {
-    .intro-header .site-heading,
-    .intro-header .post-heading,
-    .intro-header .page-heading {
-        width:80%;
-    }
     .intro-header .site-heading h1,
     .intro-header .page-heading h1 {
         font-size: 50px;
@@ -79,5 +76,9 @@
     .intro-header .post-heading h1 {
         font-size: 40px;
     }
+}
+
+.rpg .imagecredit:before{
+    content: 'Header image by <a href="https://www.flickr.com/photos/dani3l3/">Daniele Muscetta</a>'
 }
 
