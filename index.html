@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<div class="home">
-
     <h1 class="page-heading">Posts</h1>
     {% for post in paginator.posts %}
     <div class="post-preview">
@@ -43,5 +41,3 @@ layout: page
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-
-

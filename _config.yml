@@ -6,6 +6,7 @@ description: "Blog about programming, video games, role-playing games, BBQ and D
 url: "https://newblog.jasonhardin.com" # the base hostname & protocol for your site
 twitter_username: "@JasonHardin8"
 github_username: psychoph
+googleplus_username: JasonHardin
 
 # Build settings
 markdown: kramdown
