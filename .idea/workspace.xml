@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,19 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="31" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
+            <state line="27" column="1" selection-start="767" selection-end="767" vertical-scroll-proportion="0.47713098" vertical-offset="0" max-vertical-offset="1598">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-09-07-Starforge-Logitech-G13-Profile.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-09-07-Starforge-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="66" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.31277058" vertical-offset="0" max-vertical-offset="924">
+            <state line="17" column="66" selection-start="1065" selection-end="1065" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -147,9 +144,9 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/_posts/2015-09-07-Starforge-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -640,13 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="223" selection-end="305" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="544">
@@ -664,12 +654,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="66" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.31277058" vertical-offset="0" max-vertical-offset="924">
+        <state line="17" column="66" selection-start="1065" selection-end="1065" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="1" selection-start="767" selection-end="767" vertical-scroll-proportion="0.47713098" vertical-offset="0" max-vertical-offset="1598">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
