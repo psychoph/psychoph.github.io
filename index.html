@@ -4,6 +4,11 @@ description: "Things I want to remember and share with the world"
 pageclass: main
 ---
 {% for post in paginator.posts %}
+
+{% capture thecycle1 %}{% cycle 'odd', 'even' %}{% endcapture %}
+{% if thecycle1 == 'odd' %}
+<div>echo something</div>
+{% endif %}
     {% capture thecycle %}
         {% cycle 1,2 %}
     {% endcapture %}
