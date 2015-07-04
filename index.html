@@ -3,7 +3,9 @@ layout: page
 description: "Things I want to remember and share with the world"
 ---
 {% for post in paginator.posts %}
-{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% capture thecycle %}
+        {% cycle 'odd', 'even' %}
+    {% endcapture %}
 <div class="post-preview {{ thecycle }}">
     <div class="row">
         {% if post.excerpt-img %}
