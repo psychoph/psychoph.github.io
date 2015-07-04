@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logitechg13.html" afterPath="$PROJECT_DIR$/logitechg13.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="logitechg13.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/logitechg13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="525" selection-end="525" vertical-scroll-proportion="0.18398269" vertical-offset="0" max-vertical-offset="924">
+            <state line="10" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.18398269" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
@@ -50,6 +51,15 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="63" selection-start="184" selection-end="184" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="34" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2193">
               <folding />
             </state>
           </provider>
@@ -93,7 +103,6 @@
         <option value="$PROJECT_DIR$/_posts/2015-09-07-Starforge-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/logitechg13.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -578,13 +588,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="21" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="510">
@@ -640,9 +643,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="34" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2193">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/logitechg13.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="525" selection-end="525" vertical-scroll-proportion="0.18398269" vertical-offset="0" max-vertical-offset="924">
+        <state line="10" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.18398269" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
