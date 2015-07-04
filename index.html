@@ -3,6 +3,7 @@ layout: page
 description: "Things I want to remember and share with the world"
 ---
 {% for post in paginator.posts %}
+        {{ post }}
 <div class="post-preview">
     <div class="row">
         {% if post.excerpt-img %}
