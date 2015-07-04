@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
-      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\logitechg13.html" afterPath="$PROJECT_DIR$/logitechg13.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logitechg13.markdown" afterPath="$PROJECT_DIR$/logitechg13.markdown" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,6 +34,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="logitechg13.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="27" selection-start="443" selection-end="443" vertical-scroll-proportion="0.12878788" vertical-offset="0" max-vertical-offset="924">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="24" selection-start="2518" selection-end="2518" vertical-scroll-proportion="0.8232848" vertical-offset="1027" max-vertical-offset="2074">
+            <state line="75" column="21" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
               <folding />
             </state>
           </provider>
@@ -100,6 +110,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/logitechg13.html" />
+        <option value="$PROJECT_DIR$/logitechg13.markdown" />
       </list>
     </option>
   </component>
@@ -550,23 +561,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="74" selection-start="682" selection-end="682" vertical-scroll-proportion="0.24153006" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="952">
           <folding />
         </state>
       </provider>
@@ -625,18 +622,35 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="142" selection-end="142" vertical-scroll-proportion="0.07367281" vertical-offset="0" max-vertical-offset="923">
+        <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="952">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="24" selection-start="2518" selection-end="2518" vertical-scroll-proportion="0.8232848" vertical-offset="1027" max-vertical-offset="2074">
+        <state line="75" column="21" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="27" selection-start="443" selection-end="443" vertical-scroll-proportion="0.12878788" vertical-offset="0" max-vertical-offset="924">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
