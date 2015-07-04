@@ -10,7 +10,7 @@ pageclass: main
 <div class="post-preview">
     <div class="row">
         this{{ thecycle }}this
-    {% if thecycle %}
+    {% if thecycle == true %}
         {% include excerpt_img.html %}
         {% include post_preview.html %}
     {% else %}
