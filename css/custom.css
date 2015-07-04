@@ -32,7 +32,6 @@
 
 .logitechg13 .intro-header {
     background-image: url("../img/logitechg13.png");
-
     -webkit-background-size: contain;
     -moz-background-size: contain;
     background-size: contain;
@@ -42,7 +41,7 @@
 }
 
 .programming .intro-header{
-    background-image: url("../img/programming.jpg");
+ /*background-image: url("../img/programming.jpg");*/
 }
 
 .main .intro-header .post-heading,
