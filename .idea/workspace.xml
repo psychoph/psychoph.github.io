@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post_preview.html" afterPath="$PROJECT_DIR$/_includes/post_preview.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="298" selection-end="298" vertical-scroll-proportion="0.19978632" vertical-offset="0" max-vertical-offset="936">
+            <state line="19" column="10" selection-start="516" selection-end="516" vertical-scroll-proportion="0.34508547" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
@@ -694,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="30" selection-start="298" selection-end="298" vertical-scroll-proportion="0.19978632" vertical-offset="0" max-vertical-offset="936">
+        <state line="19" column="10" selection-start="516" selection-end="516" vertical-scroll-proportion="0.34508547" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
