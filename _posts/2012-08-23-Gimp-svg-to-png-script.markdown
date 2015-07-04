@@ -2,7 +2,13 @@
 layout: post
 title:  "Gimp svg to png script"
 date:   2012-08-23 16:53:55
-categories: Code Commandline
+category: programming
+tags:
+  - image processing
+  - commandline
+  - programming
+  - imagemagik
+pageclass: programming
 ---
 
 Been working on icons for Moodlerooms mockups using Balsamiq and was pointed to [http://somerandomdude.com/work/iconic/](http://somerandomdude.com/work/iconic/) by a response to a comment I made.  Rather than reading the actual documentation after downloading the icons I looked for a way to convert the svg file to png files.  I then found http://porpoisehead.net/mysw/index.php?pgid=gimp_svg, which now seems defunct. While for gimp 2.2 I figured out the changes I needed to make, mostly to the -b option to be –batch= and the –batch-interpreter=plug-in-script-fu-eval. I never did get the shell script to work but ended up just using the shell for command that I fixed.  It looks like:

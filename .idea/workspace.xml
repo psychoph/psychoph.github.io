@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown" afterPath="$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" afterPath="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logitechg13.markdown" afterPath="$PROJECT_DIR$/logitechg13.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,16 +35,16 @@
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="765">
+            <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="-0.0" vertical-offset="85" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logitechg13.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="logitechg13.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="27" selection-start="443" selection-end="443" vertical-scroll-proportion="0.12878788" vertical-offset="0" max-vertical-offset="924">
+            <state line="7" column="18" selection-start="434" selection-end="434" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -46,21 +53,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="2012-08-23-Gimp-svg-to-png-script.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="952">
+            <state line="25" column="78" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="21" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
+            <state line="2" column="5" selection-start="23" selection-end="23" vertical-scroll-proportion="0.03628602" vertical-offset="0" max-vertical-offset="937">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-10-31-Mass-conversion-to-grayscale-images.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="88" selection-end="206" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-09-07-Starforge-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -92,8 +123,6 @@
         <option value="$PROJECT_DIR$/css/syntax.css" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -106,11 +135,14 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/logitechg13.html" />
+        <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
         <option value="$PROJECT_DIR$/logitechg13.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -205,24 +237,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="profiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -291,7 +305,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="SearchEverywhereHistory" value="$scope.easyLevelThreshholds&#10;at" />
+    <property name="SearchEverywhereHistory" value="&#10;$scope.easyLevelThreshholds&#10;at" />
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
@@ -365,11 +379,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -389,6 +403,37 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="27" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="21" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="18" selection-start="941" selection-end="959" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="425">
@@ -504,56 +549,29 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="623" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="941" selection-end="959" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="505" selection-end="505" vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/google_analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="207" selection-end="207" vertical-scroll-proportion="0.09081197" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
+        <state line="5" column="31" selection-start="207" selection-end="207" vertical-scroll-proportion="0.09081197" vertical-offset="0" max-vertical-offset="936" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="52" selection-start="875" selection-end="875" vertical-scroll-proportion="0.2905983" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
+        <state line="16" column="52" selection-start="875" selection-end="875" vertical-scroll-proportion="0.2905983" vertical-offset="0" max-vertical-offset="936" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="9" column="30" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="158" selection-end="158" vertical-scroll-proportion="0.12713675" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
+        <state line="7" column="4" selection-start="158" selection-end="158" vertical-scroll-proportion="0.12713675" vertical-offset="0" max-vertical-offset="936" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="73" selection-end="73" vertical-scroll-proportion="0.09081197" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
+        <state line="5" column="27" selection-start="73" selection-end="73" vertical-scroll-proportion="0.09081197" vertical-offset="0" max-vertical-offset="936" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/media/profiles/starforge_keyboard_profile.png">
@@ -563,28 +581,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="74" selection-start="682" selection-end="682" vertical-scroll-proportion="0.24153006" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="13" column="74" selection-start="682" selection-end="682" vertical-scroll-proportion="0.24153006" vertical-offset="0" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="96" selection-start="1734" selection-end="1734" vertical-scroll-proportion="-19.0" vertical-offset="135" max-vertical-offset="1105">
-          <folding />
-        </state>
+        <state line="37" column="96" selection-start="1734" selection-end="1734" vertical-scroll-proportion="-19.0" vertical-offset="135" max-vertical-offset="1105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="57" selection-start="116" selection-end="116" vertical-scroll-proportion="0.09081197" vertical-offset="0" max-vertical-offset="936">
+        <state line="5" column="57" selection-start="116" selection-end="116" vertical-scroll-proportion="0.09081197" vertical-offset="0" max-vertical-offset="936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="241" selection-end="292" vertical-scroll-proportion="0.072649576" vertical-offset="51" max-vertical-offset="1173" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="60" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.478355" vertical-offset="0" max-vertical-offset="924">
+        <state line="7" column="20" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
@@ -594,39 +621,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="56" selection-start="984" selection-end="984" vertical-scroll-proportion="0.27597404" vertical-offset="0" max-vertical-offset="924">
+        <state line="8" column="5" selection-start="137" selection-end="137" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="265" selection-end="287" vertical-scroll-proportion="0.14718615" vertical-offset="0" max-vertical-offset="924">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="241" selection-end="292" vertical-scroll-proportion="0.072649576" vertical-offset="51" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
@@ -636,21 +636,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="87" selection-end="87" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="765">
+        <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="952">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="27" selection-start="443" selection-end="443" vertical-scroll-proportion="0.12878788" vertical-offset="0" max-vertical-offset="924">
+        <state line="6" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logitechg13.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="434" selection-end="434" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="88" selection-end="206" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="78" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="23" selection-end="23" vertical-scroll-proportion="0.03628602" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

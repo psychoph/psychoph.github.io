@@ -2,7 +2,14 @@
 layout: post
 title: "Starforge Logitech G13 Profile"
 date: 2014-09-07 15:32:00
-categories: Logitech G13 Video Games
+categories:
+  - logitech g13
+  - video games
+tags:
+  - starforge
+  - video games
+  - logitech g13
+  - profile
 excerpt: "A profile for the Logitech G13 that can be used with the game Starforge"
 excerpt-img: "media/starforgelogo.jpg"
 author: "Jason Hardin"

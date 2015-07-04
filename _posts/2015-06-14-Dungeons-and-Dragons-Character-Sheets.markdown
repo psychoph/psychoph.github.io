@@ -2,7 +2,10 @@
 layout: post
 title: "Dungeons and Dragons Character Sheets"
 date: 2015-06-14 08:48:00
-categories: Role-playing
+category: Role-playing
+tags:
+  - Dungeons and Dragons
+  - Character Sheets
 excerpt: "Test excerpt"
 excerpt-img: "/media/D&D-Transparent.png"
 author: "Jason Hardin"
