@@ -10,22 +10,39 @@
     margin-bottom: 50px;
 }
 
+.intro-header .post-heading,
+.intro-header .page-heading {
+    background-color: rgba(44, 62, 80, 0.6);
+}
+
 .rpg .intro-header{
     background-image: url("../img/rpg.jpg");
+}
+
+.bbq .intro-header{
+    background-image: url("../img/bbq.jpg");
 }
 
 .logitechg13 .intro-header {
     background-image: url("../img/logitechg13.png");
     background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
     background-position: right;
+    background-position-y: 50px;
 }
 
-.logitechg13 .intro-header .post-heading,
-.logitechg13 .intro-header .page-heading,
-.rpg .intro-header .post-heading,
-.rpg .intro-header .page-heading {
-    background-color: rgba(44, 62, 80, 0.6);
+.programming .intro-header{
+    background-image: url("../img/programming.jpg");
 }
+
+.main .intro-header .post-heading,
+.main .intro-header .page-heading {
+    background-color: transparent;
+}
+
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
