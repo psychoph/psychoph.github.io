@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/excerpt_img.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/post_preview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="21" selection-start="870" selection-end="870" vertical-scroll-proportion="0.599359" vertical-offset="0" max-vertical-offset="936">
+            <state line="11" column="19" selection-start="287" selection-end="287" vertical-scroll-proportion="0.19978632" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
@@ -374,7 +370,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -715,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="21" selection-start="870" selection-end="870" vertical-scroll-proportion="0.599359" vertical-offset="0" max-vertical-offset="936">
+        <state line="11" column="19" selection-start="287" selection-end="287" vertical-scroll-proportion="0.19978632" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
