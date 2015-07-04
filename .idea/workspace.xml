@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logitechg13.html" afterPath="$PROJECT_DIR$/logitechg13.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="logitechg13.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/logitechg13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.18398269" vertical-offset="0" max-vertical-offset="924">
+            <state line="8" column="20" selection-start="479" selection-end="479" vertical-scroll-proportion="0.14718615" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
@@ -112,8 +111,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/logitechg13.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/logitechg13.html" />
       </list>
     </option>
   </component>
@@ -652,7 +651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logitechg13.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.18398269" vertical-offset="0" max-vertical-offset="924">
+        <state line="8" column="20" selection-start="479" selection-end="479" vertical-scroll-proportion="0.14718615" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
