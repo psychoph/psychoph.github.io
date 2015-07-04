@@ -5,12 +5,12 @@ pageclass: main
 ---
 {% for post in paginator.posts %}
     {% capture thecycle %}
-        {% cycle true, false %}
+        {% cycle 'odd', 'even' %}
     {% endcapture %}
 <div class="post-preview">
     <div class="row">
         this{{ thecycle }}this
-    {% if thecycle == true %}
+    {% if thecycle == 'odd' %}
         {% include excerpt_img.html %}
         {% include post_preview.html %}
     {% else %}
