@@ -9,6 +9,7 @@
     margin-bottom: 50px;
 }
 
+.intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
     background-color: rgba(44, 62, 80, 0.6);
