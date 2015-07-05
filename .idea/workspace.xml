@@ -37,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="18" selection-start="374" selection-end="374" vertical-scroll-proportion="0.30876067" vertical-offset="0" max-vertical-offset="936">
+            <state line="6" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="833">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_preview.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="7" selection-start="446" selection-end="446" vertical-scroll-proportion="0.21794872" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
@@ -677,13 +686,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="446" selection-end="446" vertical-scroll-proportion="0.21794872" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/excerpt_img.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="11" selection-start="237" selection-end="237" vertical-scroll-proportion="0.10897436" vertical-offset="0" max-vertical-offset="936">
@@ -693,7 +695,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="374" selection-end="374" vertical-scroll-proportion="0.30876067" vertical-offset="0" max-vertical-offset="936">
+        <state line="6" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="7" selection-start="446" selection-end="446" vertical-scroll-proportion="0.21794872" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>

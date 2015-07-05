@@ -6,15 +6,14 @@ pageclass: main
 {% assign thecycle = true %}
 
 {% for post in paginator.posts %}
-{% if thecycle %}
-    {% assign thecycle = false %}
-{% else %}
-    {% assign thecycle = true %}
-{% endif %}
+    {% if thecycle %}
+        {% assign thecycle = false %}
+    {% else %}
+        {% assign thecycle = true %}
+    {% endif %}
 
 <div class="post-preview">
     <div class="row">
-        this{{ thecycle }}this
     {% if thecycle %}
         {% include excerpt_img.html %}
         {% include post_preview.html %}
