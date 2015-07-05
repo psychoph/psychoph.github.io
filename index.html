@@ -3,19 +3,19 @@ layout: page
 description: "Things I want to remember and share with the world"
 pageclass: main
 ---
-{% for post in paginator.posts %}
+{% assign thecycle = true %}
 
-{% capture thecycle1 %}{% cycle 'odd', 'even' %}{% endcapture %}
-{% if thecycle1 == 'odd' %}
-<div>echo something</div>
+{% for post in paginator.posts %}
+{% if thecycle %}
+    {% assign thecycle = false %}
+{% else %}
+    {% assign thecycle = true %}
 {% endif %}
-    {% capture thecycle %}
-        {% cycle 1,2 %}
-    {% endcapture %}
+
 <div class="post-preview">
     <div class="row">
         this{{ thecycle }}this
-    {% if thecycle < 2 %}
+    {% if thecycle %}
         {% include excerpt_img.html %}
         {% include post_preview.html %}
     {% else %}
