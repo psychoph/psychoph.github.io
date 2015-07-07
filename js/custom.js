@@ -1,10 +1,10 @@
-function togglePost() {
+function togglePost(post) {
     event.preventDefault();
-    $(this).closest('.post').children('.post-content').slideToggle();
-    $(this).closest(".post").children('.post-preview').toggle();
+    post.closest('.post').children('.post-content').slideToggle();
+    post.closest(".post").children('.post-preview').toggle();
 }
 
-$('.post-read-more').click(togglePost());
-$('.post-close').click(togglePost());
-$('.post-content-header').click(togglePost());
-$('.post-preview-header').click(togglePost());
+$('.post-read-more').click(function(){togglePost($(this));});
+$('.post-close').click(function(){togglePost($(this));});
+$('.post-content-header').click(function(){togglePost($(this));});
+$('.post-preview-header').click(function(){togglePost($(this));});
