@@ -11,6 +11,8 @@
     </a>
     <span class="meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
     <p>
+        {{post}}
         {{ post.excerpt }}
+        <div class="readmore">Read More</div>
     </p>
 </div>
