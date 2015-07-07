@@ -7,6 +7,8 @@ category: "logitech g13"
 ---
 If you want to download all of the <a href="http://gaming.logitech.com/en-us/product/g13-advanced-gameboar">Logitech G13</a> profiles you can grab them <a href="/media/profiles/game_profiles.zip">here</a>. Otherwise review the list below of all of the Logitech G13 profiles I have created.
 
+{% assign thecycle = true %}
+
 {% for post in site.tags[page.category] %}
     {{ include post.html }}
 {% endfor %}
