@@ -5,50 +5,11 @@ description: "All Logitech G13 custom profiles created by Jason Hardin"
 pageclass: logitechg13
 category: "logitech g13"
 ---
-If you want to download all of the <a href="http://gaming.logitech.com/en-us/product/g13-advanced-gameboar">Logitech G13</a> profiles you can grab them <a href="/media/profiles/game_profiles.zip">here</a>. Otherwise review the list below of all of the Logitech G13 profiles I have created.
-
+<h2>All Profiles</h2>
+<p>If you want to download all of the <a href="http://gaming.logitech.com/en-us/product/g13-advanced-gameboar">Logitech G13</a> profiles you can grab them <a href="/media/profiles/game_profiles.zip">here</a>. Otherwise review the list below of all of the Logitech G13 profiles I have created.</p>
+<hr>
 {% assign thecycle = true %}
 
 {% for post in site.categories[page.category] %}
-{% if thecycle %}
-{% assign thecycle = false %}
-{% else %}
-{% assign thecycle = true %}
-{% endif %}
-
-<div class="post">
-    <div class="row post-content">
-        <div class="col-xs-12">
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-content-header">
-                <h2 class="post-title">
-                    {{ post.title }}
-                </h2>
-                {% if post.subtitle %}
-                <h3 class="post-subtitle">
-                    {{ post.subtitle }}
-                </h3>
-                {% endif %}
-            </a>
-            <span class="meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
-            <hr>
-            {{ post.content }}
-            <hr>
-            <a class="post-close" href="#">
-                <i class="fa fa-3x fa-times"></i><br>
-                <small>Close</small>
-            </a>
-        </div>
-    </div>
-
-    <div class="row post-preview">
-        {% if thecycle %}
-        {% include excerpt_img.html %}
-        {% include post_preview.html %}
-        {% else %}
-        {% include post_preview.html %}
-        {% include excerpt_img.html %}
-        {% endif %}
-    </div>
-</div>
-<hr>
+    {% include post.html %}
 {% endfor %}

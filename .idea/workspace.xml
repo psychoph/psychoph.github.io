@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logitechg13.html" afterPath="$PROJECT_DIR$/logitechg13.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="logitechg13.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="logitechg13.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/logitechg13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1456" selection-end="1456" vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="1020">
+            <state line="15" column="0" selection-start="616" selection-end="616" vertical-scroll-proportion="0.2827051" vertical-offset="0" max-vertical-offset="902">
               <folding />
             </state>
           </provider>
@@ -55,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="30" selection-start="2621" selection-end="2621" vertical-scroll-proportion="0.86994535" vertical-offset="190" max-vertical-offset="1105">
+            <state line="58" column="30" selection-start="2621" selection-end="2621" vertical-scroll-proportion="-30.615385" vertical-offset="190" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -118,7 +118,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="103" selection-end="131" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="544">
+            <state line="8" column="4" selection-start="171" selection-end="194" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
@@ -171,13 +171,13 @@
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/logitechg13.html" />
         <option value="$PROJECT_DIR$/_includes/excerpt_img.html" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/logitechg13.html" />
       </list>
     </option>
   </component>
@@ -730,28 +730,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="103" selection-end="131" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="1219" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="782">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logitechg13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1456" selection-end="1456" vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
@@ -805,6 +788,13 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="30" selection-start="2621" selection-end="2621" vertical-scroll-proportion="-30.615385" vertical-offset="190" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="80" selection-start="833" selection-end="880" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="833">
@@ -812,11 +802,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="30" selection-start="2621" selection-end="2621" vertical-scroll-proportion="0.86994535" vertical-offset="190" max-vertical-offset="1105">
+        <state line="8" column="4" selection-start="171" selection-end="194" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logitechg13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="616" selection-end="616" vertical-scroll-proportion="0.2827051" vertical-offset="0" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
