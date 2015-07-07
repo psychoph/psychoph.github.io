@@ -12,15 +12,24 @@ pageclass: main
         {% assign thecycle = true %}
     {% endif %}
 
-<div class="post-preview">
+<div class="post">
     <div class="row">
-    {% if thecycle %}
-        {% include excerpt_img.html %}
-        {% include post_preview.html %}
-    {% else %}
-        {% include post_preview.html %}
-        {% include excerpt_img.html %}
-    {% endif %}
+        <div class="post-content col-xs-12 hide">
+            {{ post.content }}
+            <div class="close-post">
+                <span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span>
+                Close
+            </div>
+        </div>
+        <div class="post-preview"></div>
+            {% if thecycle %}
+                {% include excerpt_img.html %}
+                {% include post_preview.html %}
+            {% else %}
+                {% include post_preview.html %}
+                {% include excerpt_img.html %}
+            {% endif %}
+        </div>
     </div>
 </div>
 <hr>
