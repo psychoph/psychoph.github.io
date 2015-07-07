@@ -5,22 +5,12 @@ description: "All Logitech G13 custom profiles created by Jason Hardin"
 pageclass: logitechg13
 ---
 If you want to download all of the <a href="http://gaming.logitech.com/en-us/product/g13-advanced-gameboar">Logitech G13</a> profiles you can grab them <a href="/media/profiles/game_profiles.zip">here</a>. Otherwise review the list below of all of the Logitech G13 profiles I have created.
+{{ site.posts }}
+
 {% capture myposts %}
-    {{ site.posts | where: 'category', "logitech g13" }}
-{%endcapture%}
+    {{ site.posts | where: 'category', 'logitech g13' }}
+{% endcapture %}
 
 {% for post in myposts %}
- {{ post }}
-{% endfor %}
-
-{% for category in site.categories %}
-<li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-        {% for posts in category %}
-        {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-        {% endfor %}
-    </ul>
-</li>
+    {{ include post.html }}
 {% endfor %}
