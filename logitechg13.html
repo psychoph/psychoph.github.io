@@ -10,6 +10,5 @@ If you want to download all of the <a href="http://gaming.logitech.com/en-us/pro
 {% assign thecycle = true %}
 
 {% for post in site.categories[page.category] %}
-{{post}}
-    {{ include post.html }}
+<p> {{ post }} </p>
 {% endfor %}
