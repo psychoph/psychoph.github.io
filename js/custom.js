@@ -1,4 +1,4 @@
-$(".read-more").click(function() {
+$(".post-read-more").click(function() {
     $(this).closest(".post-preview").hide();
     $(this).closest(".post").children('.post-content').show();
 });

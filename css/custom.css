@@ -120,3 +120,24 @@
     }
 }
 
+.post .post-content {
+    display: none;
+}
+
+.post-read-more {
+    display: inline-block;
+    padding: 0.3em 3%;
+    padding: 0.25em 1em;
+    margin: 0 .4em;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+.cost-close {
+    padding: 0.5em;
+    font-size: 1.5em;
+    line-height: 1;
+    text-decoration: none !important;
+    display: block;
+    text-align: center;
+}

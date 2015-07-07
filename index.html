@@ -13,13 +13,14 @@ pageclass: main
     {% endif %}
 
 <div class="post">
-    <div class="row post-content hide">
+    <div class="row post-content">
         <div class="col-xs-12">
             {{ post.content }}
-            <div class="close-post">
-                <span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span>
+            <hr>
+            <a class="post-close" href="#">
+                <i class="fa fa-times"></i>
                 Close
-            </div>
+            </a>
         </div>
     </div>
 
