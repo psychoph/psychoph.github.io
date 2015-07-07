@@ -15,6 +15,17 @@ pageclass: main
 <div class="post">
     <div class="row post-content">
         <div class="col-xs-12">
+            <h2 class="post-title">
+                {{ post.title }}
+            </h2>
+            {% if post.subtitle %}
+            <h3 class="post-subtitle">
+                {{ post.subtitle }}
+            </h3>
+            {% endif %}
+            </a>
+            <span class="meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
+            <hr>
             {{ post.content }}
             <hr>
             <a class="post-close" href="#">
