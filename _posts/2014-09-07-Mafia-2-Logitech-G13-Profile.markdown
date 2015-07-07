@@ -11,7 +11,7 @@ tags:
   - logitech g13
   - profile
 excerpt: "A profile for the Logitech G13 that can be used with the game Mafia 2"
-excerpt-img: "{{ site.url }}/media/logos/Mafia2logo.jpg"
+excerpt-img: "media/logos/Mafia2logo.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
 ---
