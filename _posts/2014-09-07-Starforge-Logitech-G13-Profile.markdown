@@ -11,7 +11,7 @@ tags:
   - logitech g13
   - profile
 excerpt: "A profile for the Logitech G13 that can be used with the game Starforge"
-excerpt-img: "media/logos/starforgelogo.jpg"
+excerpt-img: "/media/logos/starforgelogo.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
 ---

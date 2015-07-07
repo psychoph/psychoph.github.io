@@ -7,7 +7,7 @@ tags:
   - Dungeons and Dragons
   - Character Sheets
 excerpt: "Test excerpt"
-excerpt-img: "media/logos/D&D-Transparent.png"
+excerpt-img: "/media/logos/D&D-Transparent.png"
 author: "Jason Hardin"
 pageclass: rpg
 ---
