@@ -1,11 +1,10 @@
-$(".post-read-more").click(function() {
+function togglePost() {
     event.preventDefault();
-    $(this).closest(".post-preview").hide();
-    $(this).closest(".post").children('.post-content').slideToggle();
-});
+    $(this).closest('.post').children('.post-content').slideToggle();
+    $(this).closest(".post").children('.post-preview').toggle();
+}
 
-$('.post-close').click(function() {
-    event.preventDefault();
-    $(this).closest(".post-content").slideToggle();
-    $(this).closest(".post").children('.post-preview').show();
-});
+$('.post-read-more').click(togglePost());
+$('.post-close').click(togglePost());
+$('.post-content-header').click(togglePost());
+$('.post-preview-header').click(togglePost());
