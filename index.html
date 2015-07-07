@@ -13,15 +13,17 @@ pageclass: main
     {% endif %}
 
 <div class="post">
-    <div class="row">
-        <div class="post-content col-xs-12 hide">
+    <div class="row post-content hide">
+        <div class="col-xs-12">
             {{ post.content }}
             <div class="close-post">
                 <span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span>
                 Close
             </div>
         </div>
-        <div class="post-preview"></div>
+    </div>
+
+    <div class="row post-preview">
             {% if thecycle %}
                 {% include excerpt_img.html %}
                 {% include post_preview.html %}
@@ -29,7 +31,6 @@ pageclass: main
                 {% include post_preview.html %}
                 {% include excerpt_img.html %}
             {% endif %}
-        </div>
     </div>
 </div>
 <hr>
