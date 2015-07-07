@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logitechg13.html" afterPath="$PROJECT_DIR$/logitechg13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +28,7 @@
       <file leaf-file-name="logitechg13.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/logitechg13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="4" selection-start="582" selection-end="582" vertical-scroll-proportion="0.25785482" vertical-offset="0" max-vertical-offset="923">
+            <state line="7" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.12892741" vertical-offset="0" max-vertical-offset="923">
               <folding />
             </state>
           </provider>
@@ -711,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logitechg13.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="582" selection-end="582" vertical-scroll-proportion="0.25785482" vertical-offset="0" max-vertical-offset="923">
+        <state line="7" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.12892741" vertical-offset="0" max-vertical-offset="923">
           <folding />
         </state>
       </provider>
