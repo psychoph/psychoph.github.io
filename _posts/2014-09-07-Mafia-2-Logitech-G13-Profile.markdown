@@ -11,12 +11,12 @@ tags:
   - logitech g13
   - profile
 excerpt: "A profile for the Logitech G13 that can be used with the game Mafia 2"
-excerpt-img: "media/Mafia2logo.jpg"
+excerpt-img: "media/logos/Mafia2logo.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
 ---
 
-![Mafia 2](/media/Mafia2logo.jpg){: .img-responsive .center-block }
+![Mafia 2](/media/logos/Mafia2logo.jpg){: .img-responsive .center-block }
 
 [Mafia 2](http://www.mafia2game.com/) is a pretty fun game. It is a lot like Grand Theft Auto only set in the 50s and probably with a lot less car jacking. The [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) works really well for the game since it is a third person shooter. I made a profile for the Logitech G13 that has worked well for the game. It is a basic FPS style profile with a few extra keys added to the game specifically for climbing, hostering, crouching anc covering. Below is an image of the keyboard layout for the profile.
 

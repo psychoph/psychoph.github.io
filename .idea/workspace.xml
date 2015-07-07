@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/credits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\media\D&amp;D-Transparent.png" afterPath="$PROJECT_DIR$/media/logos/D&amp;D-Transparent.png" />
+      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\media\Dungeons-Dragons-Transparent.png" afterPath="$PROJECT_DIR$/media/logos/Dungeons-Dragons-Transparent.png" />
+      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\media\Mafia2logo.jpg" afterPath="$PROJECT_DIR$/media/logos/Mafia2logo.jpg" />
+      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\media\starforgelogo.jpg" afterPath="$PROJECT_DIR$/media/logos/starforgelogo.jpg" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,12 +44,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="16" selection-start="760" selection-end="760" vertical-scroll-proportion="0.40064102" vertical-offset="84" max-vertical-offset="1207">
+            <state line="27" column="16" selection-start="760" selection-end="760" vertical-scroll-proportion="-7.230769" vertical-offset="271" max-vertical-offset="1207">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="41" selection-start="49" selection-end="49" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="37" selection-start="316" selection-end="316" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-09-07-Starforge-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="26" selection-start="302" selection-end="302" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="24" selection-start="387" selection-end="387" vertical-scroll-proportion="0.33887044" vertical-offset="0" max-vertical-offset="903">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -52,10 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <file leaf-file-name="credits.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/credits.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="43" selection-start="2153" selection-end="2153" vertical-scroll-proportion="-22.923077" vertical-offset="186" max-vertical-offset="1173">
+            <state line="3" column="42" selection-start="254" selection-end="318" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="170">
               <folding />
             </state>
           </provider>
@@ -115,9 +173,6 @@
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2015-09-07-Starforge-Logitech-G13-Profile.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown" />
         <option value="$PROJECT_DIR$/logitechg13.markdown" />
         <option value="$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown" />
@@ -127,9 +182,14 @@
         <option value="$PROJECT_DIR$/_includes/excerpt_img.html" />
         <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/credits.html" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
       </list>
     </option>
   </component>
@@ -317,6 +377,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\psychoph.github.io\media\logos" />
       <recent name="D:\dev\psychoph.github.io\img" />
       <recent name="D:\dev\psychoph.github.io\bs3.3.4\css" />
     </key>
@@ -365,14 +426,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24114583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24114583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -404,20 +465,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="55" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1105">
@@ -611,30 +658,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="595" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="137" selection-end="137" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="5" selection-start="23" selection-end="23" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="136" />
@@ -694,26 +717,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logitechg13.html">
+    <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="496" selection-end="496" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+        <state line="2" column="8" selection-start="133" selection-end="438" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="43" selection-start="2153" selection-end="2153" vertical-scroll-proportion="-22.923077" vertical-offset="186" max-vertical-offset="1173">
+        <state line="51" column="42" selection-start="2309" selection-end="2309" vertical-scroll-proportion="-26.846153" vertical-offset="169" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/credits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="42" selection-start="254" selection-end="318" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="170">
           <folding />
         </state>
       </provider>
@@ -725,18 +745,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="133" selection-end="438" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="374">
+        <state line="10" column="3" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/logitechg13.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="760" selection-end="760" vertical-scroll-proportion="0.40064102" vertical-offset="84" max-vertical-offset="1207">
+        <state line="8" column="37" selection-start="496" selection-end="496" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="760" selection-end="760" vertical-scroll-proportion="-7.230769" vertical-offset="271" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="41" selection-start="49" selection-end="49" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="316" selection-end="316" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="26" selection-start="302" selection-end="302" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="24" selection-start="387" selection-end="387" vertical-scroll-proportion="0.33887044" vertical-offset="0" max-vertical-offset="903">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
