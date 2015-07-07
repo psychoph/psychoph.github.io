@@ -140,3 +140,10 @@
     display: block;
     text-align: center;
 }
+.post-close small{
+    display: block;
+    text-align: center;
+    line-height: 1;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
