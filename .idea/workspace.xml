@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
@@ -36,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="35" selection-start="509" selection-end="509" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="1020">
+            <state line="20" column="43" selection-start="517" selection-end="517" vertical-scroll-proportion="0.36324787" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -63,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="24" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.66424114" vertical-offset="1554" max-vertical-offset="2516">
+            <state line="129" column="24" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.0" vertical-offset="1554" max-vertical-offset="2516">
               <folding />
             </state>
           </provider>
@@ -121,8 +119,8 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -718,16 +716,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="35" selection-start="509" selection-end="509" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="1020">
+        <state line="129" column="24" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.0" vertical-offset="1554" max-vertical-offset="2516">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="24" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.66424114" vertical-offset="1554" max-vertical-offset="2516">
+        <state line="20" column="43" selection-start="517" selection-end="517" vertical-scroll-proportion="0.36324787" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
