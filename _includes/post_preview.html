@@ -9,7 +9,9 @@
         </h3>
         {% endif %}
     </a>
-    <span class="post-preview-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
+    <div class="post-preview-meta">
+        Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}
+    </div>
     <p class="post-preview-text">
         {{ post.excerpt }}
     </p>
