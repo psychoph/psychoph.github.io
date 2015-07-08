@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post_preview.html" afterPath="$PROJECT_DIR$/_includes/post_preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-04-29-Operation-Flashpoint-Dragon-Rising-Logitech-G13-Profile.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-06-09-PHP-CLI-5.3-on-Godaddy-Shared-Hosting-when-SSHed-in.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-06-11-Angularjs-Apache-Rewrite-Rule-for-HTML5Mode.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-06-22-Titanfall-Logitech-G13-Profile.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-07-10-Spec-Ops-The-Line-Logitech-G13-Profile.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\dev\psychoph.github.io\media\profiles\stargforge.xml" afterPath="$PROJECT_DIR$/media/profiles/starforge.xml" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,49 +31,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="excerpt_img.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/excerpt_img.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="91" selection-start="200" selection-end="200" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="17" selection-start="3305" selection-end="3305" vertical-scroll-proportion="0.0" vertical-offset="1707" max-vertical-offset="2686">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0756396" vertical-offset="0" max-vertical-offset="899">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown">
+      <file leaf-file-name="2014-07-10-Spec-Ops-The-Line-Logitech-G13-Profile.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-07-10-Spec-Ops-The-Line-Logitech-G13-Profile.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="78" selection-start="310" selection-end="310" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="510">
+            <state line="24" column="14" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.44155845" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_preview.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
+      <file leaf-file-name="2014-06-22-Titanfall-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-06-22-Titanfall-Logitech-G13-Profile.markdown">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="413" selection-end="413" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="408">
+            <state line="18" column="65" selection-start="488" selection-end="488" vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -89,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/dnd5thencounter/js/controller.js" />
         <option value="$PROJECT_DIR$/bs3.3.4/js/bootstrap-accessibility.min.js" />
         <option value="$PROJECT_DIR$/dnd5thencounter/js/controllers.js" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -136,6 +114,11 @@
         <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/_posts/2014-06-11-Angularjs-Apache-Rewrite-Rule-for-HTML5Mode.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-06-09-PHP-CLI-5.3-on-Godaddy-Shared-Hosting-when-SSHed-in.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-04-29-Operation-Flashpoint-Dragon-Rising-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-06-22-Titanfall-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-07-10-Spec-Ops-The-Line-Logitech-G13-Profile.markdown" />
       </list>
     </option>
   </component>
@@ -252,49 +235,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psychoph.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,36 +346,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="65" selection-start="0" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="952" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="21" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2074">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="941" selection-end="959" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-10-31-Mass-conversion-to-grayscale-images.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="6" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="816" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-08-23-Gimp-svg-to-png-script.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425" />
@@ -684,7 +595,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="413" selection-end="413" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="408">
+        <state line="12" column="8" selection-start="413" selection-end="413" vertical-scroll-proportion="0.21794872" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
@@ -694,7 +605,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="78" selection-start="310" selection-end="310" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="510">
+        <state line="13" column="78" selection-start="310" selection-end="310" vertical-scroll-proportion="0.2391775" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
@@ -716,6 +627,56 @@
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="21" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0756396" vertical-offset="0" max-vertical-offset="899">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-06-11-Angularjs-Apache-Rewrite-Rule-for-HTML5Mode.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="497" selection-end="527" vertical-scroll-proportion="0.2943723" vertical-offset="0" max-vertical-offset="924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-06-09-PHP-CLI-5.3-on-Godaddy-Shared-Hosting-when-SSHed-in.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="99" selection-start="313" selection-end="313" vertical-scroll-proportion="0.2391775" vertical-offset="0" max-vertical-offset="924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-04-29-Operation-Flashpoint-Dragon-Rising-Logitech-G13-Profile.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="255" selection-end="255" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-06-22-Titanfall-Logitech-G13-Profile.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="65" selection-start="488" selection-end="488" vertical-scroll-proportion="-12.24" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-10-Spec-Ops-The-Line-Logitech-G13-Profile.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="14" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.44155845" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
