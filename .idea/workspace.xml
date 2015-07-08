@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c8cc26-459f-45ab-88fa-69faa72c6cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-10-The-Bureau-Xcom-Declassified-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-10-The-Bureau-Xcom-Declassified-Logitech-G13-Profile.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" afterPath="$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/excerpt_img.html" afterPath="$PROJECT_DIR$/_includes/excerpt_img.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post_preview.html" afterPath="$PROJECT_DIR$/_includes/post_preview.html" />
     </list>
     <ignored path="psychoph.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,31 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
+      <file leaf-file-name="excerpt_img.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/excerpt_img.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="77" selection-start="94" selection-end="94" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="1219" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="782">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_preview.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="60" selection-start="131" selection-end="150" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="374">
+            <state line="3" column="91" selection-start="200" selection-end="200" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
@@ -61,31 +39,16 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="21" selection-start="2784" selection-end="2784" vertical-scroll-proportion="0.89160466" vertical-offset="1167" max-vertical-offset="2618">
+            <state line="151" column="20" selection-start="3308" selection-end="3308" vertical-scroll-proportion="0.8939709" vertical-offset="1707" max-vertical-offset="2686">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
+      <file leaf-file-name="post_preview.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="77" selection-start="258" selection-end="258" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="629">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-10-The-Bureau-Xcom-Declassified-Logitech-G13-Profile.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-07-10-The-Bureau-Xcom-Declassified-Logitech-G13-Profile.markdown">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="57" selection-start="74" selection-end="74" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="510">
+            <state line="11" column="34" selection-start="386" selection-end="403" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -133,11 +96,9 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_includes/credits.html" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_includes/excerpt_img.html" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Starforge-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Mafia-2-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -149,6 +110,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-09-07-Tom-Clancys-Ghost-Recon-Phantoms-Logitech-G13-Profile.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-10-The-Bureau-Xcom-Declassified-Logitech-G13-Profile.markdown" />
+        <option value="$PROJECT_DIR$/_includes/excerpt_img.html" />
+        <option value="$PROJECT_DIR$/_includes/post_preview.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
@@ -603,11 +566,6 @@
         <state line="10" column="0" selection-start="442" selection-end="442" vertical-scroll-proportion="0.17671518" vertical-offset="0" max-vertical-offset="962" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/excerpt_img.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="229" selection-end="229" vertical-scroll-proportion="0.10897436" vertical-offset="0" max-vertical-offset="936" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="10" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
@@ -679,22 +637,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="77" selection-start="258" selection-end="258" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-10-The-Bureau-Xcom-Declassified-Logitech-G13-Profile.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="57" selection-start="74" selection-end="74" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1219" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
@@ -709,23 +664,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post.html">
+    <entry file="file://$PROJECT_DIR$/_includes/excerpt_img.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1219" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="782">
+        <state line="3" column="91" selection-start="200" selection-end="200" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-14-Dungeons-and-Dragons-Character-Sheets.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="103" selection-start="1028" selection-end="1041" vertical-scroll-proportion="0.27597404" vertical-offset="0" max-vertical-offset="924">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post_preview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="60" selection-start="131" selection-end="150" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="374">
+        <state line="11" column="34" selection-start="386" selection-end="403" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="21" selection-start="2784" selection-end="2784" vertical-scroll-proportion="0.89160466" vertical-offset="1167" max-vertical-offset="2618">
+        <state line="151" column="20" selection-start="3308" selection-end="3308" vertical-scroll-proportion="0.8939709" vertical-offset="1707" max-vertical-offset="2686">
           <folding />
         </state>
       </provider>
