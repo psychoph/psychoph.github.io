@@ -8,7 +8,7 @@ tags:
   - rpg
   - Dungeons and Dragons
   - Character Sheets
-excerpt: "I have had the pleasure of role-playing in the [Dungeons and dragons](http://dnd.wizards.com/) using the 5th edition rules for the last 3 months now with my regular gaming group. One of the things that bugged me about the game was the character sheet. It just wasn’t setup to provide the information you needed during play in one sheet or two with spell casters. A larger portions of the first page of most character sheets contain information you don’t need to reference that often like your character’s religion or class or background. Stuff you probably have memorized because it is easy to know, or information you use every time there is a new player in the group."
+excerpt: "I have had the pleasure of role-playing in the Dungeons and dragons using the 5th edition rules for the last 3 months now with my regular gaming group. One of the things that bugged me about the game was the character sheet. It just wasn’t setup to provide the information you needed during play in one sheet or two with spell casters. A larger portions of the first page of most character sheets contain information you don’t need to reference that often like your character’s religion or class or background. Stuff you probably have memorized because it is easy to know, or information you use every time there is a new player in the group."
 excerpt-img: "/media/logos/D&D-Transparent.png"
 author: "Jason Hardin"
 pageclass: rpg

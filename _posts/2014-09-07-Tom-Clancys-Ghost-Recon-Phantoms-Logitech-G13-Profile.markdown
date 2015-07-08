@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tom Clancy’s Ghost Recon Online Logitech G13 Profile"
+title: "I created a Logitech G13 profile for Tom Clancy’s Ghost Recon Online."
 date: 2014-09-07 18:50:00
 categories:
   - logitech g13
