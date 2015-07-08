@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Recipes"
+description: "Recipes and BBQ projects that I have created and want to remember and share"
+pageclass: bbq
+category: bbq
+---
+
+{% assign thecycle = true %}
+
+{% for post in site.categories[page.category] %}
+{% include post.html %}
+{% endfor %}

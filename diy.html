@@ -1,0 +1,12 @@
+---
+layout: page
+title: "DIY Projects"
+description: "Do it your self projects that I have created and want to share with the world"
+pageclass: diy
+category: diy
+---
+{% assign thecycle = true %}
+
+{% for post in site.categories[page.category] %}
+{% include post.html %}
+{% endfor %}
