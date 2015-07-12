@@ -153,6 +153,7 @@
 }
 
 .post-preview-img{
-  background: #18bc9c no-repeat center center;
+  background: transparent no-repeat center center;
+  background-size:cover;
   min-height: 300px;
 }
