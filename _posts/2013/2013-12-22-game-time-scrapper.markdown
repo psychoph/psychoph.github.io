@@ -89,10 +89,11 @@ function onOpen() {
 
 The Google Apps code loops through the JSON records from the game time scrapper and then compares the records with the rows of the spreadsheet. If I didn’t find a game with that name it creates one with the calculations that I do. The columns for the spread sheet are:
 
-# Game name
-# Cost
-# hours played
-# Cost per hour
-# Hours to play to reach 1 dollar per hour
-# Hours to play to reach 50 cents per hour
+1. Game name
+1. Cost
+1. hours played
+1. Cost per hour
+1. Hours to play to reach 1 dollar per hour
+1. Hours to play to reach 50 cents per hour
+
 I set the cost to $1k just to highlight the row for me and identify I need to update it with the actual cost of the game. Usually I just end up copying the game name to an existing record and rerun the script.

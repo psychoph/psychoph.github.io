@@ -11,7 +11,7 @@ tags:
   - video games
   - logitech g13
   - profile
-excerpt: ""
+excerpt: "I bought the Humble Bundle for the next two weeks and one of the games that came with it is Spec Ops the Line. I made a Logitech G13 profile for it because I don’t like playing anything that is a shooting game with a game pad."
 excerpt-img: "/media/logos/specopstheline.png"
 author: "Jason Hardin"
 pageclass: logitechg13
