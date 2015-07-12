@@ -24,12 +24,29 @@ sharing: true
 <!-- Post Content -->
 <hr>
 <article>
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12">
-      {{ content }}
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        {{ content }}
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-xs-12">
+        {% if page.sharing %}
+          {% include sharing.html %}
+        {% endif %}
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-xs-12">
+        <!--  Disqus comments -->
+        {% if page.comments %}
+          {% include disqus.html %}
+        {% endif %}
+      </div>
     </div>
   </div>
-</div>
 </article>
 <hr>
