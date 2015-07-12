@@ -1,31 +1,25 @@
 
-    <div class="col-xs-2"></div>
-    <div class="col-xs-8">
-      <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-      <script>
-        ! function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0],
-            p = /^http:/.test(d.location) ? 'http' : 'https';
-          if (!d.getElementById(id)) {
-            js = d.createElement(s);
-            js.id = id;
-            js.src = p + '://platform.twitter.com/widgets.js';
-            fjs.parentNode.insertBefore(js, fjs);
-          }
-        }(document, 'script', 'twitter-wjs');
-      </script>
-      <!-- Place this tag in your head or just before your close body tag. -->
-      <script src="https://apis.google.com/js/platform.js" async defer></script>
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+  ! function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      p = /^http:/.test(d.location) ? 'http' : 'https';
+    if (!d.getElementById(id)) {
+      js = d.createElement(s);
+      js.id = id;
+      js.src = p + '://platform.twitter.com/widgets.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }
+  }(document, 'script', 'twitter-wjs');
+</script>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
 
-      <!-- Place this tag where you want the share button to render. -->
-      <div class="g-plus" data-action="share"></div>
-    </div>
-  </div>
-  <div class="col-xs-2"></div>
-</div>
+<!-- Place this tag where you want the share button to render. -->
+<div class="g-plus" data-action="share"></div>
 
 <h4>Share This Post</h4>
-<ul class="list-unstyled">
+<ul class="list-inline">
   <li>
     <a id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=JasonHardin8" target="_blank" title="Share this post on Twitter" onclick="_gaq.push(['_trackEvent', 'Share', 'Twitter', window.location.pathname]);">
       <span class="fa-stack fa-2x">
