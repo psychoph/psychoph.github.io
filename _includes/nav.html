@@ -17,7 +17,9 @@
       <ul class="nav navbar-nav navbar-right">
         {% for sitepage in site.pages %}
         <li>
-          {% if sitepage.title %}<a href="{{ sitepage.url | prepend: site.baseurl }}" {%if sitepage.title==p age.title %} class="active" {% endif %}> {{ sitepage.title }}</a>{% endif %}
+          {% if sitepage.title %}
+          <a href="{{ sitepage.url | prepend: site.baseurl }}" {%if sitepage.title==page.title %} class="active" {% endif %}> {{ sitepage.title }}</a>
+          {% endif %}
         </li>
         {% endfor %}
       </ul>
