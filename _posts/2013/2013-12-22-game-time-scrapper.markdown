@@ -11,7 +11,7 @@ You can download the game time scrapper code from github at https://github.com/p
 
 Once I got the game time scrapper script working I created the following Google Apps script:
 
-{% highlight js lineno %}
+{% highlight js linenos %}
 /**
  * Retrieves all the rows in the active spreadsheet that contain data and logs the
  * values for each row.
