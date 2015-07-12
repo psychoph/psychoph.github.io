@@ -30,23 +30,23 @@ sharing: true
         {{ content }}
       </div>
     </div>
+    {% if page.sharing %}
     <hr>
     <div class="row">
       <div class="col-xs-12">
-        {% if page.sharing %}
           {% include sharing.html %}
-        {% endif %}
       </div>
     </div>
+    {% endif %}
+      {% if page.comments %}
     <hr>
     <div class="row">
       <div class="col-xs-12">
         <!--  Disqus comments -->
-        {% if page.comments %}
           {% include disqus.html %}
-        {% endif %}
       </div>
     </div>
+    {% endif %}
   </div>
 </article>
 <hr>
