@@ -154,6 +154,6 @@
 
 .post-preview-img{
   background: transparent no-repeat center center;
-  background-size:cover;
+  background-size:contain;
   min-height: 300px;
 }
