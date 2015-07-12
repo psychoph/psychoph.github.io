@@ -2,7 +2,7 @@
 layout: post
 title: "Batman Arkham City Logitech G13 Profile"
 date: "2014-01-25 18:07"
-excerpt:"I finished Batman Arkham Asylum and started Batman Arkham City and the controls changed enough that I needed to create a new Logitech G13 profile."
+excerpt: "I finished Batman Arkham Asylum and started Batman Arkham City and the controls changed enough that I needed to create a new Logitech G13 profile."
 excerpt-img: "/media/logos/batman_arkham_city.jpg"
 author: Jason Hardin
 pageclass: logitechg13
