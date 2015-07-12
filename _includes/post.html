@@ -14,8 +14,38 @@
         {% endif %}
       </a>
       <span class="meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
-      <hr> {{ post.content }}
       <hr>
+      {{ post.content }}
+      <hr>
+
+      <h4>Share This Post</h4>
+      <ul class="list-unstyled">
+        <li>
+          <a id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=JasonHardin8" target="_blank" title="Share this post on Twitter" onclick="_gaq.push(['_trackEvent', 'Share', 'Twitter', window.location.pathname]);">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-twitter-square fa-stack-1x"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a class="social-share-element" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook" onclick="_gaq.push(['_trackEvent', 'Share', 'Facebook', window.location.pathname]);">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-facebook-square fa-stack-1x"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a class="social-share-element" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus" onclick="_gaq.push(['_trackEvent', 'Share', 'GooglePlus', window.location.pathname]);">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-google-plus-square fa-stack-1x"></i>
+            </span>
+          </a>
+        </li>
+      </div>
+      <hr />
       <a class="post-close" href="#">
         <i class="fa fa-3x fa-times"></i>
         <br>
@@ -26,7 +56,7 @@
   <a href="{{ post.url | prepend: site.url }}">
     <div class="row post-preview">
       {% if thecycle %}
-        {% include excerpt_img.html %} 
+        {% include excerpt_img.html %}
         {% include post_preview.html %}
       {% else %}
         {% include post_preview.html %}
