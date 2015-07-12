@@ -17,6 +17,11 @@
       <hr>
       {{ post.content }}
       <hr>
+      {% include sharing.html %}
+      <hr>
+      <!--  Disqus comments -->
+      {% include disqus.html %}
+      <hr>
       <a class="post-close" href="#">
         <i class="fa fa-3x fa-times"></i>
         <br>

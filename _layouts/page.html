@@ -24,11 +24,20 @@ layout: default
       {{ content }}
     </div>
   </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      {% include sharing.html %}
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      <!--  Disqus comments -->
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
+    </div>
+  </div>
 </div>
-
 <hr>
-
-<!--  Disqus comments -->
-{% if page.comments %}
-  {% include disqus.html %} 
-{% endif %}

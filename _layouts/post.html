@@ -21,16 +21,29 @@ comments: true
 </header>
 
 <!-- Post Content -->
-<article>
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        {{ content }}
-        <hr>
-        {% include sharing.html %}
-      </div>
+
+<hr>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      {{ content }}
     </div>
   </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      {% include sharing.html %}
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      <!--  Disqus comments -->
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
+    </div>
+  </div>
+</div>
 </article>
-
 <hr>

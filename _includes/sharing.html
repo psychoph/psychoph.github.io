@@ -1,5 +1,4 @@
-<div class="container">
-  <div class="row ">
+
     <div class="col-xs-2"></div>
     <div class="col-xs-8">
       <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
@@ -31,7 +30,7 @@
     <a id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=JasonHardin8" target="_blank" title="Share this post on Twitter" onclick="_gaq.push(['_trackEvent', 'Share', 'Twitter', window.location.pathname]);">
       <span class="fa-stack fa-2x">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-twitter-square fa-stack-1x"></i>
+        <i class="fa fa-twitter-square fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
@@ -39,15 +38,15 @@
     <a class="social-share-element" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook" onclick="_gaq.push(['_trackEvent', 'Share', 'Facebook', window.location.pathname]);">
       <span class="fa-stack fa-2x">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-facebook-square fa-stack-1x"></i>
+        <i class="fa fa-facebook-square fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
   <li>
-    <a class="social-share-element" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus" onclick="_gaq.push(['_trackEvent', 'Share', 'GooglePlus', window.location.pathname]);">
+    <a class="social-share-element" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus" onclick="_gaq.push(['_trackEvent', 'Share', 'GooglePlus', window.location.pathname]);" data-action="share">
       <span class="fa-stack fa-2x">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-google-plus-square fa-stack-1x"></i>
+        <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
