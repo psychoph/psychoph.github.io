@@ -151,3 +151,8 @@
     margin-bottom: 1em;
     font-size: 12px;
 }
+
+.post-preview-img{
+  background: #18bc9c no-repeat center center;
+  min-height: 300px;
+}
