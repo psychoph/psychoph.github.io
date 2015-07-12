@@ -1,41 +1,37 @@
-{% if thecycle %}
-    {% assign thecycle = false %}
-{% else %}
-    {% assign thecycle = true %}
-{% endif %}
+{% if thecycle %} {% assign thecycle = false %} {% else %} {% assign thecycle = true %} {% endif %}
 
 <div class="post">
-    <div class="row post-content">
-        <div class="col-xs-12">
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-content-header">
-                <h2 class="post-title">
-                    {{ post.title }}
-                </h2>
-                {% if post.subtitle %}
-                <h3 class="post-subtitle">
-                    {{ post.subtitle }}
-                </h3>
-                {% endif %}
-            </a>
-            <span class="meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
-            <hr>
-            {{ post.content }}
-            <hr>
-            <a class="post-close" href="#">
-                <i class="fa fa-3x fa-times"></i><br>
-                <small>Close</small>
-            </a>
-        </div>
-    </div>
-<a href="{{ post.url | prepend: site.url }}">
-    <div class="row post-preview">
-        {% if thecycle %}
-            {% include excerpt_img.html %}
-            {% include post_preview.html %}
-        {% else %}
-            {% include post_preview.html %}
-            {% include excerpt_img.html %}
+  <div class="row post-content">
+    <div class="col-xs-12">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-content-header">
+        <h2 class="post-title">
+          {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+          {{ post.subtitle }}
+        </h3>
         {% endif %}
+      </a>
+      <span class="meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>
+      <hr> {{ post.content }}
+      <hr>
+      <a class="post-close" href="#">
+        <i class="fa fa-3x fa-times"></i>
+        <br>
+        <small>Close</small>
+      </a>
+    </div>
+  </div>
+  <a href="{{ post.url | prepend: site.url }}">
+    <div class="row post-preview">
+      {% if thecycle %}
+        {% include excerpt_img.html %} 
+        {% include post_preview.html %}
+      {% else %}
+        {% include post_preview.html %}
+        {% include excerpt_img.html %}
+      {% endif %}
     </div>
   </a>
 </div>

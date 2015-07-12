@@ -6,73 +6,102 @@ pageclass: main
 ---
 
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-xs-4">
-            <img src="/img/me.jpg" alt="" class="img-responsive">
-        </div>
-        <div class="col-xs-8">
-            <ul class="list-unstyled">
-                {% if site.github_username %}
-                <li>
-                    <a href="https://github.com/{{ site.github_username }}">
-                        <span class="fa-stack fa-2x">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-github-square fa-stack-1x fa-inverse"></i>
-                        </span>
-                        {{ site.github_username }}
-                    </a>
-                </li>
-                {% endif %}
-
-                {% if site.twitter_username %}
-                <li>
-                    <a href="https://twitter.com/{{ site.twitter_username }}">
-                        <span class="fa-stack fa-2x">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-twitter-square fa-stack-1x fa-inverse"></i>
-                        </span>
-                        {{ site.twitter_username }}
-                    </a>
-                </li>
-                {% endif %}
-
-                {% if site.googleplus_username %}
-                <li>
-                    <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts">
-                        <span class="fa-stack fa-2x">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
-                        </span>
-                    +{{ site.googleplus_username }}
-                    </a>
-                </li>
-                {% endif %}
-                {% if site.linkedin_username %}
-                <li>
-                    <a href="https://www.linkedin.com/in/{{site.linkedin_username}}">
-                        <span class="fa-stack fa-2x">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-linkedin-square fa-stack-1x fa-inverse"></i>
-                        </span>
-                        {{site.linkedin_username}}
-                    </a>
-                </li>
-                {% endif %}
-            </ul>
-        </div>
+  <div class="row">
+    <div class="col-xs-4">
+      <img src="/img/me.jpg" alt="" class="img-responsive">
     </div>
-    <div class="row">
-        <div class="col-xs-12">
-            I am the Senior Product Manager for Open Source Solutions at <a href="http://www.moodlerooms.com">Moodlerooms</a> a subsidiary of <a href="http://www.blackboard.com">Blackboard</a>. I have been programming for more than 15 years and have experience with the following programming languages:
-            <ul>
-                <li>JavaScript</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>PHP</li>
-                <li>Java</li>
-                <li>C++</li>
-            </ul>
-            This site is my personal blog and represents only my opinions and hobbies not those of my employer. The blog is here to house my personal projects for role-playing, video games, programming, DIY and cooking. I also like to post notes here about things I learned during my programming experiences at work or with personal projects. I often times write posts on answers to problems that caused me some headaches or time to resolve. For me the resolution is the key and the blog post is there to keep me from repeating the same mistake twice.
-        </div>
+    <div class="col-xs-4">
+      <h3>Social Profiles</h3>
+      <ul class="list-unstyled">
+        {% if site.github_username %}
+        <li>
+          <a href="https://github.com/{{ site.github_username }}">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-github-square fa-stack-1x fa-inverse"></i>
+            </span>
+            {{ site.github_username }}
+          </a>
+        </li>
+        {% endif %}
+        {% if site.twitter_username %}
+        <li>
+          <a href="https://twitter.com/{{ site.twitter_username }}">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-twitter-square fa-stack-1x fa-inverse"></i>
+            </span>
+            {{ site.twitter_username }}
+          </a>
+        </li>
+        {% endif %}
+        {% if site.googleplus_username %}
+        <li>
+          <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
+            </span>
+            +{{ site.googleplus_username }}
+          </a>
+        </li>
+        {% endif %}
+        {% if site.linkedin_username %}
+        <li>
+          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-linkedin-square fa-stack-1x fa-inverse"></i>
+            </span>
+            {{site.linkedin_username}}
+          </a>
+        </li>
+        {% endif %}
+      </ul>
     </div>
+    <div class="col-xs-4">
+      <h3>Video Game Profiles</h3>
+      <ul class="list-unstyled">
+        {% if site.steam_id %}
+        <li>
+          <a href="http://steamcommunity.com/id/{{site.steam_id}}">
+            <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-steam-square fa-stack-1x fa-inverse"></i>
+            </span>
+            {{site.steam_id}}
+          </a>
+        </li>
+        {% endif %}
+        {% if site.psn_id %}
+        <li>
+          <a href="http://us.playstation.com/playstation/psn/visit/profiles/{{site.psn_id}}"><img src="http://fp.profiles.us.playstation.com/playstation/psn/pid/{{site.psn_id}}.png" width="230" height="155" border="0" /></a>
+        </li>
+        {% endif %}
+        {% if site.raptr_id %}
+        <li>
+          <a href="http://raptr.com/{{site.raptr_id}}?src=em_all"><img alt="Raptr Gamercard" src="http://raptr.com/badge/{{site.raptr_id}}/fs_overall.png" style="border: none;"></a>
+        </li>
+        {% endif %}
+
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      I am the Senior Product Manager for Open Source Solutions at <a href="http://www.moodlerooms.com">Moodlerooms</a> a subsidiary of <a href="http://www.blackboard.com">Blackboard</a>. I have been programming for more than 15 years and have experience
+      with the following programming languages:
+      <ul>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>PHP</li>
+        <li>Java</li>
+        <li>C++</li>
+      </ul>
+      This site is my personal blog and represents only my opinions and hobbies not those of my employer. The blog is here to house my personal projects for role-playing, video games, programming, DIY and cooking. I also like to post notes here about things
+      I learned during my programming experiences at work or with personal projects. I often times write posts on answers to problems that caused me some headaches or time to resolve. For me the resolution is the key and the blog post is there to keep
+      me from repeating the same mistake twice.
+    </div>
+  </div>
 </div>
