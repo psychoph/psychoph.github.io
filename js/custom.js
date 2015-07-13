@@ -1,5 +1,3 @@
-var _gaq = _gaq || [];
-
 (function() {
   var s = document.createElement('script');
   s.async = true;
