@@ -5,7 +5,7 @@ date: "2014-01-01 19:16"
 excerpt: "A friend bought me a copy for Kerbal Space Program for the holiday season. Naturally i created a Logitech G13 profile for it."
 excerpt-img: "/media/logos/kerbal_space_program.png"
 author: Jason Hardin
-pageclass: logitchg13
+pageclass: logitechg13
 tags:
   - profile
   - logitech g13
