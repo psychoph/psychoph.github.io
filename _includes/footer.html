@@ -11,34 +11,6 @@
               </span>
             </a>
           </li>
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="fa-stack fa-2x">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github-square fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %} {% if site.twitter_username %}
-          <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="fa-stack fa-2x">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter-square fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %} {% if site.googleplus_username %}
-          <li>
-            <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts">
-              <span class="fa-stack fa-2x">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
           <li>
             © Jason Hardin 2015
           </li>
@@ -52,4 +24,4 @@
 </footer>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="{{ "/js/custom.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+<script src="{{ "/js/custom.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
