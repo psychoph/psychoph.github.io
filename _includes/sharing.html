@@ -1,22 +1,15 @@
 
 <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-<script>
-  ! function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0],
-      p = /^http:/.test(d.location) ? 'http' : 'https';
-    if (!d.getElementById(id)) {
-      js = d.createElement(s);
-      js.id = id;
-      js.src = p + '://platform.twitter.com/widgets.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }
-  }(document, 'script', 'twitter-wjs');
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script >
+  window.___gcfg = {
+    lang: 'zh-CN',
+    parsetags: 'onload'
+  };
 </script>
-<!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async defer></script>
-
-<!-- Place this tag where you want the share button to render. -->
-<div class="g-plus" data-action="share"></div>
+<g:plus action="share"></g:plus>
+ <g:plusone></g:plusone>
 
 <h4>Share This Post</h4>
 <ul class="list-inline">
@@ -37,7 +30,8 @@
     </a>
   </li>
   <li>
-    <a class="social-share-element" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus" onclick="_gaq.push(['_trackEvent', 'Share', 'GooglePlus', window.location.pathname]);" data-action="share">
+    <a class="social-share-element" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus" onclick="_gaq.push(['_trackEvent', 'Share', 'GooglePlus', window.location.pathname]); javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
       <span class="fa-stack fa-2x">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>

@@ -1,15 +1,13 @@
 {% if thecycle %} {% assign thecycle = false %} {% else %} {% assign thecycle = true %} {% endif %}
 <article>
-  <a href="{{ post.url | prepend: site.url }}">
-    <div class="row post-preview">
-      {% if thecycle %}
-        {% include excerpt_img.html %}
-        {% include post_preview.html %}
-      {% else %}
-        {% include post_preview.html %}
-        {% include excerpt_img.html %}
-      {% endif %}
-    </div>
-  </a>
+  <div class="row post-preview">
+    {% if thecycle %}
+      {% include excerpt_img.html %}
+      {% include post_preview.html %}
+    {% else %}
+      {% include post_preview.html %}
+      {% include excerpt_img.html %}
+    {% endif %}
+  </div>
 </article>
 <hr>
