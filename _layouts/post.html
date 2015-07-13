@@ -1,7 +1,5 @@
 ---
 layout: default
-comments: true
-sharing: true
 ---
 <!-- Post Header -->
 <header class="intro-header">
@@ -23,13 +21,25 @@ sharing: true
 
 <!-- Post Content -->
 <hr>
-<article>
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <article>
         {{ content }}
-      </div>
+      </article>
     </div>
   </div>
-</article>
-post
+</div>
+<hr>
+<div class="row">
+  <div class="col-xs-12">
+      {% include sharing.html %}
+  </div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-xs-12">
+    <!--  Disqus comments -->
+      {% include disqus.html %}
+  </div>
+</div>

@@ -24,14 +24,12 @@ layout: default
       {{ content }}
     </div>
   </div>
-  {% if page.sharing %}
   <hr>
   <div class="row">
     <div class="col-xs-12">
         {% include sharing.html %}
     </div>
   </div>
-  {% endif %}
   {% if page.comments %}
   <hr>
   <div class="row">
@@ -42,4 +40,3 @@ layout: default
   </div>
   {% endif %}
 </div>
-page
