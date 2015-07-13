@@ -83,7 +83,17 @@ pageclass: main
           <a href="http://raptr.com/{{site.raptr_id}}?src=em_all"><img alt="Raptr Gamercard" src="http://raptr.com/badge/{{site.raptr_id}}/fs_overall.png" style="border: none;"></a>
         </li>
         {% endif %}
-
+        {% if site.twitch_id %}
+        <li>
+          <a href="http://www.twitch.tv/{{site.twitch_id}}/profile">
+          <span class="fa-stack fa-2x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitch-square fa-stack-1x fa-inverse"></i>
+          </span>
+          {{site.twitch_id}}
+        </a>
+        </li>
+        {% endif %}
       </ul>
     </div>
   </div>
