@@ -1,21 +1,16 @@
-(function() {
-  var s = document.createElement('script');
-  s.async = true;
-  s.type = 'text/javascript';
-  s.src = '//stringonafinger.disqus.com/count.js';
-  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-}());
-
+// Requires jQuery of course.
 $(document).ready(function() {
-  $('.show-comments').on('click', function() {
-    // ajax request to load the disqus javascript
-    $.ajax({
-      type: "GET",
-      url: "http://stringonafinger.disqus.com/embed.js",
-      dataType: "script",
-      cache: true
+    $('.show-comments').on('click', function(){
+          var disqus_shortname = 'stringonafinger'; // Replace this value with *your* username.
+
+          // ajax request to load the disqus javascript
+          $.ajax({
+                  type: "GET",
+                  url: "http://" + disqus_shortname + ".disqus.com/embed.js",
+                  dataType: "script",
+                  cache: true
+          });
+          // hide the button once comments load
+          $(this).fadeOut();
     });
-    // hide the button once comments load
-    $(this).fadeOut();
-  });
 });
