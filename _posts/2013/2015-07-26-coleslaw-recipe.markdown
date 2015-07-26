@@ -12,7 +12,7 @@ excerpt: "I tried my hand at coleslaw recipe today. I started out by reading thi
 ---
 I tried my hand at coleslaw recipe today. I started out by reading this [basic recipe](http://www.chow.com/recipes/28490-basic-coleslaw) and then I read [Todd Wilbur’s KFC Recipe](http://www.topsecretrecipes.com/kfc-cole-slaw-recipe.html). I love KFC coleslaw, but my stomach can’t handle milk. So I combined the two into my own recipe.
 
-### Ingredients
+## Ingredients
 
 - 1/4 tsp black pepper
 - 1 tsp salt
@@ -25,7 +25,7 @@ I tried my hand at coleslaw recipe today. I started out by reading this [basic r
 - 3 carrots shredded
 - Green area of a bundle of green onions (about 1/2 cup)
 
-### Instructions
+## Instructions
 
 1. Combine ingredients 1-8 in a large mixing bowl.
 2. Mix the ingredients until it is a liquid
