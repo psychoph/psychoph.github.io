@@ -2,7 +2,7 @@
 layout: post
 title: "Alien Breed Impact Logitech G13 Profile"
 date: "2013-11-01 20:13"
-excerpt:"I got a copy of Alien Breed Impact by Team 17 from the Humble Bundle weekly sale. I wasn’t happy with the game pad play with it so I made a Logitech G13 profile. The game doesn’t have a lot of buttons so really this was a simple mapping."
+excerpt: "I got a copy of Alien Breed Impact by Team 17 from the Humble Bundle weekly sale. I wasn’t happy with the game pad play with it so I made a Logitech G13 profile. The game doesn’t have a lot of buttons so really this was a simple mapping."
 excerpt-img: "/media/logos/header_292x136.jpg"
 author: Jason Hardin
 pageclass: logitechg13

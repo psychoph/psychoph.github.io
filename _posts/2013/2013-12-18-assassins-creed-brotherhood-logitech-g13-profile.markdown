@@ -2,7 +2,7 @@
 layout: post
 title: "Assassins Creed Brotherhood Logitech G13 Profile"
 date: "2013-12-18 20:08"
-excerpt:"I finally got back to playing Assassins Creed Brotherhood. The Logitech G13 has a default profile for the game, but I didn’t like the button placement for it. I modified it to be my own and below is an image of the layout."
+excerpt: "I finally got back to playing Assassins Creed Brotherhood. The Logitech G13 has a default profile for the game, but I didn’t like the button placement for it. I modified it to be my own and below is an image of the layout."
 excerpt-img: "/media/logos/assassinscreedbrotherhood.jpg"
 author: Jason Hardin
 pageclass: logitechg13

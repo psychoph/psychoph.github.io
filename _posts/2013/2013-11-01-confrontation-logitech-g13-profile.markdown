@@ -2,7 +2,7 @@
 layout: post
 title: "Confrontation Logitech G13 Profile"
 date: "2013-11-01 20:19"
-excerpt:"I picked up Confrontation during a Humble Bundle sale and just recently played it. There isn’t a lot here that is needed from a keyboard perspective."
+excerpt: "I picked up Confrontation during a Humble Bundle sale and just recently played it. There isn’t a lot here that is needed from a keyboard perspective."
 excerpt-img: "/media/logos/confrontation_logo.png"
 author: Jason Hardin
 pageclass: logitechg13

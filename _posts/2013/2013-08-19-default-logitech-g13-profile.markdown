@@ -2,7 +2,7 @@
 layout: post
 title: "Default Logitech G13 Profile"
 date: "2013-08-19 20:56"
-excerpt:"I was reading a book about user experience design for work and one of the chapters was on convention. It was saying that user interfaces should have a standard layout or interface if they are something a user uses often. It stuck in my head that I had been making a lot of profiles without a template to start from."
+excerpt: "I was reading a book about user experience design for work and one of the chapters was on convention. It was saying that user interfaces should have a standard layout or interface if they are something a user uses often. It stuck in my head that I had been making a lot of profiles without a template to start from."
 author: Jason Hardin
 pageclass: logitechg13
 tags:

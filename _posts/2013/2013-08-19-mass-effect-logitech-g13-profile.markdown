@@ -2,7 +2,7 @@
 layout: post
 title: "Mass Effect Logitech G13 Profile"
 date: "2013-08-19 20:46"
-excerpt:"I finally got back into playing Mass Effect after a year-long break. I looked at the default Mass Effect profile and I wasn’t happy. It was the typical cluttered mess that made about as much sense as a monkey throwing darts at a wall."
+excerpt: "I finally got back into playing Mass Effect after a year-long break. I looked at the default Mass Effect profile and I wasn’t happy. It was the typical cluttered mess that made about as much sense as a monkey throwing darts at a wall."
 excerpt-img: "/media/logos/Mass_Effect_Logo_lg.jpg"
 author: Jason Hardin
 pageclass: logitechg13
