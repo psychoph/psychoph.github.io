@@ -4,6 +4,11 @@ title: "Game Time Scrapper"
 date: "2013-12-22 19:28"
 author: Jason Hardin
 pageclass: programming
+category: programming
+tags:
+  - javascript
+  - Google
+  - programming
 ---
 I track my time played in video games against what I paid for the game. Ultimately to figure out by cost per hour of game play. I have been using Raptr’s client for most of this year along with a [Google apps spreadsheet](https://www.google.com/work/apps/business/products/?utm_source=google&utm_medium=cpc&utm_campaign=na-us-en-apps-bkws-gafw-trial-e&utm_content=text-appstest-c-products) to track my costs per hour. One of the issues I ran into however is that I have to manually add the play time from [Raptr](http://raptr.com/) to the spreadsheet at the end of the week. This is a pain when I know that I can get this data grammatically. I create a game time scrapper program in Node js to convert the data on Raptr’s recent played games page to a JSON string that can then be processed by Google Apps with a custom script.
 
