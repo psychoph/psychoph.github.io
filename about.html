@@ -78,20 +78,20 @@ pageclass: main
           <a href="http://us.playstation.com/playstation/psn/visit/profiles/{{site.psn_id}}"><img src="http://fp.profiles.us.playstation.com/playstation/psn/pid/{{site.psn_id}}.png" width="230" height="155" border="0" /></a>
         </li>
         {% endif %}
-        {% if site.raptr_id %}
-        <li>
-          <a href="http://raptr.com/{{site.raptr_id}}?src=em_all"><img alt="Raptr Gamercard" src="http://raptr.com/badge/{{site.raptr_id}}/fs_overall.png" style="border: none;"></a>
-        </li>
-        {% endif %}
         {% if site.twitch_id %}
         <li>
           <a href="http://www.twitch.tv/{{site.twitch_id}}/profile">
           <span class="fa-stack fa-2x">
             <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-twitch-square fa-stack-1x fa-inverse"></i>
+            <i class="fa fa-twitch fa-stack-1x fa-inverse"></i>
           </span>
           {{site.twitch_id}}
         </a>
+        </li>
+        {% endif %}
+        {% if site.raptr_id %}
+        <li>
+          <a href="http://raptr.com/{{site.raptr_id}}?src=em_all"><img alt="Raptr Gamercard" src="http://raptr.com/badge/{{site.raptr_id}}/fs_overall.png" style="border: none;"></a>
         </li>
         {% endif %}
       </ul>
