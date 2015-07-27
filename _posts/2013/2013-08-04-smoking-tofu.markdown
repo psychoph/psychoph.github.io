@@ -22,7 +22,7 @@ The base marinade is what I use as a base for most Asian sauces. I learn the ing
 
 - 1/2 cup Soy sauce
 - 1/4 cup rice wine vinegar
--
+
 Mix these two together and you got what I have found to be a pretty perfect flavor for the inside of the tofu that matches well with the smoke flavor you get on the outside.
 
 ## Prep
