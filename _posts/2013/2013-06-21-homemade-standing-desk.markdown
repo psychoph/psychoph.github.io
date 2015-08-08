@@ -23,31 +23,35 @@ With these things in mind I removed several pieces from the design and focused o
 
 I ended up not adding end caps on the feet. My desk sits on carpet and the caps seemed like a waste of money.
 
-### Materials:
+## Materials:
 
-1 x 48” of ¾” galvanized pipe
-4 x 24” of ¾” galvanized pipe
-4 x 18” of ¾” galvanized pipe
-4 x 10” of ¾” galvanized pipe (nipple)
-4 x ¾” Galvanized floor feet
-6 x ¾” T joints
-4 x ¾” leveling feet
-1 old Melamine folding table top 72” x 30”
-16 x ½” screws
-Tools:
+- 1 x 48" of ¾” galvanized pipe
+- 4 x 24” of ¾” galvanized pipe
+- 4 x 18” of ¾” galvanized pipe
+- 4 x 10” of ¾” galvanized pipe (nipple)
+- 4 x ¾” Galvanized floor feet
+- 6 x ¾” T joints
+- 4 x ¾” leveling feet
+- 1 old Melamine folding table top 72” x 30”
+- 16 x ½” screws
 
-2 x Pipe wrenches
-Screw gun
-A lot of muscle power
-Extras:
+## Tools:
 
-1 x Anti-Fatigue pad (I went with [NewLife by GelPro Bio-Foam Comfort Floor Mat, 20-Inch by 32-Inch](http://www.amazon.com/dp/B0057GV3WQ/ref=pe_175190_21431760_M3T1_ST1_dp_1), Stone ($69.95))
+- 2 x Pipe wrenches
+- Screw gun
+- A lot of muscle power
+
+## Extras:
+
+* 1 x Anti-Fatigue pad (I went with [NewLife by GelPro Bio-Foam Comfort Floor Mat, 20-Inch by 32-Inch](http://www.amazon.com/dp/B0057GV3WQ/ref=pe_175190_21431760_M3T1_ST1_dp_1), Stone ($69.95))
+
 I went with 24” pipe for the top section because I wanted to be able to convert the table back to a regular desk, and my regular desk needed to be at a height of roughly 35” instead of the 45” for the standing desk. So i could swap out the 18” pipe in the feet for 10” pipe and have a sitting desk in theory.
 
-Assembly
+## Assembly
 
 My process was as follows:
 
-Connect the 2 T couplings to 2 10″ pipes on the left and right sides
-Connect the 2 T couplings to the 48″ pipe, this should form your center H
+1. Connect the 2 T couplings to 2 10″ pipes on the left and right sides
+2. Connect the 2 T couplings to the 48″ pipe, this should form your center H
+
 The anti-fatigue pad was a bit pricey, aka more than the desk itself, but it was the only one i could find that was thicker than ½”.
