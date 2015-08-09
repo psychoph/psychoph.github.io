@@ -9,6 +9,7 @@ tags:
   - recipe
   - bbq
 category: bbq
+excerpt: "I started with the Sweet-and-Smoky Barbecue Sauce and then added my own extras to the sauce, like apple juice. I call it the Apple Pie BBQ Sauce, because it reminds me of the spices and flavors in an apple pie. The sauce combines well with my Apple pie rub."
 ---
 ## Overview
 
