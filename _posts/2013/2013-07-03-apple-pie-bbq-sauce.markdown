@@ -12,7 +12,7 @@ category: bbq
 ---
 ## Overview
 
-I started with the Sweet-and-Smoky Barbecue Sauce[1] and then added my own extras to the sauce, like apple juice. I call it the Apple Pie BBQ Sauce, because it reminds me of the spices and flavors in an apple pie. The sauce combines well with my [Apple pie rub](http://jasonhardin.com/grilling-and-smoking/recipes/apple-pie-rub/).
+I started with the Sweet-and-Smoky Barbecue Sauce<sup>[1](#1)</sup> and then added my own extras to the sauce, like apple juice. I call it the Apple Pie BBQ Sauce, because it reminds me of the spices and flavors in an apple pie. The sauce combines well with my [Apple pie rub](http://jasonhardin.com/grilling-and-smoking/recipes/apple-pie-rub/).
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ I started with the Sweet-and-Smoky Barbecue Sauce[1] and then added my own extra
 
 ## Instructions
 
-[1][1]
+[1](#1)
 
 1. Combine all ingredients except the ketchup in a non reactive pan.
 1. Bring to a simmer on medium heat. Cook uncovered for about 5 minutes until everything dissolves. Stir constantly.
@@ -59,6 +59,5 @@ Should make about 6 cups. Should looks something like the image below when done:
 ![]({{site.url}}/media/bbq/apple_pie_sauce.jpg){: .img-responsive  .center-block }
 
 ## References
-[id]: <http://example.com/>  "Optional Title Here"
 
-1. [1]: Bbq Bible "" [^Barbecue! Bible Sauces Rubs and Marinades by Steven Raichlen](http://www.amazon.com/Barbecue-Sauces-Marinades-Bastes-Butters/dp/0761119795/ref=sr_1_2?ie=UTF8&qid=1372556703&sr=8-2&keywords=barbecue+bible) pg 134.
+1. <a name="1"></a>[Barbecue! Bible Sauces Rubs and Marinades by Steven Raichlen](http://www.amazon.com/Barbecue-Sauces-Marinades-Bastes-Butters/dp/0761119795/ref=sr_1_2?ie=UTF8&qid=1372556703&sr=8-2&keywords=barbecue+bible) pg 134.
