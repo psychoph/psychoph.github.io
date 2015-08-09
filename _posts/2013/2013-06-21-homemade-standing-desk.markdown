@@ -14,6 +14,8 @@ tags:
   - office
   - diy
 ---
+## Overview
+
 I started off with a design for my homemade standing desk based on the design found at [how to geek](http://www.howtogeek.com/128661/diy-standing-desk-sports-super-sturdy-galvanized-pipe-legs/). The designer of that standing desk made a few odd choices regarding pipe lengths and extra couplings in my opinion. The odd choices I decided to do with out were:
 
 1. No custom cut pipe, custom cuts costs more than a regular length of pipe. Galvanized pipe comes in lengths at one inch up to 12 inches and then in 6” lengths after that.
