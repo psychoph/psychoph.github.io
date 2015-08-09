@@ -59,6 +59,6 @@ Should make about 6 cups. Should looks something like the image below when done:
 ![]({{site.url}}/media/bbq/apple_pie_sauce.jpg){: .img-responsive  .center-block }
 
 ## References
-
+[id]: <http://example.com/>  "Optional Title Here"
 
 1. [1]: Bbq Bible "" [^Barbecue! Bible Sauces Rubs and Marinades by Steven Raichlen](http://www.amazon.com/Barbecue-Sauces-Marinades-Bastes-Butters/dp/0761119795/ref=sr_1_2?ie=UTF8&qid=1372556703&sr=8-2&keywords=barbecue+bible) pg 134.
