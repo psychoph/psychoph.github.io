@@ -16,6 +16,7 @@ tags:
   - bbq
   - normex
 ---
+
 ## Overview
 
 I recently bought a [Masterbuilt 2-door propane smoker](http://www.amazon.com/gp/product/B004W4NDPY/ref=oh_details_o02_s00_i00?ie=UTF8&psc=1). During my first smoke session I had several problems with my Masterbuilt smoker. They were:
@@ -46,11 +47,11 @@ The first forum I came to in my research was on [sealing your Masterbuilt smoker
 
 The bottom door looked like this picture.
 
-![]({{site.url}}/media/profiles/lower_door_seal.jpg){: .img-responsive  .center-block }
+![]({{site.url}}/media/bbq/lower_door_seal.jpg){: .img-responsive  .center-block }
 
 I then let the sealant cure for 24 hours. In the mean time I had ordered the [Nomex Masterbuilt smoker kit from BBQgaskets.com](http://bbqgaskets.com/catalog_2.html). I applied this after washing everything with vinegar and lemon juice. below is an image of the final product.
 
-![]({{site.url}}/media/profiles/normex_on_smoker.jpg){: .img-responsive  .center-block }
+![]({{site.url}}/media/bbq/normex_on_smoker.jpg){: .img-responsive  .center-block }
 
 One thing I would recommend is that you make sure that the gasket extra does not fold into the smoker. My very bottom gasket ended up getting burnt when I was firing the smoker to 400 °F. The gaskets still seal perfectly, but the bottom is burnt.
 
