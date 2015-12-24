@@ -18,7 +18,7 @@ excerpt-img: "/media/logos/rainbow_six_seige_logo.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
 ---
-![Tom Clancy's Rainbow Six Siege]({{ site.url }}/media/logos/4rainbow_six_seige_logo.jpg){: .img-responsive .center-block }
+![Tom Clancy's Rainbow Six Siege]({{ site.url }}/media/logos/rainbow_six_seige_logo.jpg){: .img-responsive .center-block }
 
 I started playing [Tom Clancy's Rainbow Six Siege](http://rainbow6.ubi.com/siege/) in the closed beta. It was a fun game but I can't see buying it for more than $30. I just have too many other FPSs to play at the moment. The concept is interesting compared to the typical call of duty and battlefield games, but it wasn't anything so unique that I had to have it on day one of the release or couldn't wait a year until there was a 50% off sale.
 
