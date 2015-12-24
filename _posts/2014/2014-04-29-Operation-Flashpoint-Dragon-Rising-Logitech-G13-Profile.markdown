@@ -5,6 +5,7 @@ date: 2014-04-29 19:45:00
 categories:
   - logitech g13
   - video games
+  - fps
 tags:
   - Operation Flash Point
   - Dragon Rising

@@ -5,11 +5,13 @@ date: 2014-09-07 18:50:00
 categories:
   - logitech g13
   - video games
+  - FPS
 tags:
   - Tom Clancy
   - Ghost Recon
   - video games
   - logitech g13
+  - fps
   - profile
 excerpt: "I created a Logitech G13 profile for Tom Clancy’s Ghost Recon Online"
 excerpt-img: "/media/logos/GRO-logo-black-BG.jpg"

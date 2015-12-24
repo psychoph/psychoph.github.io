@@ -13,9 +13,11 @@ tags:
   - strategy
   - kerbal space program
   - space
+  - simulator
 categories:
   - logitech g13
   - video games
+  - simulator
 ---
 ![Kerbal Space Program]({{site.url}}/media/logos/kerbal_space_program.png){: .img-responsive  .center-block }
 

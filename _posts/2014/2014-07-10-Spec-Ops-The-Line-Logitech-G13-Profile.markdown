@@ -5,12 +5,14 @@ date: 2014-07-10 19:37:00
 categories:
   - logitech g13
   - video games
+  - fps
 tags:
   - Tom Clancy
   - Ghost Recon
   - video games
   - logitech g13
   - profile
+  - fps
 excerpt: "I bought the Humble Bundle for the next two weeks and one of the games that came with it is Spec Ops the Line. I made a Logitech G13 profile for it because I don’t like playing anything that is a shooting game with a game pad."
 excerpt-img: "/media/logos/specopstheline.png"
 author: "Jason Hardin"

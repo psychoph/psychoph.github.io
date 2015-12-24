@@ -5,6 +5,7 @@ date: 2014-06-22 19:38:00
 categories:
   - logitech g13
   - video games
+  - fps
 tags:
   - Titanfall
   - video games

@@ -15,6 +15,7 @@ tags:
 categories:
   - logitech g13
   - video games
+  - fps
 ---
 ![Arma 2 Operation Arrowhead]({{site.url}}/media/logos/arma2oa.jpg){: .img-responsive  .center-block }
 
