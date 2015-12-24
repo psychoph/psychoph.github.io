@@ -15,8 +15,8 @@ tags:
   - space
   - simulator
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - simulator
 ---
 ![Kerbal Space Program]({{site.url}}/media/logos/kerbal_space_program.png){: .img-responsive  .center-block }

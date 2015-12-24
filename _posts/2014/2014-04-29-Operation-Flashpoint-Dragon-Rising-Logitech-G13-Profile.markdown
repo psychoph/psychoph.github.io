@@ -3,8 +3,8 @@ layout: post
 title: "Operation Flashpoint Dragon Rising Logitech G13 Profile"
 date: 2014-04-29 19:45:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - fps
 tags:
   - Operation Flash Point

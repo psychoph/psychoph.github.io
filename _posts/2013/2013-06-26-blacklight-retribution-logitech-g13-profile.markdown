@@ -14,8 +14,8 @@ tags:
   - video games
   - Mass Effect
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Blacklight Retribution Onslaught]({{site.url}}/media/logos/blacklight_retribution.png){: .img-responsive  .center-block }
 I started playing [Blacklight Retribution](http://www.arcgames.com/en/games/blacklight-retribution) when I saw it was free to play. The game was a lot of fun, but I didn't find a default [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) profile. I created it in order to take advantage of the keyboard in game making it easier to play. Below is a screenshot of my keyboard layout.

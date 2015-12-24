@@ -14,8 +14,8 @@ tags:
   - Batman
   - Arkham
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Batman Arkham Asylum]({{site.url}}/media/logos/01-Batman-Arkham-Asylum.jpg){: .img-responsive  .center-block }
 

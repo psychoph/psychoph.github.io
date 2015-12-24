@@ -14,8 +14,8 @@ tags:
   - Alien Breed
   - Team 17
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Alien Breed Impact]({{site.url}}/media/logos/header_292x136.jpg){: .img-responsive  .center-block }
 I got a copy of Alien Breed Impact by [Team 17](http://www.team17.com/) from the [Humble Bundle](https://www.humblebundle.com/) weekly sale. I wasn’t happy with the game pad play with it so I made a [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) profile. The game doesn’t have a lot of buttons so really this was a simple mapping. I am also assuming that it will work for the rest of the games in the series with the change being the executable location. Below is the layout of the keys:

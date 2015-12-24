@@ -15,8 +15,8 @@ tags:
   - dod
   - half-life
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Day of Defeat Source]({{site.url}}/media/logos/dodlogo.png){: .img-responsive  .center-block }
 

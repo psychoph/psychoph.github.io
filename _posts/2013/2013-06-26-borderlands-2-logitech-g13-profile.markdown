@@ -14,8 +14,8 @@ tags:
   - Borderlands
   - 2kgames
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Borderlands 2]({{site.url}}/media/logos/borderlands2logo.jpg){: .img-responsive  .center-block }
 

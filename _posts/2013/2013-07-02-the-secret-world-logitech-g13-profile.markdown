@@ -14,8 +14,8 @@ tags:
   - video games
   - Secret World
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![The Secret World]({{site.url}}/media/logos/tsw_logo.png){: .img-responsive  .center-block }
 

@@ -3,8 +3,8 @@ layout: post
 title: "The Bureau Xcom Declassified Logitech G13 Profile"
 date: 2014-07-10 19:05:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 tags:
   - xcom
   - Bureau

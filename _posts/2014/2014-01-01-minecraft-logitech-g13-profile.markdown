@@ -13,8 +13,8 @@ tags:
   - crafting
   - minecraft
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Minecraft]({{site.url}}/media/logos/minecraft_logo.png){: .img-responsive  .center-block }
 

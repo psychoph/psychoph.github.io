@@ -3,8 +3,8 @@ layout: post
 title: "Warhammer 40k Space Marines Logitech G13 Profile"
 date: "2015-12-23 18:24"
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - fps
 tags:
   - Warhammer 40k

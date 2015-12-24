@@ -14,8 +14,8 @@ tags:
   - Batman
   - Arkham
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 
 ![Batman Arkham City]({{site.url}}/media/logos/batman_arkham_city.jpg){: .img-responsive  .center-block }

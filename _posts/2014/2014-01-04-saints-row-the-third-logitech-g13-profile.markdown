@@ -13,8 +13,8 @@ tags:
   - rpg
   - saints row
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Saints row the third]({{site.url}}/media/logos/saints_row_the_third_logo.png){: .img-responsive  .center-block }
 

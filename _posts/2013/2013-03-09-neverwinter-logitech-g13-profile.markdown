@@ -14,8 +14,8 @@ tags:
   - rpg
   - mmo
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Neverwinter]({{site.url}}/media/logos/neverwinter.png){: .img-responsive  .center-block }
 

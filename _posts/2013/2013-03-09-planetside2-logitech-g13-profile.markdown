@@ -13,8 +13,8 @@ tags:
   - planetside 2
   - fps
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Planetside 2]({{site.url}}/media/logos/planetside-2-logo-sprite.png){: .img-responsive  .center-block }
 I can’t remember if the Logitech gaming software detects [Planetside 2](https://www.planetside2.com/) and has a default [Logitech g13](http://www.logitech.com/en-us/product/g13-advanced-gameboard) profile, but I either made a profile from scratch or customized the existing one based on the tutorials. The layout is your typical FPS layout with a few extra controls for when you are in a vehicle and for the abilities each class gets. I have found it worked really well for me and gave me access to everything I needed for each of the classes.

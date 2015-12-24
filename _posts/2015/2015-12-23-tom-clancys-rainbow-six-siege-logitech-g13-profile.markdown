@@ -3,8 +3,8 @@ layout: post
 title: "Tom Clancy's Rainbow Six Siege Logitech G13 Profile"
 date: "2015-12-23 19:35"
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - fps
 tags:
   - Tom Clancy

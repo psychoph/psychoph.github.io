@@ -14,8 +14,8 @@ tags:
   - video games
   - Defiance
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Defiance]({{site.url}}/media/logos/defilogo-shiny-tm.png){: .img-responsive  .center-block }
 

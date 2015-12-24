@@ -14,8 +14,8 @@ tags:
   - video games
   - World of tanks
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Word of Tanks]({{site.url}}/media/logos/wot-logo.png){: .img-responsive  .center-block }
 

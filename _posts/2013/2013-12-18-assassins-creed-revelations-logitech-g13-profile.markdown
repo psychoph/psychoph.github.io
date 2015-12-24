@@ -14,8 +14,8 @@ tags:
   - Assassins Creed
   - Ubisoft
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Assassins Creed Revelations](/media/logos/assassins-creed-revelations-logo.jpg){: .img-responsive  .center-block }
 

@@ -14,8 +14,8 @@ tags:
   - video games
   - Mass Effect
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Mass Effect]({{site.url}}/media/logos/Mass_Effect_Logo_lg.jpg){: .img-responsive  .center-block }
 

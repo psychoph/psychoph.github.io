@@ -13,8 +13,8 @@ tags:
   - arma
   - fps
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Arma 2]({{site.url}}/media/logos/arma2logo.png){: .img-responsive  .center-block }
 

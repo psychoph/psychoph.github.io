@@ -13,8 +13,8 @@ tags:
   - video games
   - Red Orchestra
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Red Orchestra 2 Heroes of Stalingrad]({{site.url}}/media/logos/red_orchestra2.jpg){: .img-responsive  .center-block }
 

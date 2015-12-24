@@ -13,8 +13,8 @@ tags:
   - Darksiders
   - rpg
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 
 ![Darksiders]({{site.url}}/media/logos/darksiders_logo.png){: .img-responsive  .center-block }

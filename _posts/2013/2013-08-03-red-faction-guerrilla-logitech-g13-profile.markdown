@@ -13,8 +13,8 @@ tags:
   - video games
   - Red Faction
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Red Faction Guerrilla]({{site.url}}/media/logos/Red_Faction_Guerrilla_Cover.jpg){: .img-responsive  .center-block }
 

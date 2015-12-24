@@ -13,8 +13,8 @@ tags:
   - video games
   - Medal of Honor
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 I bought [Medal of Honor](http://www.ea.com/medal-of-honor) from the [Origin Humble Bundle](https://www.humblebundle.com/) this week. As usual the default [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) profile didn’t work for me. So I ended up making my own Medal of Honor Logitech G13 profile. My Medal of Honor Logitech G13 profile is my typical FPS setup with jump and melee on my mouse. The one unique key was the peek/lean key that I bound to G9 to allow me to click it and then the direction instead of using Q or E. There are two profiles for single and multiplayer because the multiplayer game has different key settings and is missing keys. It is actually very annoying because crouch and melee change in multiplayer and there is no lean options.
 

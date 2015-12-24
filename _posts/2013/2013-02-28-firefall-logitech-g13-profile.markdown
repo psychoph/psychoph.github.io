@@ -14,8 +14,8 @@ tags:
   - fps
   - mmo
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Firefall]({{site.url}}/media/logos/firefall-logo.png){: .img-responsive  .center-block }
 

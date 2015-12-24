@@ -14,8 +14,8 @@ tags:
   - video games
   - Lord of the Rings
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Lord of the Rings Online]({{site.url}}/media/logos/lotro_logo.jpg){: .img-responsive  .center-block }
 

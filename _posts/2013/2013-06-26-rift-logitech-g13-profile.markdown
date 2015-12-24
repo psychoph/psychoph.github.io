@@ -14,8 +14,8 @@ tags:
   - video games
   - Rift
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 
 ![Rift Nightmare Tide]({{site.url}}/media/logos/rift_logo.png){: .img-responsive  .center-block }

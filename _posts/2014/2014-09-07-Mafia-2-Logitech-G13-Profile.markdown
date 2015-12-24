@@ -3,8 +3,8 @@ layout: post
 title: "Mafia 2 Logitech G13 Profile"
 date: 2014-09-09 20:06:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 tags:
   - mafia 2
   - video games

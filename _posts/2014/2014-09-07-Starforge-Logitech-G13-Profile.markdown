@@ -3,8 +3,8 @@ layout: post
 title: "Starforge Logitech G13 Profile"
 date: 2014-09-07 15:32:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 tags:
   - starforge
   - video games

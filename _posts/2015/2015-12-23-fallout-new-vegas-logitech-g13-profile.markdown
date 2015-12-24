@@ -3,8 +3,8 @@ layout: post
 title: "Fallout New Vegas Logitech G13 Profile"
 date: "2015-12-23 19:05"
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - fps
 tags:
   - Fallout

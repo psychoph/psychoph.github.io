@@ -14,8 +14,8 @@ tags:
   - Skyrim
   - Elder Scrolls
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![The Elder Scrolls V Skyrim]({{site.url}}/media/logos/skyrim.png){: .img-responsive  .center-block }
 

@@ -13,8 +13,8 @@ tags:
   - video games
   - Torchlight
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Torchlight 2]({{site.url}}/media/logos/torchlight_2_logo_nav.png){: .img-responsive  .center-block }
 

@@ -3,8 +3,8 @@ layout: post
 title: "Titanfall Logitech G13 Profile"
 date: 2014-06-22 19:38:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - fps
 tags:
   - Titanfall

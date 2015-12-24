@@ -13,8 +13,8 @@ tags:
   - video games
   - Payday
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 
 ![Payday]({{site.url}}/media/logos/Payday.jpg){: .img-responsive  .center-block }

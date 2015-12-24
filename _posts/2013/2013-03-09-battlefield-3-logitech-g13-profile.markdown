@@ -13,8 +13,8 @@ tags:
   - Battlefield
   - fps
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Battlefield 3]({{site.url}}/media/logos/BF3_Logo_Horizontal.png){: .img-responsive  .center-block }
 

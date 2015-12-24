@@ -8,9 +8,10 @@ pageclass: logitechg13
 tags:
   - logitech g13
   - profile
-categories:
-  - logitech g13
   - video games
+categories:
+  - logitech_g13
+  - video_games
 ---
 I was reading a book about user experience design for work and one of the chapters was on convention. It was saying that user interfaces should have a standard layout or interface if they are something a user uses often. It stuck in my head that I had been making a lot of profiles without a template to start from. I also realized that my interface with the Logitech G13 is pretty common even across game types. I bind map to G14, forward to G4 and so on. I decided to update my default Logitech G13 profile (that I never actually use) to meet my following needs:
 

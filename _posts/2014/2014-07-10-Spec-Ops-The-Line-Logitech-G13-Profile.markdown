@@ -3,8 +3,8 @@ layout: post
 title: "Spec Ops The Line Logitech G13 Profile"
 date: 2014-07-10 19:37:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - fps
 tags:
   - Tom Clancy

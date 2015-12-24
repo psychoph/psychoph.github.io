@@ -3,8 +3,8 @@ layout: post
 title: "Tom Clancy’s Ghost Recon Online Logitech G13 Profile"
 date: 2014-09-07 18:50:00
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
   - FPS
 tags:
   - Tom Clancy

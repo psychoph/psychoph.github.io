@@ -14,8 +14,8 @@ tags:
   - video games
   - Tera Rising
 categories:
-  - logitech g13
-  - video games
+  - logitech_g13
+  - video_games
 ---
 ![Tera Rising]({{site.url}}/media/logos/tera_rising.png){: .img-responsive  .center-block }
 
