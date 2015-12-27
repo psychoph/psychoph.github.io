@@ -13,7 +13,7 @@ tags:
   - logitech g13
   - profile
 excerpt: "I created a Logitech G13 profile for Pay Day 2 because the default one wasn't very good and I wanted an M2 for vehicles."
-excerpt-img: "/media/profiles/logos/battlefield_4_logo.jpg"
+excerpt-img: "/media/profiles/logos/battlefield_4_logo.png"
 author: "Jason Hardin"
 pageclass: logitechg13
 ---
