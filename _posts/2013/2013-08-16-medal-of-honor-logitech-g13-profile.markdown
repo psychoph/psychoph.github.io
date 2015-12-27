@@ -3,7 +3,7 @@ layout: post
 title: "Medal of Honor Logitech G13 Profile"
 date: "2013-08-16 14:00"
 excerpt: "I bought Medal of Honor from the Origin Humble Bundle this week. As usual the default Logitech G13 profile didn’t work for me. So I ended up making my own Medal of Honor Logitech G13 profile. My Medal of Honor Logitech G13 profile is my typical FPS setup with jump and melee on my mouse."
-excerpt-img: "/media/profiles/img/logos/medal-of-honor-thumb-298x168_b1.png"
+excerpt-img: "/media/profiles/logos/medal-of-honor-thumb-298x168_b1.png"
 author: Jason Hardin
 pageclass: logitechg13
 tags:
@@ -20,12 +20,12 @@ I bought [Medal of Honor](http://www.ea.com/medal-of-honor) from the [Origin Hum
 
 Below is the screenshot of the single player keyboard layout:
 
-![Medal of Honor Single Player Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/img/medal_of_honor_singleplayer_keyboard_layout.png){: .img-responsive  .center-block }
+![Medal of Honor Single Player Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/layouts/medal_of_honor_singleplayer_keyboard_layout.png){: .img-responsive  .center-block }
 
 [Right click and select save as to download the Logitech G13 profile for Medal of Honor Single Player]({{ site.url }}/media/profiles/xml/medal_of_honor_singleplayer.xml)
 
 Below is the screenshot of the multiplayer keyboard layout:
 
-![Medal of Honor Multiplayer Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/img/medal_of_honor_multiplayer_keyboard_layout.png){: .img-responsive  .center-block }
+![Medal of Honor Multiplayer Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/layouts/medal_of_honor_multiplayer_keyboard_layout.png){: .img-responsive  .center-block }
 
-[Right click and select save as to download the Logitech G13 profile for Medal of Honor Multiplayer]({{ site.url }}/media/profiles/img/medal_of_honor_multiplayer.xml)
+[Right click and select save as to download the Logitech G13 profile for Medal of Honor Multiplayer]({{ site.url }}/media/profiles/layouts/medal_of_honor_multiplayer.xml)

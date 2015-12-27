@@ -3,7 +3,7 @@ layout: post
 title: "Masterbuilt Smoker Modifications"
 date: "2013-06-22 13:46"
 excerpt: "I recently bought a Masterbuilt 2-door propane smoker. During my first smoke session I had several problems with my Masterbuilt smoker. They were: Themometer didn’t work after 200 °F, Smoke came out every where, and Wood chips burned out really fast. I made some modifications"
-excerpt-img: "/media/profiles/img/logos/masterbuilt_smoker.jpg"
+excerpt-img: "/media/profiles/logos/masterbuilt_smoker.jpg"
 author: Jason Hardin
 pageclass: bbq
 categories:

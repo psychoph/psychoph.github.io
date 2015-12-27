@@ -3,7 +3,7 @@ layout: post
 title: "Homemade Standing Desk"
 date: "2013-06-21 14:06"
 excerpt: ""
-excerpt-img: "/media/profiles/img/logos/"
+excerpt-img: "/media/profiles/logos/"
 author: Jason Hardin
 pageclass: diy
 categories:

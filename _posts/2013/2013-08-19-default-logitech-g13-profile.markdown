@@ -20,6 +20,6 @@ I was reading a book about user experience design for work and one of the chapte
 
 Below is a screen shot of my default keyboard layout. I place jump and melee attack on my 2 extra mouse keys like always. This layout works for almost all FPS’s and for the majority of MMO’s to with just slight variations. Over the coming weeks I will probably be updating some of my older profiles to match this as a standard interface for my layouts.
 
-![Default Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/img/default_keyboard_layout.png){: .img-responsive  .center-block }
+![Default Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/layouts/default_keyboard_layout.png){: .img-responsive  .center-block }
 
 [Right click and select save as to download my Default Logitech G13 profile]({{ site.url }}/media/profiles/xml/default.xml)
