@@ -21,3 +21,5 @@ paginate: 5
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from

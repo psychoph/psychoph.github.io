@@ -17,7 +17,7 @@ excerpt: "I bought the Humble Bundle for the next two weeks and one of the games
 excerpt-img: "/media/profiles/logos/specopstheline.png"
 author: "Jason Hardin"
 pageclass: logitechg13
-redirect_from: "/spec-ops-line-logitech-g13-profile"
+redirect_from: "/spec-ops-line-logitech-g13-profile/"
 ---
 ![Spec Ops The Line]({{ site.url }}/media/profiles/logos/specopstheline.png){: .img-responsive .center-block }
 
