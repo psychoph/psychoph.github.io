@@ -10,5 +10,6 @@ tags:
   - php
 author: "Jason Hardin"
 pageclass: programming
+redirect_from: "/PHP-CLI-5.3-on-Godaddy-Shared-Hosting-when-SSHed-in/"
 ---
 I was trying to setup [Silex](http://silex.sensiolabs.org/) on my [GoDaddy](http://www.godaddy.com/) shared hosting account today. I ran into a problem that the default configuration for an SSH user in GoDaddy’s shared hosting points to PHP 4 for CLI. After a little digging I found PHP5, but that was 5.2. Turns would there is a php 5.3 version on the server. The location is /usr/local/php5_3/bin/php. I ended up creating a .bashrc file and alias php=”/usr/local/php5_3/bin/php” to resolve the issues for me. Now I can install PHP composer without any issues.

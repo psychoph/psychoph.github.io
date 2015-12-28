@@ -16,6 +16,7 @@ excerpt: "I made a Logitech G13 profile for Titanfall after starting the 48 tria
 excerpt-img: "/media/profiles/logos/TFlogoPRIMARYlightRGB.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
+redirect_from: "/titanfall-logitech-g13-profile/"
 ---
 ![Titanfall]({{ site.url }}/media/profiles/logos/TFlogoPRIMARYlightRGB.jpg){: .img-responsive .center-block }
 

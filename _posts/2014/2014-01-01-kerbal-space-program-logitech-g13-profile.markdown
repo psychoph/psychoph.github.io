@@ -18,6 +18,7 @@ categories:
   - logitech_g13
   - video_games
   - simulator
+redirect_from: "/kerbal-space-program-logitech-g13-profile/"
 ---
 ![Kerbal Space Program]({{site.url}}/media/profiles/logos/kerbal_space_program.png){: .img-responsive  .center-block }
 

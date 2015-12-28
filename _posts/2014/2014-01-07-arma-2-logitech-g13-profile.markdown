@@ -15,6 +15,7 @@ tags:
 categories:
   - logitech_g13
   - video_games
+redirect_from: "/arma-2-logitech-g13-profile/"
 ---
 ![Arma 2]({{site.url}}/media/profiles/logos/arma2logo.png){: .img-responsive  .center-block }
 

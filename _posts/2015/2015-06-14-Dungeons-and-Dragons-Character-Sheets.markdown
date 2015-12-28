@@ -12,6 +12,7 @@ excerpt: "I have had the pleasure of role-playing in the Dungeons and dragons us
 excerpt-img: "/media/profiles/logos/D&D-Transparent.png"
 author: "Jason Hardin"
 pageclass: rpg
+redirect_from: "/dungeons-and-dragons-character-sheets/"
 ---
 ![Dungeons and Dragons]({{ site.url }}/media/profiles/logos/Dungeons-Dragons-Transparent.png){: .img-responsive .center-block }
 

@@ -17,6 +17,7 @@ excerpt: "A logitech G13 profile that I created for Operation Flashpoint Dragon 
 excerpt-img: "/media/profiles/logos/of_dragon_logo.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
+redirect_from: "/operation-flashpoint-dragon-rising-logitech-g13-profile/"
 ---
 ![]({{ site.url }}/media/profiles/logos/of_dragon_logo.jpg){: .img-responsive .center-block }
 

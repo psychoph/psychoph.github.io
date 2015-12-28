@@ -15,6 +15,7 @@ tags:
 categories:
   - logitech_g13
   - video_games
+redirect_from: "/minecraft-logitech-g13-profile/"
 ---
 ![Minecraft]({{site.url}}/media/profiles/logos/minecraft_logo.png){: .img-responsive  .center-block }
 

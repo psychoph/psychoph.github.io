@@ -17,6 +17,7 @@ excerpt: "I created a Logitech G13 profile for Tom Clancy’s Ghost Recon Online
 excerpt-img: "/media/profiles/logos/GRO-logo-black-BG.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
+redirect_from: "/tom-clancys-ghost-recon-phantoms-logitech-g13-profile/"
 ---
 ![Tom Clancy’s Ghost Recon Online]({{ site.url }}/media/profiles/logos/GRO-logo-black-BG.jpg){: .img-responsive .center-block }
 

@@ -15,6 +15,7 @@ tags:
 categories:
   - logitech_g13
   - video_games
+redirect_from: "/saints-row-the-third-logitech-g13-profile/"
 ---
 ![Saints row the third]({{site.url}}/media/profiles/logos/saints_row_the_third_logo.png){: .img-responsive  .center-block }
 

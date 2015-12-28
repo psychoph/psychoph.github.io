@@ -14,6 +14,7 @@ excerpt: "A profile for the Logitech G13 that can be used with the game Starforg
 excerpt-img: "/media/profiles/logos/starforgelogo.jpg"
 author: "Jason Hardin"
 pageclass: logitechg13
+redirect_from: "/starforge-logitech-g13-profile/"
 ---
 
 ![Starforge]({{ site.url }}/media/profiles/logos/starforgelogo.jpg){: .img-responsive .center-block }

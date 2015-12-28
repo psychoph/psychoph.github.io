@@ -16,6 +16,7 @@ categories:
   - logitech_g13
   - video_games
   - fps
+redirect_from: "/arma-2-operation-arrowhead-logitech-g13-profile/"
 ---
 ![Arma 2 Operation Arrowhead]({{site.url}}/media/profiles/logos/arma2oa.jpg){: .img-responsive  .center-block }
 

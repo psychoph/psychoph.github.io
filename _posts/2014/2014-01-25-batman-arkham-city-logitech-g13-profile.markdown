@@ -16,7 +16,9 @@ tags:
 categories:
   - logitech_g13
   - video_games
+redirect_from: "/batman-arkham-city-logitech-g13-profile/"
 ---
+
 
 ![Batman Arkham City]({{site.url}}/media/profiles/logos/batman_arkham_city.jpg){: .img-responsive  .center-block }
 

@@ -17,6 +17,7 @@ tags:
 categories:
   - logitech_g13
   - video_games
+redirect_from: "/day-defeat-source-logitech-g13-profile/"
 ---
 ![Day of Defeat Source]({{site.url}}/media/profiles/logos/dodlogo.png){: .img-responsive  .center-block }
 

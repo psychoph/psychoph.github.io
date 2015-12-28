@@ -15,6 +15,7 @@ tags:
   - smoker
   - bbq
   - normex
+redirect_from: "/masterbuilt-smoker-modifications/"
 ---
 
 ## Overview

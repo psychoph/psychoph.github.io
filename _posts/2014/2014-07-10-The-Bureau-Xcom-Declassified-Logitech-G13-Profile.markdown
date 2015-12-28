@@ -15,6 +15,7 @@ excerpt: "I bought the Humble Bundle for the next two weeks and one of the games
 excerpt-img: "/media/profiles/logos/thebureau.png"
 author: "Jason Hardin"
 pageclass: logitechg13
+redirect_from: "/bureau-xcom-declassified-logitech-g13-profile/"
 ---
 ![The Bureau Xcom declassified]({{ site.url }}/media/profiles/logos/thebureau.png){: .img-responsive .center-block }
 

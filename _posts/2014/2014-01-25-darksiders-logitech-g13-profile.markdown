@@ -15,6 +15,9 @@ tags:
 categories:
   - logitech_g13
   - video_games
+redirect_from:
+  - "/699/"
+  - "/darksiders-logitech-g13-profile/"
 ---
 
 ![Darksiders]({{site.url}}/media/profiles/logos/darksiders_logo.png){: .img-responsive  .center-block }
