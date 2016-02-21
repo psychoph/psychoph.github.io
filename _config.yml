@@ -19,6 +19,8 @@ paginate: 5
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-paginate
 whitelist:
   - jekyll-redirect-from
