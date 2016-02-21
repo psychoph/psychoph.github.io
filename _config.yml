@@ -11,16 +11,3 @@ linkedin_username: jasonhardin
 steam_id: psychoph
 raptr_id: psychoph
 twitch_id: psychoph
-
-# Build settings
-permalink: pretty
-paginate: 5
-
-gems:
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-whitelist:
-  - jekyll-redirect-from
