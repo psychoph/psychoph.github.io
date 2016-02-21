@@ -6,7 +6,7 @@ categories:
   - logitech_g13
   - video_games
   - fps
-  tags:
+tags:
     - logitech g13
     - profile
     - fps
