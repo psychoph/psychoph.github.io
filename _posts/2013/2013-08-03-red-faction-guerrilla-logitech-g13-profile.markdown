@@ -2,19 +2,20 @@
 layout: post
 title: "Red Faction Guerrilla Logitech G13 Profile"
 date: "2013-08-03 15:22"
+categories:
+  - logitech_g13
+  - video_games
+  - fps
+  tags:
+    - logitech g13
+    - profile
+    - fps
+    - video games
+    - Red Faction
 excerpt: "The Logitech G13 has no default profile for Red Faction Guerrilla. I created a Red Faction Guerrilla Logitech G13 Profile just because I started playing today and I needed a profile."
 excerpt-img: "/media/profiles/logos/Red_Faction_Guerrilla_Cover.jpg"
 author: Jason Hardin
 pageclass: logitechg13
-tags:
-  - logitech g13
-  - profile
-  - fps
-  - video games
-  - Red Faction
-categories:
-  - logitech_g13
-  - video_games
 ---
 ![Red Faction Guerrilla]({{site.url}}/media/profiles/logos/Red_Faction_Guerrilla_Cover.jpg){: .img-responsive  .center-block }
 
