@@ -24,7 +24,7 @@ sudo openssl x509 -req -days 3650 -in pma.csr -signkey pma.key -out pma.crt
 
 Then my virtual host looks like:
 
-{% highlight ApacheConf linenos %}
+{% highlight conf linenos %}
 <VirtualHost *:80>
     ServerAdmin admin@localhost.com
     DocumentRoot "/var/www/baseapp_apm/app"

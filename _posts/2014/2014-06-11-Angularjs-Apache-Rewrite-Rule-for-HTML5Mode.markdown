@@ -15,7 +15,7 @@ redirect_from: "/Angularjs-Apache-Rewrite-Rule-for-HTML5Mode/"
 ---
 I found that as I was working on an [Angularjs](https://angularjs.org/) project that if you are not using Nodejs there are some rules you need to create to use Angularjs’s html5mode. For Apache you need to add the following rewrite rule to a .htaccess file or virtualhost.
 
-{% highlight apache linenos %}
+{% highlight conf linenos %}
 <ifModule mod_rewrite.c>
     RewriteEngine On
     RewriteCond %{REQUEST_FILENAME} !-f
