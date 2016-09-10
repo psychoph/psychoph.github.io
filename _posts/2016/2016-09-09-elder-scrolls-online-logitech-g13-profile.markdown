@@ -17,7 +17,7 @@ excerpt-img: "/media/profiles/logos/elder_scrolls_online_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
 ---
-![Elder Scrolls Online]({{site.url}}/media/profiles/logos/elder_scrolls_online.png){: .img-responsive  .center-block }
+![Elder Scrolls Online]({{site.url}}/media/profiles/logos/elder_scrolls_online_logo.png){: .img-responsive  .center-block }
 
 I started playing [Elder Scrolls Online](http://www.elderscrollsonline.com/) a while back with a friend of mine. I definitely enjoy this game a lot and have had a [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) profile for it for a long time. It just took me a while to post it because I lost it during a windows 10 upgrade and then life happened since then. Now that I got life some what under control I figured I should post it.
 
