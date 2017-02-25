@@ -13,7 +13,7 @@ tags:
     - space engineers
     - Space
     - construction
-excerpt: ""
+excerpt: "I haven't played enough of this game to form an opinion. This profile is just a preliminary one for the game that gets you through at least the initial part of the game."
 excerpt-img: "/media/profiles/logos/space_engineers_logo.jpg"
 author: Jason Hardin
 pageclass: logitechg13

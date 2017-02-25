@@ -13,7 +13,7 @@ tags:
     - For Honor
     - Ubisoft
     - fighting
-excerpt: ""
+excerpt: "I was able to play the beta of For Honor and I found it enjoyable once I got used to the controls. This profile should provide all the keys needed in the right spots for how often you will use them."
 excerpt-img: "/media/profiles/logos/for_honor_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
