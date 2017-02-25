@@ -14,7 +14,7 @@ tags:
     - Rust
     - survival
 excerpt: "Rust is an interesting game. It is more fun if you don't get killed within the first 15 minutes. This profile has worked for me so far but the longest I survived was 2 hours."
-excerpt-img: "/media/profiles/logos/rust_logo.jpg"
+excerpt-img: "/media/profiles/logos/rust_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
 ---

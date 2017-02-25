@@ -18,7 +18,7 @@ excerpt-img: "/media/profiles/logos/space_engineers_logo.jpg"
 author: Jason Hardin
 pageclass: logitechg13
 ---
-![Space Engineers]({{site.url}}/media/profiles/logos/space_engineers_logo.png){: .img-responsive  .center-block }
+![Space Engineers]({{site.url}}/media/profiles/logos/space_engineers_logo.jpg){: .img-responsive  .center-block }
 
 I picked up [Space Engineers](http://www.spaceengineersgame.com/) from the [Survive Humble Bundle](https://www.humblebundle.com) probably a year ago now. I haven't played a lot of the game. I made a [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) profile for it because that is what I do at this point unless the game works with my xbox 360 controller. I am not positive this is the layout I will stay with because I haven't played it enough to know if I have the most common keys I would use in the right places. Mostly the current profile allows me to move around correctly and access the early game controls I needed. Below is the keyboard layout as it stands.
 
