@@ -17,7 +17,7 @@ excerpt-img: "/media/profiles/logos/savage_lands_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
 ---
-![Savage Lands]({{site.url}}/media/profiles/logos/savage_lands_logo.jpg){: .img-responsive  .center-block }
+![Savage Lands]({{site.url}}/media/profiles/logos/savage_lands_logo.png){: .img-responsive  .center-block }
 
 I picked up [Savage Lands](https://www.signalstudios.net/savage-lands) from the [Survive Humble Bundle](https://www.humblebundle.com) probably a year ago now. I made a [Logitech G13](http://gaming.logitech.com/en-us/product/g13-advanced-gameboard) profile for it because that is what I do at this point unless the game works with my xbox 360 controller. I have enjoyed this game a lot, the reviews don't seem to positive and I can understand why. The game feels like Rust and several other survival build games only without other players in the game. The settings of being in a savage land with skeletons and wolves doesn't seem like enough of a departure to make it better or different form other survival games. Below is an image of the keyboard layout I use for the game.
 

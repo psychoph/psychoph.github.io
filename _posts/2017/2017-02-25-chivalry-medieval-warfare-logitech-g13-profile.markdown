@@ -12,7 +12,7 @@ tags:
     - fps
     - Chivalry Medieval Warfare
     - fighting
-excerpt: "I was able to play the beta of For Honor and I found it enjoyable once I got used to the controls. This profile should provide all the keys needed in the right spots for how often you will use them."
+excerpt: "I played Chivalry Medieval Warfare a little on a free weekend on Steam. Once I had an opportunity to buy it real cheap I did. This profile works well for the game."
 excerpt-img: "/media/profiles/logos/chivalry_medieval_warfare.png"
 author: Jason Hardin
 pageclass: logitechg13
