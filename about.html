@@ -5,7 +5,7 @@ description: "I'm Jason Hardin, Product Manager at Blackboard. This blog is my p
 pageclass: main
 ---
 
-<div class="container-fluid mdi-set">
+<div class="container-fluid">
   <div class="row">
     <div class="col-xs-4">
       <img src="/img/me.jpg" alt="" class="img-responsive">
@@ -15,28 +15,28 @@ pageclass: main
       <ul class="list-unstyled">
         {% if site.github_username %}
         <li>
-          <a href="https://github.com/{{ site.github_username }}" class="mdi-github-box mdi-48px">
+          <a href="https://github.com/{{ site.github_username }}" class="mdi mdi-github-box mdi-48px">
             {{ site.github_username }}
           </a>
         </li>
         {% endif %}
         {% if site.twitter_username %}
         <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}" class="mdi-twitter mdi-48px">
+          <a href="https://twitter.com/{{ site.twitter_username }}" class="mdi mdi-twitter mdi-48px">
             {{ site.twitter_username }}
           </a>
         </li>
         {% endif %}
         {% if site.googleplus_username %}
         <li>
-          <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts" class="mdi-google-plus mdi-48px">
+          <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts" class="mdi mdi-google-plus mdi-48px">
             +{{ site.googleplus_username }}
           </a>
         </li>
         {% endif %}
         {% if site.linkedin_username %}
         <li>
-          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="mdi-linkedin-box mdi-48px">
+          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="mdi mdi-linkedin-box mdi-48px">
             {{site.linkedin_username}}
           </a>
         </li>
@@ -48,19 +48,19 @@ pageclass: main
       <ul class="list-unstyled">
         {% if site.steam_id %}
         <li>
-          <a href="http://steamcommunity.com/id/{{site.steam_id}}" class="mdi-steam mdi-48px">
+          <a href="http://steamcommunity.com/id/{{site.steam_id}}" class="mdi mdi-steam mdi-48px">
             {{site.steam_id}}
           </a>
         </li>
         {% endif %}
         {% if site.psn_id %}
         <li>
-          <a href="https://my.playstation.com/{{site.psn_id}}" class="mdi-playstation mdi-48px">{{site.site.psn_id}}</a>
+          <a href="https://my.playstation.com/{{site.psn_id}}" class="mdi mdi-playstation mdi-48px">{{site.psn_id}}</a>
         </li>
         {% endif %}
         {% if site.twitch_id %}
         <li>
-          <a href="http://www.twitch.tv/{{site.twitch_id}}/profile" class="mdi-twitch mdi-48px">
+          <a href="http://www.twitch.tv/{{site.twitch_id}}/profile" class="mdi mdi-twitch mdi-48px">
             {{site.twitch_id}}
           </a>
         </li>
