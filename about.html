@@ -15,33 +15,28 @@ pageclass: main
       <ul class="list-unstyled">
         {% if site.github_username %}
         <li>
-          <a href="https://github.com/{{ site.github_username }}">
-            <i class="mdi-github"></i>
+          <a href="https://github.com/{{ site.github_username }}" class="mdi-github mdi-48px">
             {{ site.github_username }}
           </a>
         </li>
         {% endif %}
         {% if site.twitter_username %}
         <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}">
-            <i class="mdi-twitter"></i>
+          <a href="https://twitter.com/{{ site.twitter_username }}" class="mdi-twitter mdi-48px">
             {{ site.twitter_username }}
           </a>
         </li>
         {% endif %}
         {% if site.googleplus_username %}
         <li>
-          <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts">
-              <i class="mdi-google-plus-square"></i>
-            </span>
+          <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts" class="mdi-google-plus mdi-48px">
             +{{ site.googleplus_username }}
           </a>
         </li>
         {% endif %}
         {% if site.linkedin_username %}
         <li>
-          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}">
-              <i class="mdi-linkedin"></i>
+          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="mdi-linkedin mdi-48px">
             {{site.linkedin_username}}
           </a>
         </li>
@@ -53,21 +48,19 @@ pageclass: main
       <ul class="list-unstyled">
         {% if site.steam_id %}
         <li>
-          <a href="http://steamcommunity.com/id/{{site.steam_id}}">
-              <i class="fa mdi-steam"></i>
+          <a href="http://steamcommunity.com/id/{{site.steam_id}}" class="mdi-steam mdi-48px">
             {{site.steam_id}}
           </a>
         </li>
         {% endif %}
         {% if site.psn_id %}
         <li>
-          <a href="http://us.playstation.com/playstation/psn/visit/profiles/{{site.psn_id}}"><img src="http://fp.profiles.us.playstation.com/playstation/psn/pid/{{site.psn_id}}.png" width="230" height="155" border="0" /></a>
+          <a href="http://us.playstation.com/playstation/psn/visit/profiles/{{site.psn_id}}" class="mdi-playstation mdi-48px"><img src="http://fp.profiles.us.playstation.com/playstation/psn/pid/{{site.psn_id}}.png" width="230" height="155" border="0" /></a>
         </li>
         {% endif %}
         {% if site.twitch_id %}
         <li>
-          <a href="http://www.twitch.tv/{{site.twitch_id}}/profile">
-            <i class="mdi-twitch"></i>
+          <a href="http://www.twitch.tv/{{site.twitch_id}}/profile" class="mdi-twitch mdi-48px">
             {{site.twitch_id}}
           </a>
         </li>
