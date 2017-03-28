@@ -15,7 +15,7 @@ pageclass: main
       <ul class="list-unstyled">
         {% if site.github_username %}
         <li>
-          <a href="https://github.com/{{ site.github_username }}" class="mdi-github mdi-48px">
+          <a href="https://github.com/{{ site.github_username }}" class="mdi-github-box mdi-48px">
             {{ site.github_username }}
           </a>
         </li>
@@ -36,7 +36,7 @@ pageclass: main
         {% endif %}
         {% if site.linkedin_username %}
         <li>
-          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="mdi-linkedin mdi-48px">
+          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="mdi-linkedin-box mdi-48px">
             {{site.linkedin_username}}
           </a>
         </li>
@@ -55,7 +55,7 @@ pageclass: main
         {% endif %}
         {% if site.psn_id %}
         <li>
-          <a href="http://us.playstation.com/playstation/psn/visit/profiles/{{site.psn_id}}" class="mdi-playstation mdi-48px"><img src="http://fp.profiles.us.playstation.com/playstation/psn/pid/{{site.psn_id}}.png" width="230" height="155" border="0" /></a>
+          <a href="https://my.playstation.com/{{site.psn_id}}" class="mdi-playstation mdi-48px">{{site.site.psn_id}}</a>
         </li>
         {% endif %}
         {% if site.twitch_id %}
