@@ -1,7 +1,8 @@
 ---
 layout: "post"
 title: "Overwatch Logitech G13 Profile"
-date: "2017-07-02 15:11"categories:
+date: "2017-07-02 15:11"
+categories:
   - logitech_g13
   - video_games
   - fps
@@ -11,7 +12,7 @@ tags:
     - fps
     - Overwatch
     - fighting
-excerpt: "I bought Overwatch a little on a free weekend on Steam. Once I had an opportunity to buy it real cheap I did. This profile works well for the game."
+excerpt: "I bought Overwatch for my birthday and made a profile for it because the default one didn't really take advantage of right key placements."
 excerpt-img: "/media/profiles/logos/overwatch_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
