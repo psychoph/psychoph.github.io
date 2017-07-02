@@ -3,7 +3,7 @@ layout: post
 title: "The Secret World Logitech G13 Profile"
 date: "2013-07-02 16:47"
 excerpt: "I received access to The Secret World this week as part of their try out the game offer. As with every other MMORPG my first step was to make a Logitech G13 profile that worked for me. I put together 2 profiles for The Secret World, The Secret World Logitech G13 Profile for DX11 and The Secret World Logitech G13 Profile, because the executable is different for the game based on your graphics settings."
-excerpt-img: "/media/profiles/logos/"
+excerpt-img: "/media/profiles/logos/tsw_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
 tags:
