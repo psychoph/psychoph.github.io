@@ -23,4 +23,4 @@ After playing more and more with the [Logitech G13](http://gaming.logitech.com/e
 
 ![Lord of the Rings Online Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/layouts/lord_of_the_rings_online_keyboard_layout.png){: .img-responsive  .center-block }
 
-[Right click and select save as to download the Logitech G13 profile for Lord of the Rings Online]({{ site.url }}/media/profiles/xml/lord_of_the_rings_online2.xml)
+[Right click and select save as to download the Logitech G13 profile for Lord of the Rings Online]({{ site.url }}/media/profiles/xml/lord_of_the_rings_online.xml)
