@@ -28,4 +28,4 @@ Below is the screenshot of the multiplayer keyboard layout:
 
 ![Medal of Honor Multiplayer Logitech G13 Keyboard Profile]({{site.url}}/media/profiles/layouts/medal_of_honor_multiplayer_keyboard_layout.png){: .img-responsive  .center-block }
 
-[Right click and select save as to download the Logitech G13 profile for Medal of Honor Multiplayer]({{ site.url }}/media/profiles/layouts/medal_of_honor_multiplayer.xml)
+[Right click and select save as to download the Logitech G13 profile for Medal of Honor Multiplayer]({{ site.url }}/media/profiles/xml/medal_of_honor_multiplayer.xml)
