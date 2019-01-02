@@ -11,10 +11,11 @@ tags:
     - release notes
     - Waterdeep
 excerpt: "I want to make the Waterdeep Fantasy Grounds Module the best module for Waterdeep and a serious time saver for DMs. I am working towards publishing updates to the Module every two weeks. Over the next two weeks I will be focusing on noble family crests, villa descriptions and battlemaps."
-excerpt-img: "/media/dmgs/waterdeepfglogo.png"
+excerpt-img: "/media/dmsg/waterdeepfglogo.png"
 author: Jason Hardin
 pageclass: dmsg
 ---
+![Waterdeep Fantasy Grounds Module]({{site.url}}/media/dmsg/waterdeepfglogo.png){: .img-responsive  .center-block }
 ## 2019-1-1
 * Added All locations map with all Waterdeep locations in one map.
 * Noble Family Crests Added: Zun, Zulpair, Wavesilver, Moonstar, Melshimber, Majarra, Konthont
