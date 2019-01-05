@@ -16,6 +16,8 @@ author: Jason Hardin
 pageclass: dmsg
 ---
 ![Waterdeep Fantasy Grounds Module]({{site.url}}/media/dmsg/waterdeepfglogo.png){: .img-responsive  .center-block }
+## 2019-1-4
+* Added all pins to the Waterdeep Dragon Heist player maps (ex. Waterdeep-E-Players) as well as the DM maps. 
 ## 2019-1-1
 * Added All locations map with all Waterdeep locations in one map.
 * Noble Family Crests Added: Zun, Zulpair, Wavesilver, Moonstar, Melshimber, Majarra, Konthont
