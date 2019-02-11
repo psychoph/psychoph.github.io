@@ -16,8 +16,17 @@ author: Jason Hardin
 pageclass: dmsg
 ---
 ![Waterdeep Fantasy Grounds Module]({{site.url}}/media/dmsg/waterdeepfglogo.png){: .img-responsive  .center-block }
+## 2019-2-10
+* Added 11 more fences
+* Added new category of npcs Waterdeep NPCs: Fence Contacts
+* Added 6 fence contacts
+* Added all fences and fence contacts to the buildings the are usually located in. All should be interlinked
+* Added a pin for each fence and fence contact on the Waterdeep Locations: Fences map
+* Finished all of the Family crests
+* Releases should become more accurate. I wrote a release script which modifies all files that need to be modified and creates the DMs Guild zip file.
+
 ## 2019-1-4
-* Added all pins to the Waterdeep Dragon Heist player maps (ex. Waterdeep-E-Players) as well as the DM maps. 
+* Added all pins to the Waterdeep Dragon Heist player maps (ex. Waterdeep-E-Players) as well as the DM maps.
 ## 2019-1-1
 * Added All locations map with all Waterdeep locations in one map.
 * Noble Family Crests Added: Zun, Zulpair, Wavesilver, Moonstar, Melshimber, Majarra, Konthont
