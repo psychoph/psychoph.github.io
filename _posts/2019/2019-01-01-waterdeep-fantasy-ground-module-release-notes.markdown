@@ -25,6 +25,13 @@ pageclass: dmsg
 * Finished all of the Family crests
 * Releases should become more accurate. I wrote a release script which modifies all files that need to be modified and creates the DMs Guild zip file.
 
+## 2019-1-23
+* Fixed the pins in the DD Waterdeep Heist Player Maps
+
+## 2019-1-15
+* Fix several family crests that had improper sizing and backgrounds
+* Fixed the DD Waterdeep Dragon Heist.xml to add \@Waterdeep to the correct recordname xml tags.
+
 ## 2019-1-4
 * Added all pins to the Waterdeep Dragon Heist player maps (ex. Waterdeep-E-Players) as well as the DM maps.
 ## 2019-1-1
