@@ -16,6 +16,13 @@ author: Jason Hardin
 pageclass: dmsg
 ---
 ![Waterdeep Fantasy Grounds Module]({{site.url}}/media/dmsg/waterdeepfglogo.png){: .img-responsive  .center-block }
+## 2019-7-4
+* Added Dragon's Head tavern battle map for all three floors
+* Added high end shop battlemap
+* Added outer fort battlemaps for three floors
+* Linked all of the appropriate story pages to the battlemaps
+* Added a zip of the noble family crests to be used for external materials
+
 ## 2019-2-10
 * Added 11 more fences
 * Added new category of npcs Waterdeep NPCs: Fence Contacts
