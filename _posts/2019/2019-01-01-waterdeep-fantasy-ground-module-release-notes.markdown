@@ -16,6 +16,10 @@ author: Jason Hardin
 pageclass: dmsg
 ---
 ![Waterdeep Fantasy Grounds Module]({{site.url}}/media/dmsg/waterdeepfglogo.png){: .img-responsive  .center-block }
+##2019-8-11
+* Added a smaller version of the campaign map that is 50% of the file size to make it easier to send to players. These are found in the Waterdeep: City Maps image group.
+* Added 8 new campaign maps that break the campaign map up into each ward in Waterdeep. These are also smaller files and should be quicker to send and render for your players. These are found in the Waterdeep: City Maps image group.
+
 ## 2019-7-4
 * Added Dragon's Head tavern battle map for all three floors
 * Added high end shop battlemap
