@@ -13,6 +13,13 @@ pageclass: main
     <div class="col-xs-4">
       <h3>Social Profiles</h3>
       <ul class="list-unstyled">
+        {% if site.patreon_username %}
+        <li>
+          <a href="https://patreon.com/+{{ site.googleplus_username }}/posts" class="mdi mdi-patreon mdi-48px">
+            +{{ site.patreon_username }}
+          </a>
+        </li>
+        {% endif %}
         {% if site.github_username %}
         <li>
           <a href="https://github.com/{{ site.github_username }}" class="mdi mdi-github-box mdi-48px">
@@ -24,13 +31,6 @@ pageclass: main
         <li>
           <a href="https://twitter.com/{{ site.twitter_username }}" class="mdi mdi-twitter mdi-48px">
             {{ site.twitter_username }}
-          </a>
-        </li>
-        {% endif %}
-        {% if site.googleplus_username %}
-        <li>
-          <a href="https://plus.google.com/+{{ site.googleplus_username }}/posts" class="mdi mdi-google-plus mdi-48px">
-            +{{ site.googleplus_username }}
           </a>
         </li>
         {% endif %}
@@ -65,29 +65,27 @@ pageclass: main
           </a>
         </li>
         {% endif %}
-        {% if site.raptr_id %}
-        <li>
-          <a href="http://raptr.com/{{site.raptr_id}}?src=em_all"><img alt="Raptr Gamercard" src="http://raptr.com/badge/{{site.raptr_id}}/fs_overall.png" style="border: none;"></a>
-        </li>
-        {% endif %}
       </ul>
     </div>
   </div>
   <div class="row">
     <div class="col-xs-12">
-      I am the Senior Product Manager for Open Source Solutions at <a href="http://www.moodlerooms.com">Moodlerooms</a> a subsidiary of <a href="http://www.blackboard.com">Blackboard</a>. I have been programming for more than 15 years and have experience
+      I am the Senior Product Manager for Leran at <a href="http://www.blackboard.com">Blackboard</a>. I have been programming for more than 15 years and have experience
       with the following programming languages:
       <ul>
         <li>JavaScript</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
+        <li>Python</li>
         <li>Java</li>
         <li>C++</li>
       </ul>
       This site is my personal blog and represents only my opinions and hobbies not those of my employer. The blog is here to house my personal projects for role-playing, video games, programming, DIY and cooking. I also like to post notes here about things
       I learned during my programming experiences at work or with personal projects. I often times write posts on answers to problems that caused me some headaches or time to resolve. For me the resolution is the key and the blog post is there to keep
       me from repeating the same mistake twice.
+
+      I have also started up my own Patreon where I post FREE battlemaps for Forgotten Realms. I will link to those posts from this site as well. If you like what I do <a href="https://www.patreon.com/bePatron?u=10666748" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>.
     </div>
   </div>
 </div>
