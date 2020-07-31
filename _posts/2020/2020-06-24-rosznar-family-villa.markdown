@@ -3,16 +3,15 @@ layout: "post"
 title: "Rosznar Family Villa Battlemaps"
 date: "2019-06-24 20:10"
 categories:
-  - Waterdeep
-  - Rosznar
-  - Patreon
-  - Battlemaps
-  - Maps
-  - buildings
+  - battlemaps
 tags:
     - Waterdeep
     - Noble Families
     - Battlemaps
+    - Rosznar
+    - Patreon
+    - Maps
+    - buildings
 excerpt: "These maps detail the Rosznar family villa in Waterdeep. These maps will be useful for anyone looking to run a game in Waterdeep and have the Rosznar family as benefactors or villains. If you go to my Patreon page you will find separate posts for each of the houses."
 excerpt-img-full: "https://i.redd.it/7qx2jvxzqeh41.jpg"
 author: Jason Hardin

@@ -3,14 +3,13 @@ layout: "post"
 title: "Battlemaps of the Sleepy Slyph in Waterdeep"
 date: "2019-06-25 20:10"
 categories:
-  - Waterdeep
-  - Patreon
-  - Battlemaps
-  - Maps
-  - buildings
+  - battlemaps
 tags:
     - Waterdeep
     - Battlemaps
+    - Patreon
+    - Maps
+    - buildings
 excerpt: "I have created a collection of free battlemaps of the Sleeping Slyph in Waterdeep. Neither TSR nor WoTC have published an official map of the Sleepy Slyph. These battlemaps are, therefore, original. "
 excerpt-img-full: "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/39753221/f705c9087b2c47988cc20f1600c744bb/1.jpg?token-time=1597190102&token-hash=Ud2y807wyy6BiWJ85ZQAEmuf5z-WdgtTx-GZMwzDPIs%3D"
 author: Jason Hardin

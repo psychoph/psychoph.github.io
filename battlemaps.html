@@ -1,0 +1,13 @@
+--
+layout: page
+title: "Battlemaps"
+description: "Battlemaps I have released on Patreon"
+pageclass: rpg
+category: battlemaps
+---
+
+{% assign thecycle = true %}
+
+{% for post in site.categories[page.category] %}
+{% include post.html %}
+{% endfor %}
