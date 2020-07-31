@@ -12,11 +12,11 @@ tags:
     - Modular Buildings
     - Battlemaps
 excerpt: "I have created a collection of free battlemaps that of a single floor of a building. The first floor maps connect to the second-floor maps by either a set of stairs at the top of the map or the middle of the map.  Dungeon Masters can swap out the first or second floor to make many combinations of two-story buildings."
-excerpt-img-full: "https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/38545666/d00d4d7244a74c2db6317aac6b3405dc/1.jpg?token-time=1594317475&token-hash=-VJI4CRvhvK5rQoFG8Ns4eu7v4ZAQL9yVer0USL0zSs%3D"
+excerpt-img-full: "https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/37546080/e984614984c44643820f46093217fd64/1.jpg?token-time=1597372757&token-hash=DZ4cbJDCwXMEl57ltPk5QFBfy_bKCMlZem0aQkswGOY%3D"
 author: Jason Hardin
 pageclass: dmsg
 ---
-![Modular Building Battlemap](https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/38545666/d00d4d7244a74c2db6317aac6b3405dc/1.jpg?token-time=1594317475&token-hash=-VJI4CRvhvK5rQoFG8Ns4eu7v4ZAQL9yVer0USL0zSs%3D){: .img-responsive  .center-block }
+![Modular Building Battlemap](https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/37546080/e984614984c44643820f46093217fd64/1.jpg?token-time=1597372757&token-hash=DZ4cbJDCwXMEl57ltPk5QFBfy_bKCMlZem0aQkswGOY%3D){: .img-responsive  .center-block }
 
 I have created a collection of free battlemaps that of a single floor of a building. The first floor maps connect to the second-floor maps by either a set of stairs at the top of the map or the middle of the map.  Dungeon Masters can swap out the first or second floor to make many combinations of two-story buildings.
 Do you want a tavern with offices above in the rich part of town? Use the expensive tavern first-floor map and then the expensive office's second-floor map. Need a seedy tavern with apartments above it? Use the cheap tavern first-floor map with the apartment's second-floor map. Currently, there are three different types of maps taverns, offices, apartments, and one inn. I am working on adding feasthalls, shop fronts, and warehouses to the mix over time.
