@@ -13,7 +13,7 @@ tags:
 excerpt: "I have created a collection of free battlemaps that of a single floor of a building. The first floor maps connect to the second-floor maps by either a set of stairs at the top of the map or the middle of the map.  Dungeon Masters can swap out the first or second floor to make many combinations of two-story buildings."
 excerpt-img-full: "https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/37546080/e984614984c44643820f46093217fd64/1.jpg?token-time=1597372757&token-hash=DZ4cbJDCwXMEl57ltPk5QFBfy_bKCMlZem0aQkswGOY%3D"
 author: Jason Hardin
-pageclass: dmsg
+pageclass: rpg
 ---
 ![Modular Building Battlemap](https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/37546080/e984614984c44643820f46093217fd64/1.jpg?token-time=1597372757&token-hash=DZ4cbJDCwXMEl57ltPk5QFBfy_bKCMlZem0aQkswGOY%3D){: .img-responsive  .center-block }
 

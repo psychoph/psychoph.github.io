@@ -11,7 +11,7 @@ tags:
 excerpt: "I want to make the Waterdeep Fantasy Grounds Module the best module for Waterdeep and a serious time saver for DMs. I am working towards publishing updates to the Module every two weeks. Over the next two weeks I will be focusing on noble family crests, villa descriptions and battlemaps."
 excerpt-img: "/media/dmsg/waterdeepfglogo.png"
 author: Jason Hardin
-pageclass: dmsg
+pageclass: rpg
 ---
 ![Waterdeep Fantasy Grounds Module]({{site.url}}/media/dmsg/waterdeepfglogo.png){: .img-responsive  .center-block }
 ##2019-8-11
