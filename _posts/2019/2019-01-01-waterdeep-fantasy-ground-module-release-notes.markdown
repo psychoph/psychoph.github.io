@@ -3,13 +3,11 @@ layout: "post"
 title: "Waterdeep Fantasy Ground Module Release Notes"
 date: "2019-01-01 20:10"
 categories:
-  - Waterdeep
   - dmsguild
+tags:
   - DMs Guild
   - Release Notes
-tags:
-    - release notes
-    - Waterdeep
+  - Waterdeep
 excerpt: "I want to make the Waterdeep Fantasy Grounds Module the best module for Waterdeep and a serious time saver for DMs. I am working towards publishing updates to the Module every two weeks. Over the next two weeks I will be focusing on noble family crests, villa descriptions and battlemaps."
 excerpt-img: "/media/dmsg/waterdeepfglogo.png"
 author: Jason Hardin

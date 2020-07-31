@@ -7,11 +7,11 @@ categories:
   - video_games
   - fps
 tags:
-    - logitech g13
-    - profile
-    - fps
-    - video games
-    - BioShock
+  - logitech g13
+  - profile
+  - fps
+  - video games
+  - BioShock
 excerpt: "BioShock 2 has a few default profiles for the Logitech  G13. I didn't like any of them so I created my own."
 excerpt-img: "/media/profiles/logos/bioshock_2_logo.jpg"
 author: Jason Hardin
