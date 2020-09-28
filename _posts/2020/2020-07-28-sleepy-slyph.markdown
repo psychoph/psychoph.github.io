@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Battlemaps of the Sleepy Slyph in Waterdeep"
-date: "2019-06-25 20:10"
+date: "2020-07-28 20:10"
 categories:
   - battlemaps
 tags:
