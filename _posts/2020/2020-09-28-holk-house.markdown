@@ -10,11 +10,11 @@ tags:
   - Maps
   - buildings
 excerpt: "I have created a collection of free battlemaps of Holk House in Mere of Dead Men of Faerun. The maps are based off of the maps in Dungeon Magazine #71."
-excerpt-img-full: "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/42122595/07873573c07c4de38a9e97fba01402e1/1.jpg?token-time=1602985738&token-hash=2rQvcByU_CMBbwBgtD_fPdXAvTT05JsM64OYCvT6DH4%3D"
+excerpt-img-full: "https://preview.redd.it/2a3lad4w9zp51.jpg"
 author: Jason Hardin
 pageclass: rpg
 ---
-![The first floor of tHolk House and an example of the battlemaps](https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/42122595/07873573c07c4de38a9e97fba01402e1/1.jpg?token-time=1602985738&token-hash=2rQvcByU_CMBbwBgtD_fPdXAvTT05JsM64OYCvT6DH4%3D){: .img-responsive  .center-block }
+![The first floor of tHolk House and an example of the battlemaps](https://preview.redd.it/2a3lad4w9zp51.jpg){: .img-responsive  .center-block }
 I have created a collection of free battlemaps of Holk House in Mere of Dead Men of Faerun. The maps are based off of the maps in Dungeon Magazine #71.
 If you want to understand everything that is happening on the map, I recommend reading the magazine. There are over 24 rooms detailed there. Here is a rough overview:
 * Floor 1 -  This is the central area of the temple. Water has flooded all but two rooms on the floor. Magic protects those two rooms from flooding. There are various encounters in different rooms that the players can enter, and the players all should have rings of water breathing.
