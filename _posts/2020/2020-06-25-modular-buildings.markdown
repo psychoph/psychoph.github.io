@@ -11,11 +11,11 @@ tags:
   - Maps
   - buildings
 excerpt: "I have created a collection of free battlemaps that of a single floor of a building. The first floor maps connect to the second-floor maps by either a set of stairs at the top of the map or the middle of the map.  Dungeon Masters can swap out the first or second floor to make many combinations of two-story buildings."
-excerpt-img-full: "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/38546118/82cb02040bf441eeab5f956bb1af7d30/1.jpg?token-time=1602985855&token-hash=3lw7TL3uOZ2ubjYu3r_BOfDrsK5SGXjE4YxSgzKbObs%3D"
+excerpt-img-full: "https://i.redd.it/uut017x95x351.gif"
 author: Jason Hardin
 pageclass: rpg
 ---
-![Modular Building Battlemap](https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/38546118/82cb02040bf441eeab5f956bb1af7d30/1.jpg?token-time=1602985855&token-hash=3lw7TL3uOZ2ubjYu3r_BOfDrsK5SGXjE4YxSgzKbObs%3D){: .img-responsive  .center-block }
+![Modular Building Battlemap](https://i.redd.it/uut017x95x351.gif){: .img-responsive  .center-block }
 
 I have created a collection of free battlemaps that of a single floor of a building. The first floor maps connect to the second-floor maps by either a set of stairs at the top of the map or the middle of the map.  Dungeon Masters can swap out the first or second floor to make many combinations of two-story buildings.
 Do you want a tavern with offices above in the rich part of town? Use the expensive tavern first-floor map and then the expensive office's second-floor map. Need a seedy tavern with apartments above it? Use the cheap tavern first-floor map with the apartment's second-floor map. Currently, there are three different types of maps taverns, offices, apartments, and one inn. I am working on adding feasthalls, shop fronts, and warehouses to the mix over time.
