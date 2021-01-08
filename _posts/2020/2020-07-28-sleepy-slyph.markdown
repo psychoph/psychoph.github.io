@@ -10,6 +10,10 @@ tags:
   - Patreon
   - Maps
   - buildings
+  - Dungeons and Dragons
+  - DnD
+  - Faerun
+  - Faerun
 excerpt: "I have created a collection of free battlemaps of the Sleeping Slyph in Waterdeep. Neither TSR nor WoTC have published an official map of the Sleepy Slyph. These battlemaps are, therefore, original. "
 excerpt-img-full: "https://i.redd.it/f1g34t53uod51.jpg"
 author: Jason Hardin

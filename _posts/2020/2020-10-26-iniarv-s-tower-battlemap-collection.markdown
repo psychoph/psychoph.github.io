@@ -9,6 +9,9 @@ tags:
   - Patreon
   - Maps
   - buildings
+  - Dungeons and Dragons
+  - DnD
+  - Faerun
 excerpt: "I have created two versions of Iniarv's Tower. I based the maps on the maps from Dungeon Magazine #73."
 excerpt-img-full: "https://i.redd.it/2a3lad4w9zp51.jpg"
 author: Jason Hardin

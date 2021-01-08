@@ -9,6 +9,9 @@ tags:
   - Patreon
   - Maps
   - buildings
+  - Dungeons and Dragons
+  - DnD
+  - Faerun
 excerpt: "I have created a collection of free battlemaps of Holk House in Mere of Dead Men of Faerun. The maps are based off of the maps in Dungeon Magazine #71."
 excerpt-img-full: "https://i.redd.it/2a3lad4w9zp51.jpg"
 author: Jason Hardin
