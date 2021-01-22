@@ -16,7 +16,7 @@ excerpt-img: "/media/profiles/logos/apex_logo.png"
 author: Jason Hardin
 pageclass: logitechg13
 ---
-![Apex Legends]({{site.url}}/media/profiles/logos/fortnite_logo.png){: .img-responsive  .center-block }
+![Apex Legends]({{site.url}}/media/profiles/logos/apex_logo.png){: .img-responsive  .center-block }
 
 I started playing [Apex Legends](https://www.ea.com/games/apex-legends) last week with some friends, midway into Season 7. I have enjoyed the game as a break from Fortnite. I like that it is cross-platform. I don't particularly appreciate playing FPSs on PS4, obviously preferring a keyboard and mouse. I do wish that they were like Fortnite and have cross-platform progress. I lost a lot of twitch prime bonuses to my PS4 account because I logged in there first. I am still horrible at it, but as a free-to-play game, it is worth a playthrough. I do like the multiple classes compared to the static characters in Fortnite.
 
