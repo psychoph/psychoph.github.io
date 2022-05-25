@@ -27,10 +27,6 @@ I am reposting the holk house maps based on my new process for generating map ex
 
 Floor 1 is the central area of the temple. Water has flooded all but two rooms on the floor. Magic protects those two rooms from flooding. There are various encounters in different rooms that the players can enter, and the players all should have rings of water breathing.
 
-    Floor 2 - The NPCs living in the temple use this floor to rest in their private chambers. There is a weird fog coming out of the central room and a hidden treasure area in the northwest corner.
-
-    Floor 3 - The whole floor is only accessible from the west steps and the cloud in the middle is a portal to the underworld.
-
 For the first floor, I made four versions of the map to remove the water. I wasn't sure if a DM would want to use the maps with or without the water. The numbers in the DM's map correspond to the descriptions in the dungeon magazine.
 
 ### Map Options
