@@ -13,7 +13,7 @@ tags:
   - DnD
   - Faerun
 
-excerpt: ""
+excerpt: "The NPCs living in the temple use this floor to rest in their private chambers. There is a weird fog coming out of the central room and a hidden treasure area in the northwest corner. The numbers in the DM's map correspond to the descriptions in the dungeon magazine."
 excerpt-img-full: "https://drive.google.com/uc?id=1I3QMSIp4tPyNF6YiKtlQLiyKYypmDI4q"
 author: Jason Hardin
 pageclass: rpg
@@ -23,16 +23,9 @@ pageclass: rpg
 
 ### Map Overview
 
-[Introduction text]. I have a DM's map with numbers on it that correspond to the descriptions below:
+I am reposting the holk house maps based on my new process for generating map exports. I based the maps on the maps from Dungeon Magazine #71 pg 55. If you want to understand everything that is happening on the map, I recommend reading the magazine. There are over 24 rooms detailed there.
 
-1. **Building 1:** this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
+The NPCs living in the temple use this floor to rest in their private chambers. There is a weird fog coming out of the central room and a hidden treasure area in the northwest corner. The numbers in the DM's map correspond to the descriptions in the dungeon magazine.
 
 ### Map Options
 
@@ -46,7 +39,8 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 
 ### File Downloads
 
-## PDFs 
+## PDFs
+
 1. [dm high contrast full grid A4 no border](https://dtr.jasonhardin.com/cujq)
 1. [dm high contrast full grid Letter no border](https://dtr.jasonhardin.com/6Bt1)
 1. [dm high contrast no grid A4 no border](https://dtr.jasonhardin.com/314G)
@@ -63,7 +57,9 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players no contrast full grid Letter no border](https://dtr.jasonhardin.com/aokz)
 1. [players no contrast no grid A4 no border](https://dtr.jasonhardin.com/p5Du)
 1. [players no contrast no grid Letter no border](https://dtr.jasonhardin.com/ZYqg)
-## WEBPs 
+
+## WEBPs
+
 1. [dm high contrast full grid](https://dtr.jasonhardin.com/e5ts)
 1. [dm high contrast no grid](https://dtr.jasonhardin.com/dhxW)
 1. [dm no contrast full grid](https://dtr.jasonhardin.com/GZis)
@@ -72,6 +68,5 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players high contrast no grid](https://dtr.jasonhardin.com/Cto8)
 1. [players no contrast full grid](https://dtr.jasonhardin.com/Ntv7)
 1. [players no contrast no grid](https://dtr.jasonhardin.com/1Y77)
-
 
 If you like my work, I would be overjoyed if you became a patron and supported me. You can find out more about patronage on my Patreon page, [Detailing the Realm](https://www.patreon.com/detailingtherealm)

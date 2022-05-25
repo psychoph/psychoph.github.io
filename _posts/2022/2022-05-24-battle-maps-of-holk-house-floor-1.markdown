@@ -13,7 +13,7 @@ tags:
   - DnD
   - Faerun
 
-excerpt: ""
+excerpt: "Floor 1 is the central area of the temple. Water has flooded all but two rooms on the floor. Magic protects those two rooms from flooding. There are various encounters in different rooms that the players can enter, and the players all should have rings of water breathing."
 excerpt-img-full: "https://drive.google.com/uc?id=1zwuWx7b7Y28dO1wu3845BGiAIsdkS7Nv"
 author: Jason Hardin
 pageclass: rpg
@@ -23,16 +23,15 @@ pageclass: rpg
 
 ### Map Overview
 
-[Introduction text]. I have a DM's map with numbers on it that correspond to the descriptions below:
+I am reposting the holk house maps based on my new process for generating map exports. I based the maps on the maps from Dungeon Magazine #71 pg 55. If you want to understand everything that is happening on the map, I recommend reading the magazine. There are over 24 rooms detailed there.
 
-1. **Building 1:** this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
+Floor 1 is the central area of the temple. Water has flooded all but two rooms on the floor. Magic protects those two rooms from flooding. There are various encounters in different rooms that the players can enter, and the players all should have rings of water breathing.
+
+    Floor 2 - The NPCs living in the temple use this floor to rest in their private chambers. There is a weird fog coming out of the central room and a hidden treasure area in the northwest corner.
+
+    Floor 3 - The whole floor is only accessible from the west steps and the cloud in the middle is a portal to the underworld.
+
+For the first floor, I made four versions of the map to remove the water. I wasn't sure if a DM would want to use the maps with or without the water. The numbers in the DM's map correspond to the descriptions in the dungeon magazine.
 
 ### Map Options
 
@@ -46,7 +45,8 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 
 ### File Downloads
 
-## PDFs 
+## PDFs
+
 1. [dm high contrast full grid A4 no border](https://dtr.jasonhardin.com/X9zu)
 1. [dm high contrast full grid Letter no border](https://dtr.jasonhardin.com/hoju)
 1. [dm high contrast no grid A4 no border](https://dtr.jasonhardin.com/deiF)
@@ -63,7 +63,9 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players no contrast full grid Letter no border](https://dtr.jasonhardin.com/8Z4Y)
 1. [players no contrast no grid A4 no border](https://dtr.jasonhardin.com/4jcH)
 1. [players no contrast no grid Letter no border](https://dtr.jasonhardin.com/qhLh)
-## WEBPs 
+
+## WEBPs
+
 1. [dm high contrast full grid](https://dtr.jasonhardin.com/aF6A)
 1. [dm high contrast no grid](https://dtr.jasonhardin.com/1jvy)
 1. [dm no contrast full grid](https://dtr.jasonhardin.com/zKs8)
@@ -72,6 +74,5 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players high contrast no grid](https://dtr.jasonhardin.com/Smyr)
 1. [players no contrast full grid](https://dtr.jasonhardin.com/nphB)
 1. [players no contrast no grid](https://dtr.jasonhardin.com/C66u)
-
 
 If you like my work, I would be overjoyed if you became a patron and supported me. You can find out more about patronage on my Patreon page, [Detailing the Realm](https://www.patreon.com/detailingtherealm)

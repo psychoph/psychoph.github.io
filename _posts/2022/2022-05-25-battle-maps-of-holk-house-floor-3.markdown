@@ -13,7 +13,7 @@ tags:
   - DnD
   - Faerun
 
-excerpt: ""
+excerpt: "All of floor 3 is only accessible from the west steps and the cloud in the middle is a portal to the underworld. The numbers in the DM's map correspond to the descriptions in the dungeon magazine."
 excerpt-img-full: "https://drive.google.com/uc?id=18UKQ4q0ADlwynbxuS86DQ5WSuo494PUk"
 author: Jason Hardin
 pageclass: rpg
@@ -23,16 +23,9 @@ pageclass: rpg
 
 ### Map Overview
 
-[Introduction text]. I have a DM's map with numbers on it that correspond to the descriptions below:
+I am reposting the holk house maps based on my new process for generating map exports. I based the maps on the maps from Dungeon Magazine #71 pg 55. If you want to understand everything that is happening on the map, I recommend reading the magazine. There are over 24 rooms detailed there.
 
-1. **Building 1:** this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
-1. **Building 1**: this floor
-   1. **Room 1**: this room
+All of floor 3 is only accessible from the west steps and the cloud in the middle is a portal to the underworld. The numbers in the DM's map correspond to the descriptions in the dungeon magazine.
 
 ### Map Options
 
@@ -46,7 +39,8 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 
 ### File Downloads
 
-## PDFs 
+## PDFs
+
 1. [dm high contrast full grid A4 no border](https://dtr.jasonhardin.com/jDyD)
 1. [dm high contrast full grid Letter no border](https://dtr.jasonhardin.com/xPSK)
 1. [dm high contrast no grid A4 no border](https://dtr.jasonhardin.com/zqM7)
@@ -63,7 +57,9 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players no contrast full grid Letter no border](https://dtr.jasonhardin.com/JsLn)
 1. [players no contrast no grid A4 no border](https://dtr.jasonhardin.com/YKGE)
 1. [players no contrast no grid Letter no border](https://dtr.jasonhardin.com/yG1t)
-## WEBPs 
+
+## WEBPs
+
 1. [dm high contrast full grid](https://dtr.jasonhardin.com/nAKf)
 1. [dm high contrast no grid](https://dtr.jasonhardin.com/xxZ6)
 1. [dm no contrast full grid](https://dtr.jasonhardin.com/3xUD)
@@ -72,6 +68,5 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players high contrast no grid](https://dtr.jasonhardin.com/iowk)
 1. [players no contrast full grid](https://dtr.jasonhardin.com/PDNz)
 1. [players no contrast no grid](https://dtr.jasonhardin.com/o3io)
-
 
 If you like my work, I would be overjoyed if you became a patron and supported me. You can find out more about patronage on my Patreon page, [Detailing the Realm](https://www.patreon.com/detailingtherealm)
