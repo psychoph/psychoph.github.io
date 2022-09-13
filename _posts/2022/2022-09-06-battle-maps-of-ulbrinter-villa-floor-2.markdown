@@ -26,24 +26,24 @@ pageclass: rpg
 Here is the final map for the Ulbrinter villa. The second floors of the buildings mostly house bedrooms. I changed some of the map from the original design to add more furniture that I thought was more appropriate. I have a DM's map with numbers on it that correspond to the descriptions below:
 
 1. **Guard House:** this building is where the guards for the family live and maintain the protection detail for the main house.
-1. **Servant’s Bedroom:** this room is used for the female servants to sleep.
-1. **Servant’s Bedroom:**this room is used for the male servants to sleep.
-1. **Main Villa::** this building is where the family lives and entertains guests.
-1. **Family Member’s:** this room is used by the head of the and their significant other.
-1. **Storage Room:** The family stores various collectible items in this room that they aren’t current;y displaying in other areas of the Villa.
-1. **Storage Room:** The family stores random odds and ends in this room or any large shipments that need to be secured.
-1. **Dining Room:** This room is one of the dining rooms the family uses for more private meals.
-1. **Storage Room:** The family stores non-perishable food in this room and alcohol.
-1. **Servant Eating Room:** The servants can eat in here in between serving the family dining rooms. They can also use this room as a stop over when serving meals.
-1. **Dining Room:** The family will use this room for more private meals.
-1. **Family Bedroom:** This room is used by the children of one of the family members
-1. **Family Bedroom:** This room is used by the parents of the children in room 2h.
-1. **Family Bedroom:** This room is used by another set of family members.
-1. **Guest House:** this building is where the family houses guests who stay for a period of time. Guests need to leave through the side gate and enter from the front gate, this is to increase security for the family.
-1. **Sitting Room:** Guests can use this room to relax and have conversations when not in their rooms or the main house.
-1. **Guest Bedroom:** A single guest would stay in this room.
-1. **Guest Bedroom:** A couple or someone demanding a larger space to stay would use this room.
-1. **Guest Bedroom:** A couple would likely reside in this room when staying with the family.
+   1. **Servant’s Bedroom:** this room is used for the female servants to sleep.
+   2. **Servant’s Bedroom:**this room is used for the male servants to sleep.
+2. **Main Villa::** this building is where the family lives and entertains guests.
+   1. **Family Member’s Room:** this room is used by the head of the and their significant other.
+   2. **Storage Room:** The family stores various collectible items in this room that they aren’t current;y displaying in other areas of the Villa.
+   3. **Storage Room:** The family stores random odds and ends in this room or any large shipments that need to be secured.
+   4. **Dining Room:** This room is one of the dining rooms the family uses for more private meals.
+   5. **Storage Room:** The family stores non-perishable food in this room and alcohol.
+   6. **Servant Eating Room:** The servants can eat in here in between serving the family dining rooms. They can also use this room as a stop over when serving meals.
+   7. **Dining Room:** The family will use this room for more private meals.
+   8. **Family Bedroom:** This room is used by the children of one of the family members
+   9. **Family Bedroom:** This room is used by the parents of the children in room 2h.
+   10. **Family Bedroom:** This room is used by another set of family members.
+3. **Guest House:** this building is where the family houses guests who stay for a period of time. Guests need to leave through the side gate and enter from the front gate, this is to increase security for the family.
+   1. **Sitting Room:** Guests can use this room to relax and have conversations when not in their rooms or the main house.
+   2. **Guest Bedroom:** A single guest would stay in this room.
+   3. **Guest Bedroom:** A couple or someone demanding a larger space to stay would use this room.
+   4. **Guest Bedroom:** A couple would likely reside in this room when staying with the family.
 
 ### Map Options
 
@@ -59,27 +59,27 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 
 ## PDFs
 
-1. [high contrast full grid A4 no border](https://dtr.jasonhardin.com/3PDH)
-1. [high contrast full grid Letter no border](https://dtr.jasonhardin.com/EbDP)
-1. [high contrast no grid A4 no border](https://dtr.jasonhardin.com/vPMD)
-1. [high contrast no grid Letter no border](https://dtr.jasonhardin.com/J8s4)
-1. [no contrast full grid A4 no border](https://dtr.jasonhardin.com/YLy3)
-1. [no contrast full grid Letter no border](https://dtr.jasonhardin.com/xa3P)
-1. [no contrast no grid A4 no border](https://dtr.jasonhardin.com/gYwm)
-1. [no contrast no grid Letter no border](https://dtr.jasonhardin.com/sfco)
+1. [high contrast full grid A4 no border](https://dtr.jasonhardin.com/cTBm)
+1. [high contrast full grid Letter no border](https://dtr.jasonhardin.com/BuCU)
+1. [high contrast no grid A4 no border](https://dtr.jasonhardin.com/FgDH)
+1. [high contrast no grid Letter no border](https://dtr.jasonhardin.com/3i8A)
+1. [no contrast full grid A4 no border](https://dtr.jasonhardin.com/HAEe)
+1. [no contrast full grid Letter no border](https://dtr.jasonhardin.com/SHP6)
+1. [no contrast no grid A4 no border](https://dtr.jasonhardin.com/JCHv)
+1. [no contrast no grid Letter no border](https://dtr.jasonhardin.com/omdv)
 
 ## JPGs
 
-1. [high contrast full grid](https://dtr.jasonhardin.com/yvAS)
-1. [high contrast no grid](https://dtr.jasonhardin.com/r1kU)
-1. [no contrast full grid](https://dtr.jasonhardin.com/1GfS)
-1. [no contrast no grid](https://dtr.jasonhardin.com/25X4)
+1. [high contrast full grid](https://dtr.jasonhardin.com/5tYn)
+1. [high contrast no grid](https://dtr.jasonhardin.com/guw1)
+1. [no contrast full grid](https://dtr.jasonhardin.com/d3mq)
+1. [no contrast no grid](https://dtr.jasonhardin.com/tAes)
 
 ## WEBPs
 
-1. [high contrast full grid](https://dtr.jasonhardin.com/6yXk)
-1. [high contrast no grid](https://dtr.jasonhardin.com/au9V)
-1. [no contrast full grid](https://dtr.jasonhardin.com/vxH1)
-1. [no contrast no grid](https://dtr.jasonhardin.com/zmDW)
+1. [high contrast full grid](https://dtr.jasonhardin.com/Eeeg)
+1. [high contrast no grid](https://dtr.jasonhardin.com/Cczd)
+1. [no contrast full grid](https://dtr.jasonhardin.com/4csa)
+1. [no contrast no grid](https://dtr.jasonhardin.com/GYpU)
 
 If you like my work, I would be overjoyed if you became a patron and supported me. You can find out more about patronage on my Patreon page, [Detailing the Realm](https://www.patreon.com/detailingtherealm)
