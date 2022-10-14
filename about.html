@@ -1,42 +1,60 @@
 ---
 layout: page
 title: "About"
-description: "I'm Jason Hardin, Product Manager at Blackboard. This blog is my personal blog where I document my interests in programming, video games, role-playing, battlemaps, BBQ and DIY projects"
+description: "I'm Jason Hardin, a Product Manager by trade. This blog is my personal blog where I document my interests in programming, video games, role-playing, battlemaps, BBQ and DIY projects"
 pageclass: main
 ---
 
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-4">
-      <img src="/img/me.jpg" alt="" class="img-responsive">
+      <img src="/img/me.jpg" alt="" class="img-responsive" />
     </div>
     <div class="col-xs-4">
       <h3>Social Profiles</h3>
       <ul class="list-unstyled">
-        {% if site.patreon_username %}
         <li>
-          <a href="https://patreon.com/{{ site.googleplus_username }}/posts" class="mdi mdi-patreon mdi-48px">
-            +{{ site.patreon_username }}
+          <a
+            href="https://www.patreon.com/detailingtherealm"
+            class="mdi mdi-patreon mdi-48px"
+          >
+            Detailing the Realm
           </a>
         </li>
-        {% endif %}
+        <li>
+          <a href="https://www.subscribestar.com/detailing-the-realm"
+            >Detailing the Realm on SubsciberStar</a
+          >
+        </li>
+        <li>
+          <a href="https://ko-fi.com/detailingtherealm"
+            >Detailing the Realm on Ko fi</a
+          >
+        </li>
         {% if site.github_username %}
         <li>
-          <a href="https://github.com/{{ site.github_username }}" class="mdi mdi-github-box mdi-48px">
+          <a
+            href="https://github.com/{{ site.github_username }}"
+            class="mdi mdi-github-box mdi-48px"
+          >
             {{ site.github_username }}
           </a>
         </li>
-        {% endif %}
-        {% if site.twitter_username %}
+        {% endif %} {% if site.twitter_username %}
         <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}" class="mdi mdi-twitter mdi-48px">
+          <a
+            href="https://twitter.com/{{ site.twitter_username }}"
+            class="mdi mdi-twitter mdi-48px"
+          >
             {{ site.twitter_username }}
           </a>
         </li>
-        {% endif %}
-        {% if site.linkedin_username %}
+        {% endif %} {% if site.linkedin_username %}
         <li>
-          <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="mdi mdi-linkedin-box mdi-48px">
+          <a
+            href="https://www.linkedin.com/in/{{site.linkedin_username}}"
+            class="mdi mdi-linkedin-box mdi-48px"
+          >
             {{site.linkedin_username}}
           </a>
         </li>
@@ -48,19 +66,27 @@ pageclass: main
       <ul class="list-unstyled">
         {% if site.steam_id %}
         <li>
-          <a href="http://steamcommunity.com/id/{{site.steam_id}}" class="mdi mdi-steam mdi-48px">
+          <a
+            href="http://steamcommunity.com/id/{{site.steam_id}}"
+            class="mdi mdi-steam mdi-48px"
+          >
             {{site.steam_id}}
           </a>
         </li>
-        {% endif %}
-        {% if site.psn_id %}
+        {% endif %} {% if site.psn_id %}
         <li>
-          <a href="https://my.playstation.com/{{site.psn_id}}" class="mdi mdi-playstation mdi-48px">{{site.psn_id}}</a>
+          <a
+            href="https://my.playstation.com/{{site.psn_id}}"
+            class="mdi mdi-playstation mdi-48px"
+            >{{site.psn_id}}</a
+          >
         </li>
-        {% endif %}
-        {% if site.twitch_id %}
+        {% endif %} {% if site.twitch_id %}
         <li>
-          <a href="http://www.twitch.tv/{{site.twitch_id}}/profile" class="mdi mdi-twitch mdi-48px">
+          <a
+            href="http://www.twitch.tv/{{site.twitch_id}}/profile"
+            class="mdi mdi-twitch mdi-48px"
+          >
             {{site.twitch_id}}
           </a>
         </li>
@@ -70,22 +96,18 @@ pageclass: main
   </div>
   <div class="row">
     <div class="col-xs-12">
-      I am the Senior Product Manager for Learn at <a href="http://www.blackboard.com">Blackboard</a>. I have been programming for more than 15 years and have experience
-      with the following programming languages:
-      <ul>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>PHP</li>
-        <li>Python</li>
-        <li>Java</li>
-        <li>C++</li>
-      </ul>
-      This site is my personal blog and represents only my opinions and hobbies not those of my employer. The blog is here to house my personal projects for role-playing, video games, programming, DIY and cooking. I also like to post notes here about things
-      I learned during my programming experiences at work or with personal projects. I often times write posts on answers to problems that caused me some headaches or time to resolve. For me the resolution is the key and the blog post is there to keep
-      me from repeating the same mistake twice.
-
-      I have also started up my own Patreon where I post FREE battlemaps for Forgotten Realms. I will link to those posts from this site as well. If you like what I do click the become a patron button below.
+      I am a Product Manager during the weekdays. I used to be a programmer, but
+      now I just dabble in writing scripts that improve my life. This site is my
+      personal blog and represents only my opinions and hobbies not those of my
+      employer. The blog is here to house my personal projects for role-playing,
+      video games, programming, DIY and cooking. I also like to post notes here
+      about things I learned during my programming experiences at work or with
+      personal projects. I often times write posts on answers to problems that
+      caused me some headaches or time to resolve. For me the resolution is the
+      key and the blog post is there to keep me from repeating the same mistake
+      twice. I have also started up my own Patreon where I post FREE battlemaps
+      for Forgotten Realms. I will link to those posts from this site as well.
+      If you like what I do click the become a patron button below.
     </div>
   </div>
 </div>
