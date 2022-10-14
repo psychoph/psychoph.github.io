@@ -1,22 +1,33 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-xs-6">
+      <div class="col-xs-12">
         <ul class="list-inline">
           <li>
             <a href="{{ " /feed.xml " | prepend: site.baseurl }}" class="mdi mdi-rss-box mdi-48px">
                 <span class="sr-only">RSS feed for String on a finger</span>
             </a>
           </li>
-          <li><a href="https://www.patreon.com/bePatron?u=10666748" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></li>
-          <li><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'N4N0FO6DA');kofiwidget2.draw();</script> </li>
-          <li><a href="https://www.subscribestar.com/detailing-the-realm"><img src="/img/favicon.ico" /></a></li>
+          <li>
+            <a href="https://www.patreon.com/bePatron?u=10666748" >
+              <img src="/img/become_a_patron_button.png" />
+            </a>
+          </li>
+          <li>
+            <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+            <script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'N4N0FO6DA');kofiwidget2.draw();</script> 
+          </li>
+          <li>
+            <a href="https://www.subscribestar.com/detailing-the-realm">
+              <img src="/img/subscriberstar.png" />
+            </a>
+          </li>
           <li>
             © Jason Hardin 2020
           </li>
         </ul>
       </div>
-      <div class="col-xs-6 text-right">
+      <div class="col-xs-12 text-right">
         {{ include credits.html }}
       </div>
     </div>
