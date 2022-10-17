@@ -45,7 +45,7 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 
 ### File Downloads
 
-## WEBPs
+#### WEBPs
 
 1. [Players no contrast no grid](https://drive.google.com/uc?id=12VnhELG6y1Hicqi9alxZmdYhnjg7zfAX&export=download)
 2. [Players no contrast full grid](https://drive.google.com/uc?id=1a-avGvrYSlrxOdq6z1O-gOXMM1T9Fqf5&export=download)
@@ -56,7 +56,7 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 7. [Dm high contrast no grid.7z](https://drive.google.com/uc?id=19QwAaK2FYsUuYaMc7UcLiq-XywRo8JkI&export=download)
 8. [Dm high contrast full grid.7z](https://drive.google.com/uc?id=1Reu73td6GZxXqgDY_p6ozkkVBNJGGyDa&export=download)
 
-## PDFs
+#### PDFs
 
 1. [Players no contrast no grid letter no border](https://drive.google.com/uc?id=1Qw8nmU_PXv70eP6oEHGcnXisHbVSkSyl&export=download)
 2. [Players no contrast no grid a4 no border](https://drive.google.com/uc?id=1E31COD-ccd4J6iykRGR7ENd1jxZZhcZG&export=download)
@@ -74,5 +74,3 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 14. [Dm high contrast no grid a4 no border](https://drive.google.com/uc?id=11kbqJUqinVCswksjIHZFtbWcA0picGnH&export=download)
 15. [Dm high contrast full grid letter no border](https://drive.google.com/uc?id=12fuT95ixj-79F0DekUwKTeUO0i3vAFTq&export=download)
 16. [Dm high contrast full grid a4 no border](https://drive.google.com/uc?id=16GrIUvkDYW8VyKay1VjgJYZCRmY-ufEs&export=download)
-
-If you like my work, I would be overjoyed if you became a patron and supported me. You can find out more about patronage on my Patreon page, [Detailing the Realm](https://www.patreon.com/detailingtherealm)

@@ -39,7 +39,7 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 
 ### File Downloads
 
-## PDFs
+#### PDFs
 
 1. [dm high contrast full grid A4 no border](https://dtr.jasonhardin.com/cujq)
 1. [dm high contrast full grid Letter no border](https://dtr.jasonhardin.com/6Bt1)
@@ -58,7 +58,7 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players no contrast no grid A4 no border](https://dtr.jasonhardin.com/p5Du)
 1. [players no contrast no grid Letter no border](https://dtr.jasonhardin.com/ZYqg)
 
-## WEBPs
+#### WEBPs
 
 1. [dm high contrast full grid](https://dtr.jasonhardin.com/e5ts)
 1. [dm high contrast no grid](https://dtr.jasonhardin.com/dhxW)
@@ -68,5 +68,3 @@ Below are the various image and PDF download groups. A file in the WEBPs section
 1. [players high contrast no grid](https://dtr.jasonhardin.com/Cto8)
 1. [players no contrast full grid](https://dtr.jasonhardin.com/Ntv7)
 1. [players no contrast no grid](https://dtr.jasonhardin.com/1Y77)
-
-If you like my work, I would be overjoyed if you became a patron and supported me. You can find out more about patronage on my Patreon page, [Detailing the Realm](https://www.patreon.com/detailingtherealm)
