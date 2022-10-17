@@ -29,7 +29,7 @@ With this release I am continuing with the family villas in Waterdeep. I skipped
 1. **Guest House:** this is where the Artemel family puts up guests that need to stay for a period of time.
 1. **Servants House:** this is where the servants for the family live and entertain themselves when not working for the family.
 1. **Tertiary Family House:** this building is where the least important family members reside.
-1. \*\*Guard House: this is where the Artemel family house their guards and weaponry.
+1. **Guard House:** this is where the Artemel family house their guards and weaponry.
 1. **Secondary Family House:** this building is where the sons and daughters of the current ruling family members reside with their family or by themselves.
 
 ### Map Options
