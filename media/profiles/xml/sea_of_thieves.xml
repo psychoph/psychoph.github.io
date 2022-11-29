@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile lastplayeddate="2021-09-18T16:16:38" launchable="1" guid="{4D4B1F37-29CB-4CD6-8D8C-0B9CC0CF91BA}" gkeysdk="0" gameid="" gpasupported="0" lock="1" name="Sea of Thieves">
+    <description></description>
+    <target path="C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\SEA OF THIEVES\ATHENA\BINARIES\WIN64\SOTGAME.EXE"/>
+    <signature executable="" key="" value="" name=""/>
+    <macros>
+      <macro guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" hidden="false" original="true" color="4278246655" name="Back">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" hidden="false" original="true" color="4278246655" name="Forward">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" hidden="false" original="true" color="4278246655" name="Mode Switch (G300/s)" devicecategory="Logitech.Gaming.Mouse.G300">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="modeswitch"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{D5AC487F-B970-4F70-9B59-6EC8A53684A4}" hidden="true" original="true" color="4278246655" name="F1">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{015CB0BB-B7EB-4A20-BFFD-8825E388F894}" hidden="true" original="true" color="4278246655" name="F2">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{7A014AFE-618E-43D6-B296-D61483211066}" hidden="true" original="true" color="4278246655" name="F3">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{DA05951F-18ED-44E6-9BA6-E08937AA880B}" hidden="true" original="true" color="4278246655" name="F4">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{4A68DBDE-D3B9-4E9E-A6D9-28EF552BE9DD}" hidden="true" original="true" color="4278246655" name="F5">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{1F2CC23B-86C8-4FBA-B4CE-9F025459FAE4}" hidden="true" original="true" color="4278246655" name="F6">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{9E4F6006-03FB-44AC-85CF-14A74BA0C126}" hidden="true" original="true" color="4278246655" name="F7">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{3D087F0F-971C-4E23-860B-ACE762C96CC4}" hidden="true" original="true" color="4278246655" name="F8">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{E8744FC0-9710-45E8-A427-7BA80359FE68}" hidden="true" original="true" color="4278246655" name="F9">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{D5A173BE-C5B3-4C75-89CE-162E33876F5B}" hidden="true" original="true" color="4278246655" name="F10">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{E29676E8-DC26-4518-A319-952C4A3D3D35}" hidden="true" original="true" color="4278246655" name="F11">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{7016AAD1-1A1C-4301-9441-1DB8A854E81E}" hidden="true" original="true" color="4278246655" name="F12">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro guid="{FC528BCE-3D33-42E7-8052-9EE6451715E2}" hidden="false" original="true" color="4278246655" name="Space">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" hidden="false" color="4278246655" name="Forward">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" guid="{A23B7675-7743-4E31-A086-3D3001E529F7}" hidden="false" color="4278246655" name="W">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro guid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" hidden="false" color="4278246655" name="Back">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" guid="{548198F1-5D65-4F61-B53E-57CD2323ECA9}" hidden="false" color="4278246655" name="S">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro guid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" hidden="false" color="4278246655" name="Left">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" guid="{B440FD9E-39AB-4514-BFBB-02BCAA57634D}" hidden="false" color="4278246655" name="A">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro guid="{438FEFE1-A4AC-40C2-9247-B31379391066}" hidden="false" color="4278246655" name="Right">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" guid="{4CDF2E68-54D4-4043-A0F7-8129D71A7455}" hidden="false" color="4278246655" name="D">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro guid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" hidden="false" color="4278246655" name="Sprint">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" guid="{F898C9AB-19D2-4C9A-AFA8-5783615F0A4E}" hidden="false" color="4278246655" name="LSHIFT">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{012C64E4-210B-4199-97BC-F051CE3488E6}" hidden="false" color="4278246655" name="Jump">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" guid="{CC637F86-477F-4082-AAF3-59C7324D36EC}" hidden="false" color="4278246655" name="SPACEBAR">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" hidden="false" color="4278246655" name="Walk">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" guid="{D723A53A-7545-403F-B00C-B14734C159AA}" hidden="false" color="4278246655" name="LCTRL">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro guid="{BBA13792-F6B9-4E03-9AEF-8067F95071DA}" hidden="false" color="4278246655" name="Auto Move">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="NUMLOCK"/>
+        </keystroke>
+      </macro>
+      <macro guid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" hidden="false" color="4278246655" name="Intertact">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" guid="{235C5DAE-1660-4179-9B93-BBEF7DA5FCD2}" hidden="false" color="4278246655" name="F">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro guid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" hidden="false" color="4278246655" name="Sec Interact">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" guid="{B7288A5B-5E08-48B0-A6AC-AFCAC9191F0E}" hidden="false" color="4278246655" name="R">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro guid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" hidden="false" color="4278246655" name="Text Chat">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" guid="{42996873-32B7-4048-9E11-C7B03EC14E0F}" hidden="false" color="4278246655" name="T">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro guid="{474C3E34-3395-4059-93C8-3D4076673135}" hidden="false" color="4278246655" name="Emotions Wheel">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{474C3E34-3395-4059-93C8-3D4076673135}" guid="{B2D60A96-E19C-4CEA-AE01-F0F8680666FE}" hidden="false" color="4278246655" name="Z">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro guid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" hidden="false" color="4278246655" name="Push to Talk">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" guid="{942F0F07-3C45-4248-B21A-7FC20E6AF6E7}" hidden="false" color="4278246655" name="LALT">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro guid="{59EF2C68-3DC0-4468-8DB2-E81A6F9ABE64}" hidden="false" color="4278246655" name="Quest radial">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro guid="{35060C60-D9F5-4F61-B7F0-351005026E00}" hidden="false" color="4278246655" name="Pirate Chat">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" guid="{37B31255-2E41-4643-BC25-219112AB7C78}" hidden="false" color="4278246655" name="E">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro guid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" hidden="false" color="4278246655" name="Stow/Drop">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" guid="{369C3A04-CA63-4A99-92B2-E598CEBFC686}" hidden="false" color="4278246655" name="X">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro guid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" hidden="false" color="4278246655" name="Weapon 1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" guid="{E80CEE61-D3D0-4C68-B5A0-4057A943146E}" hidden="false" color="4278246655" name="1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro guid="{244636E5-5C47-4982-8A76-E216A920F49F}" hidden="false" color="4278246655" name="Weapon 2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{244636E5-5C47-4982-8A76-E216A920F49F}" guid="{4009DC97-6B76-4CA7-83F2-BCDA4661FA8D}" hidden="false" color="4278246655" name="2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro guid="{C318CD39-2065-4018-B1FF-155846A4CAF2}" hidden="false" color="4278246655" name="Bucket">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+        </keystroke>
+      </macro>
+      <macro guid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" hidden="false" color="4278246655" name="Cannon ball">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" guid="{FD47D216-EBA9-41C4-B2CB-959B7688642C}" hidden="false" color="4278246655" name="4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" guid="{8DCE0408-27A8-4912-8305-6106C41AFDCE}" hidden="false" color="4278246655" name="7">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="7"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" hidden="false" color="4278246655" name="Compass">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="7"/>
+        </keystroke>
+      </macro>
+      <macro guid="{C8EC9602-89FB-4DD4-9C52-8D9569F7368D}" hidden="false" color="4278246655" name="Fishing Rod">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="K"/>
+        </keystroke>
+      </macro>
+      <macro guid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" hidden="false" color="4278246655" name="Food">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" guid="{859A0E13-8161-438F-AABD-CD83F90325DB}" hidden="false" color="4278246655" name="3">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro guid="{42611B77-6141-4FFD-918D-49AC3DA297D8}" hidden="false" color="4278246655" name="Instrument">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="I"/>
+        </keystroke>
+      </macro>
+      <macro guid="{0898E3CE-3B4E-4A5B-B8F2-B41D641613A6}" hidden="false" color="4278246655" name="Lantern">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="L"/>
+        </keystroke>
+      </macro>
+      <macro guid="{F554A4BA-7406-41A7-9F95-FA69210EE7F6}" hidden="false" color="4278246655" name="Pocket Watch">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="0"/>
+        </keystroke>
+      </macro>
+      <macro guid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" hidden="false" color="4278246655" name="Shovel">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="6"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" guid="{EE985B2E-B4EB-49C1-A6D2-F55A8882D3B1}" hidden="false" color="4278246655" name="6">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="6"/>
+        </keystroke>
+      </macro>
+      <macro guid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" hidden="false" color="4278246655" name="Spyglass">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" guid="{4984917C-4B3D-41DA-AC24-93F877D8745E}" hidden="false" color="4278246655" name="8">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+        </keystroke>
+      </macro>
+      <macro guid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" hidden="false" color="4278246655" name="Speaking Trumpet">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" guid="{E2B2E9FF-630C-4957-BA93-AA9E62FD1FCA}" hidden="false" color="4278246655" name="V">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro guid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" hidden="false" color="4278246655" name="Throwables">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" guid="{69F166A9-C9CE-42A3-ACDA-36B1503E37D6}" hidden="false" color="4278246655" name="C">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro guid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" hidden="false" color="4278246655" name="Wooden Plank">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="5"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" guid="{0B64B364-A4D3-463D-9FBF-8549BBE7F3F7}" hidden="false" color="4278246655" name="5">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="5"/>
+        </keystroke>
+      </macro>
+      <macro guid="{D2830B1D-3B51-400F-9BF3-2935DC7FAB4F}" hidden="false" color="4278246655" name="Tankard">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="9"/>
+        </keystroke>
+      </macro>
+      <macro guid="{EE942317-3DF3-4FCA-B777-2AE7BAB31FCC}" hidden="false" color="4278246655" name="Enter">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ENTER"/>
+        </keystroke>
+      </macro>
+      <macro guid="{5B291001-C751-4B91-9094-8A6C4180B10D}" hidden="false" color="4278246655" name="Esc">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro guid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" hidden="false" color="4278246655" name="Quests">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" guid="{0F1EFBB0-DFC2-4D42-AED4-F6DF5140C60B}" hidden="false" color="4278246655" name="Q">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" guid="{3E30FDA3-4F8A-43BC-B37B-8BBE90373837}" hidden="false" color="4278246655" name="F1">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" guid="{70F1C513-40EF-4584-9857-AD0E3C5C173F}" hidden="false" color="4278246655" name="F10">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F10"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{E432B456-E65C-4009-9115-FFF884011BEF}" guid="{A75E95C8-E90D-43CB-9464-C6622B1AB3E8}" hidden="false" color="4278246655" name="F11">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F11"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" guid="{34DDF2A0-3C12-47AF-B6D0-F4DC2A9A2D77}" hidden="false" color="4278246655" name="F12">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F12"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" guid="{3D3A9621-4974-478E-9E22-046EF992FD20}" hidden="false" color="4278246655" name="F2">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F2"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" guid="{25C8612B-4374-4334-9892-7D9F99C4E5C2}" hidden="false" color="4278246655" name="F3">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F3"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" guid="{4362DA67-62BE-40FA-84BD-74C7809FB47C}" hidden="false" color="4278246655" name="F4">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F4"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" guid="{055D538D-90AC-4EFF-A7B2-7087E6E66E78}" hidden="false" color="4278246655" name="F5">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F5"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" guid="{6E05B816-DF81-4016-874D-89252131EAF4}" hidden="false" color="4278246655" name="F6">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F6"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" guid="{177FAB43-A066-4943-A7EA-6EFECC6B5FA4}" hidden="false" color="4278246655" name="F7">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F7"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" guid="{0D19B65D-4437-42B8-89EA-FF2DD7161513}" hidden="false" color="4278246655" name="F8">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F8"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" guid="{991A1CEC-25DD-4F65-85EF-A7F093869B1A}" hidden="false" color="4278246655" name="F9">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F9"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{F7899D9E-8B25-45CB-B4BC-AAF99E4C87D4}" guid="{EE44FB25-872F-40F9-B494-ED9F9332E033}" hidden="false" color="4278246655" name="Copy">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="copy"/>
+        </hotkeys>
+      </macro>
+      <macro backupguid="{2F5C8F56-C184-4143-8852-2EB924626DCC}" guid="{09410784-4DD8-44F3-96B1-8A7DD09D273F}" hidden="false" color="4278246655" name="Cut">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="cut"/>
+        </hotkeys>
+      </macro>
+      <macro backupguid="{89F0C712-9AF7-4099-9C53-1868BF5B9A4E}" guid="{CD113F86-1866-42C4-876C-2F837B9CA731}" hidden="false" color="4278246655" name="Default DPI" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="defaultdpi"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" guid="{185DC8EE-E039-472D-8EC2-00D59DBB7E13}" hidden="false" color="4278246655" name="DPI Cycling" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpicycling"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" guid="{0B137F08-012B-4F7B-858B-3E2787624267}" hidden="false" color="4278246655" name="DPI Down" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" guid="{0CA4E48F-73FA-4B78-A9C6-025D146269FF}" hidden="false" color="4278246655" name="DPI Shift" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpishift"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" guid="{1EA42097-0111-4496-8E76-7C35A65B0142}" hidden="false" color="4278246655" name="DPI Up" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro guid="{5B79E529-A9B7-464D-8D53-B9E4F31040E6}" hidden="true" color="4278246655" name="Left Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" guid="{DAF26CBE-8E7B-4B9A-AC14-1CC32A656C28}" hidden="false" color="4278246655" name="Left Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" guid="{06ACFCCC-4D1D-4F8C-BFC7-977D048537EF}" hidden="false" color="4278246655" name="Middle Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{5638A489-F156-4122-A7DB-E0F880FACC0E}" guid="{1F3E1CCE-D5DB-4A79-BD52-A2C08CF040FB}" hidden="false" color="4278246655" name="Paste">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="paste"/>
+        </hotkeys>
+      </macro>
+      <macro backupguid="{49D8F405-E657-46FE-A829-FB59D3527B1B}" guid="{7A0B649C-3A83-44B6-B0FD-247CE23142F9}" hidden="false" color="4278246655" name="QuickMacro">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="W" direction="down"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="S" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="CAPSLOCK" direction="down"/>
+          <key value="CAPSLOCK" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="W" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="W" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="ESCAPE" direction="down"/>
+          <key value="ESCAPE" direction="up"/>
+          <key value="LALT" direction="down"/>
+          <key value="TAB" direction="down"/>
+          <key value="TAB" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <key value="LALT" direction="down"/>
+          <key value="TAB" direction="down"/>
+          <key value="TAB" direction="up"/>
+          <key value="LALT" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="CAPSLOCK" direction="down"/>
+          <key value="CAPSLOCK" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="J" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="J" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="O" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="up"/>
+          <key value="TAB" direction="down"/>
+          <key value="TAB" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="V" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="G" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="G" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="1" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="1" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="SEMICOLON" direction="down"/>
+          <key value="SEMICOLON" direction="up"/>
+          <key value="0" direction="down"/>
+          <key value="0" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="J" direction="down"/>
+          <key value="J" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="O" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="M" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="M" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="J" direction="down"/>
+          <key value="J" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="O" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="up"/>
+          <key value="TAB" direction="down"/>
+          <key value="TAB" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="G" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="G" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="T" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="T" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="SEMICOLON" direction="down"/>
+          <key value="SEMICOLON" direction="up"/>
+          <key value="0" direction="down"/>
+          <key value="0" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="8" direction="down"/>
+          <key value="8" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="9" direction="down"/>
+          <key value="9" direction="up"/>
+          <key value="DOWN" direction="down"/>
+          <key value="DOWN" direction="up"/>
+          <key value="RIGHT" direction="down"/>
+          <key value="RIGHT" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="0" direction="down"/>
+          <key value="0" direction="up"/>
+          <key value="DOWN" direction="down"/>
+          <key value="DOWN" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="1" direction="down"/>
+          <key value="1" direction="up"/>
+          <key value="DOWN" direction="down"/>
+          <key value="DOWN" direction="up"/>
+          <key value="DOWN" direction="down"/>
+          <key value="DOWN" direction="up"/>
+          <key value="UP" direction="down"/>
+          <key value="UP" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="2" direction="down"/>
+          <key value="2" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="M" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="M" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="1" direction="down"/>
+          <key value="1" direction="up"/>
+          <key value="7" direction="down"/>
+          <key value="7" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="X" direction="down"/>
+          <key value="X" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="X" direction="down"/>
+          <key value="X" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="T" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="X" direction="down"/>
+          <key value="X" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="I" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="I" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="H" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="O" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="O" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="Q" direction="down"/>
+          <key value="Q" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="Q" direction="down"/>
+          <key value="Q" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="N" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="L" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="L" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="N" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="COMMA" direction="down"/>
+          <key value="COMMA" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="ENTER" direction="down"/>
+          <key value="ENTER" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="K" direction="down"/>
+          <key value="K" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="I" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="Y" direction="down"/>
+          <key value="Y" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="D" direction="down"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="Y" direction="down"/>
+          <key value="Y" direction="up"/>
+          <key value="U" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="E" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="Y" direction="down"/>
+          <key value="Y" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="H" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="Y" direction="down"/>
+          <key value="Y" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="U" direction="down"/>
+          <key value="U" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="QUOTE" direction="down"/>
+          <key value="QUOTE" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="V" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="V" direction="up"/>
+          <key value="E" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="C" direction="down"/>
+          <key value="C" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="K" direction="down"/>
+          <key value="K" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="A" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="F" direction="down"/>
+          <key value="F" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="LSHIFT" direction="down"/>
+          <key value="SEMICOLON" direction="down"/>
+          <key value="SEMICOLON" direction="up"/>
+          <key value="0" direction="down"/>
+          <key value="0" direction="up"/>
+          <key value="LSHIFT" direction="up"/>
+          <key value="PERIOD" direction="down"/>
+          <key value="PERIOD" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="D" direction="down"/>
+          <key value="D" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="T" direction="down"/>
+          <key value="T" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="R" direction="down"/>
+          <key value="R" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="BACKSPACE" direction="down"/>
+          <key value="BACKSPACE" direction="up"/>
+          <key value="E" direction="down"/>
+          <key value="E" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="H" direction="down"/>
+          <key value="H" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+          <key value="P" direction="down"/>
+          <key value="P" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="N" direction="down"/>
+          <key value="N" direction="up"/>
+          <key value="G" direction="down"/>
+          <key value="G" direction="up"/>
+          <key value="W" direction="down"/>
+          <key value="W" direction="up"/>
+          <key value="I" direction="down"/>
+          <key value="I" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="L" direction="down"/>
+          <key value="L" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+          <key value="S" direction="down"/>
+          <key value="S" direction="up"/>
+          <key value="A" direction="down"/>
+          <key value="A" direction="up"/>
+          <key value="Y" direction="down"/>
+          <key value="Y" direction="up"/>
+          <key value="LCTRL" direction="down"/>
+          <key value="Z" direction="down"/>
+          <key value="Z" direction="up"/>
+          <key value="LCTRL" direction="up"/>
+          <key value="SPACEBAR" direction="down"/>
+          <key value="SPACEBAR" direction="up"/>
+        </multikey>
+      </macro>
+      <macro guid="{DC79123C-17F3-435C-831C-E939FD5C2721}" hidden="true" color="4278246655" name="Right Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" guid="{F882640F-A469-422A-918F-8280C3D2AA0C}" hidden="false" color="4278246655" name="Right Click">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{83F4556B-F7B0-4827-BC28-DDC800B97991}" guid="{72A18A9A-6717-4A2B-A869-4E5E3C069247}" hidden="false" color="4278246655" name="Scroll Left">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollleft"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{72413D30-E855-4026-94A4-9A9CF0E7A51C}" guid="{E699FC77-03F3-4DC0-8826-EC3A986C55CF}" hidden="false" color="4278246655" name="Scroll Right">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollright"/>
+        </mousefunction>
+      </macro>
+      <macro backupguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" guid="{31D4E34A-A064-44F1-8897-517273DF10E5}" hidden="false" color="4278246655" name="G">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Function.Keyboard">
+      <assignment shiftstate="1" macroguid="{D5AC487F-B970-4F70-9B59-6EC8A53684A4}" original="true" backup="false" contextid="G1"/>
+      <assignment shiftstate="4" macroguid="{D5AC487F-B970-4F70-9B59-6EC8A53684A4}" original="true" backup="false" contextid="G1"/>
+      <assignment shiftstate="1" macroguid="{015CB0BB-B7EB-4A20-BFFD-8825E388F894}" original="true" backup="false" contextid="G2"/>
+      <assignment shiftstate="4" macroguid="{015CB0BB-B7EB-4A20-BFFD-8825E388F894}" original="true" backup="false" contextid="G2"/>
+      <assignment shiftstate="1" macroguid="{7A014AFE-618E-43D6-B296-D61483211066}" original="true" backup="false" contextid="G3"/>
+      <assignment shiftstate="4" macroguid="{7A014AFE-618E-43D6-B296-D61483211066}" original="true" backup="false" contextid="G3"/>
+      <assignment shiftstate="1" macroguid="{DA05951F-18ED-44E6-9BA6-E08937AA880B}" original="true" backup="false" contextid="G4"/>
+      <assignment shiftstate="4" macroguid="{DA05951F-18ED-44E6-9BA6-E08937AA880B}" original="true" backup="false" contextid="G4"/>
+      <assignment shiftstate="1" macroguid="{4A68DBDE-D3B9-4E9E-A6D9-28EF552BE9DD}" original="true" backup="false" contextid="G5"/>
+      <assignment shiftstate="4" macroguid="{4A68DBDE-D3B9-4E9E-A6D9-28EF552BE9DD}" original="true" backup="false" contextid="G5"/>
+      <assignment shiftstate="1" macroguid="{1F2CC23B-86C8-4FBA-B4CE-9F025459FAE4}" original="true" backup="false" contextid="G6"/>
+      <assignment shiftstate="4" macroguid="{1F2CC23B-86C8-4FBA-B4CE-9F025459FAE4}" original="true" backup="false" contextid="G6"/>
+      <assignment shiftstate="1" macroguid="{9E4F6006-03FB-44AC-85CF-14A74BA0C126}" original="true" backup="false" contextid="G7"/>
+      <assignment shiftstate="4" macroguid="{9E4F6006-03FB-44AC-85CF-14A74BA0C126}" original="true" backup="false" contextid="G7"/>
+      <assignment shiftstate="1" macroguid="{3D087F0F-971C-4E23-860B-ACE762C96CC4}" original="true" backup="false" contextid="G8"/>
+      <assignment shiftstate="4" macroguid="{3D087F0F-971C-4E23-860B-ACE762C96CC4}" original="true" backup="false" contextid="G8"/>
+      <assignment shiftstate="1" macroguid="{E8744FC0-9710-45E8-A427-7BA80359FE68}" original="true" backup="false" contextid="G9"/>
+      <assignment shiftstate="4" macroguid="{E8744FC0-9710-45E8-A427-7BA80359FE68}" original="true" backup="false" contextid="G9"/>
+      <assignment shiftstate="1" macroguid="{D5A173BE-C5B3-4C75-89CE-162E33876F5B}" original="true" backup="false" contextid="G10"/>
+      <assignment shiftstate="4" macroguid="{D5A173BE-C5B3-4C75-89CE-162E33876F5B}" original="true" backup="false" contextid="G10"/>
+      <assignment shiftstate="1" macroguid="{E29676E8-DC26-4518-A319-952C4A3D3D35}" original="true" backup="false" contextid="G11"/>
+      <assignment shiftstate="4" macroguid="{E29676E8-DC26-4518-A319-952C4A3D3D35}" original="true" backup="false" contextid="G11"/>
+      <assignment shiftstate="1" macroguid="{7016AAD1-1A1C-4301-9441-1DB8A854E81E}" original="true" backup="false" contextid="G12"/>
+      <assignment shiftstate="4" macroguid="{7016AAD1-1A1C-4301-9441-1DB8A854E81E}" original="true" backup="false" contextid="G12"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Keyboard">
+      <assignment shiftstate="1" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" original="false" backup="true" contextid="G1"/>
+      <assignment shiftstate="2" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" original="false" backup="true" contextid="G1"/>
+      <assignment shiftstate="3" macroguid="{FF54FEB5-843F-465A-B8BA-9CAA2C4B70B9}" original="false" backup="true" contextid="G1"/>
+      <assignment shiftstate="1" macroguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" original="false" backup="true" contextid="G10"/>
+      <assignment shiftstate="2" macroguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" original="false" backup="true" contextid="G10"/>
+      <assignment shiftstate="3" macroguid="{002D4039-63A2-4FFB-B9A6-4F2337042B54}" original="false" backup="true" contextid="G10"/>
+      <assignment shiftstate="1" macroguid="{E432B456-E65C-4009-9115-FFF884011BEF}" original="false" backup="true" contextid="G11"/>
+      <assignment shiftstate="2" macroguid="{E432B456-E65C-4009-9115-FFF884011BEF}" original="false" backup="true" contextid="G11"/>
+      <assignment shiftstate="3" macroguid="{E432B456-E65C-4009-9115-FFF884011BEF}" original="false" backup="true" contextid="G11"/>
+      <assignment shiftstate="1" macroguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" original="false" backup="true" contextid="G12"/>
+      <assignment shiftstate="2" macroguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" original="false" backup="true" contextid="G12"/>
+      <assignment shiftstate="3" macroguid="{A36371DC-A978-440E-85B5-336C2AFCA14F}" original="false" backup="true" contextid="G12"/>
+      <assignment shiftstate="1" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false" contextid="G13"/>
+      <assignment shiftstate="2" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false" contextid="G13"/>
+      <assignment shiftstate="3" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false" contextid="G13"/>
+      <assignment shiftstate="1" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false" contextid="G14"/>
+      <assignment shiftstate="2" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false" contextid="G14"/>
+      <assignment shiftstate="3" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false" contextid="G14"/>
+      <assignment shiftstate="1" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false" contextid="G15"/>
+      <assignment shiftstate="2" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false" contextid="G15"/>
+      <assignment shiftstate="3" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false" contextid="G15"/>
+      <assignment shiftstate="1" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false" contextid="G16"/>
+      <assignment shiftstate="2" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false" contextid="G16"/>
+      <assignment shiftstate="3" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false" contextid="G16"/>
+      <assignment shiftstate="1" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="false" contextid="G17"/>
+      <assignment shiftstate="2" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="false" contextid="G17"/>
+      <assignment shiftstate="3" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="false" contextid="G17"/>
+      <assignment shiftstate="1" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false" contextid="G18"/>
+      <assignment shiftstate="2" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false" contextid="G18"/>
+      <assignment shiftstate="3" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false" contextid="G18"/>
+      <assignment shiftstate="1" macroguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" original="false" backup="true" contextid="G2"/>
+      <assignment shiftstate="2" macroguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" original="false" backup="true" contextid="G2"/>
+      <assignment shiftstate="3" macroguid="{1ED530F3-5A13-4EB1-800C-DF0D6873ED88}" original="false" backup="true" contextid="G2"/>
+      <assignment shiftstate="1" macroguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" original="false" backup="true" contextid="G3"/>
+      <assignment shiftstate="2" macroguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" original="false" backup="true" contextid="G3"/>
+      <assignment shiftstate="3" macroguid="{B06BEC6C-12A7-4F2A-AC97-BBF7B7EDF353}" original="false" backup="true" contextid="G3"/>
+      <assignment shiftstate="1" macroguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" original="false" backup="true" contextid="G4"/>
+      <assignment shiftstate="2" macroguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" original="false" backup="true" contextid="G4"/>
+      <assignment shiftstate="3" macroguid="{33BDD50A-3E5C-4EE3-A440-91C2A94230CB}" original="false" backup="true" contextid="G4"/>
+      <assignment shiftstate="1" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" original="false" backup="true" contextid="G5"/>
+      <assignment shiftstate="2" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" original="false" backup="true" contextid="G5"/>
+      <assignment shiftstate="3" macroguid="{FA55D2A3-9611-4B9A-8705-17C74B82FB64}" original="false" backup="true" contextid="G5"/>
+      <assignment shiftstate="1" macroguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" original="false" backup="true" contextid="G6"/>
+      <assignment shiftstate="2" macroguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" original="false" backup="true" contextid="G6"/>
+      <assignment shiftstate="3" macroguid="{035A0274-52FD-4530-A7B9-EB66B6BEB647}" original="false" backup="true" contextid="G6"/>
+      <assignment shiftstate="1" macroguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" original="false" backup="true" contextid="G7"/>
+      <assignment shiftstate="2" macroguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" original="false" backup="true" contextid="G7"/>
+      <assignment shiftstate="3" macroguid="{2FDFE890-93C0-4BDB-851B-03D0E06337C1}" original="false" backup="true" contextid="G7"/>
+      <assignment shiftstate="1" macroguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" original="false" backup="true" contextid="G8"/>
+      <assignment shiftstate="2" macroguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" original="false" backup="true" contextid="G8"/>
+      <assignment shiftstate="3" macroguid="{23A95548-5C2F-423A-A76C-0A341F636BF5}" original="false" backup="true" contextid="G8"/>
+      <assignment shiftstate="1" macroguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" original="false" backup="true" contextid="G9"/>
+      <assignment shiftstate="2" macroguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" original="false" backup="true" contextid="G9"/>
+      <assignment shiftstate="3" macroguid="{A83EA296-1C6B-4523-996A-69D7830524CD}" original="false" backup="true" contextid="G9"/>
+      <assignment shiftstate="1" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="true" contextid="G13"/>
+      <assignment shiftstate="2" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="true" contextid="G13"/>
+      <assignment shiftstate="3" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="true" contextid="G13"/>
+      <assignment shiftstate="1" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="true" contextid="G14"/>
+      <assignment shiftstate="2" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="true" contextid="G14"/>
+      <assignment shiftstate="3" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="true" contextid="G14"/>
+      <assignment shiftstate="1" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="true" contextid="G16"/>
+      <assignment shiftstate="2" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="true" contextid="G16"/>
+      <assignment shiftstate="3" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="true" contextid="G16"/>
+      <assignment shiftstate="1" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="true" contextid="G15"/>
+      <assignment shiftstate="2" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="true" contextid="G15"/>
+      <assignment shiftstate="3" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="true" contextid="G15"/>
+      <assignment shiftstate="1" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="true" contextid="G18"/>
+      <assignment shiftstate="2" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="true" contextid="G18"/>
+      <assignment shiftstate="3" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="true" contextid="G18"/>
+      <assignment shiftstate="1" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="true" contextid="G17"/>
+      <assignment shiftstate="2" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="true" contextid="G17"/>
+      <assignment shiftstate="3" macroguid="{793AC04D-F6DB-4E47-8D93-068B95FD54E3}" original="false" backup="true" contextid="G17"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment shiftstate="2" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false" contextid="G1"/>
+      <assignment shiftstate="3" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false" contextid="G1"/>
+      <assignment shiftstate="1" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="false" contextid="G10"/>
+      <assignment shiftstate="2" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="false" contextid="G10"/>
+      <assignment shiftstate="3" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="false" contextid="G10"/>
+      <assignment shiftstate="1" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="false" contextid="G11"/>
+      <assignment shiftstate="2" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="false" contextid="G11"/>
+      <assignment shiftstate="3" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="false" contextid="G11"/>
+      <assignment shiftstate="1" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="false" contextid="G12"/>
+      <assignment shiftstate="2" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="false" contextid="G12"/>
+      <assignment shiftstate="3" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="false" contextid="G12"/>
+      <assignment shiftstate="2" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" original="false" backup="false" contextid="G13"/>
+      <assignment shiftstate="3" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" original="false" backup="false" contextid="G13"/>
+      <assignment shiftstate="1" macroguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" original="false" backup="true" contextid="G14"/>
+      <assignment shiftstate="2" macroguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" original="false" backup="true" contextid="G14"/>
+      <assignment shiftstate="3" macroguid="{C76A7B08-F7A1-4CB1-A05B-F376B76FEB3C}" original="false" backup="true" contextid="G14"/>
+      <assignment shiftstate="1" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" original="false" backup="false" contextid="G15"/>
+      <assignment shiftstate="2" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" original="false" backup="false" contextid="G15"/>
+      <assignment shiftstate="3" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" original="false" backup="false" contextid="G15"/>
+      <assignment shiftstate="2" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" original="false" backup="false" contextid="G16"/>
+      <assignment shiftstate="3" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" original="false" backup="false" contextid="G16"/>
+      <assignment shiftstate="2" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="false" backup="false" contextid="G17"/>
+      <assignment shiftstate="3" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="false" backup="false" contextid="G17"/>
+      <assignment shiftstate="2" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" original="false" backup="false" contextid="G18"/>
+      <assignment shiftstate="3" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" original="false" backup="false" contextid="G18"/>
+      <assignment shiftstate="1" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="false" contextid="G19"/>
+      <assignment shiftstate="2" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="false" contextid="G19"/>
+      <assignment shiftstate="3" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="false" contextid="G19"/>
+      <assignment shiftstate="2" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false" contextid="G2"/>
+      <assignment shiftstate="3" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false" contextid="G2"/>
+      <assignment shiftstate="2" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="false" contextid="G20"/>
+      <assignment shiftstate="3" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="false" contextid="G20"/>
+      <assignment shiftstate="1" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="false" contextid="G21"/>
+      <assignment shiftstate="2" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="false" contextid="G21"/>
+      <assignment shiftstate="3" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="false" contextid="G21"/>
+      <assignment shiftstate="2" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" original="false" backup="false" contextid="G22"/>
+      <assignment shiftstate="3" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" original="false" backup="false" contextid="G22"/>
+      <assignment shiftstate="1" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false" contextid="G23"/>
+      <assignment shiftstate="2" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false" contextid="G23"/>
+      <assignment shiftstate="3" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="false" contextid="G23"/>
+      <assignment shiftstate="2" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="false" contextid="G24"/>
+      <assignment shiftstate="3" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="false" contextid="G24"/>
+      <assignment shiftstate="1" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="false" contextid="G25"/>
+      <assignment shiftstate="2" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="false" contextid="G25"/>
+      <assignment shiftstate="3" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="false" contextid="G25"/>
+      <assignment shiftstate="2" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="false" contextid="G26"/>
+      <assignment shiftstate="3" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="false" contextid="G26"/>
+      <assignment shiftstate="2" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="false" contextid="G27"/>
+      <assignment shiftstate="3" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="false" contextid="G27"/>
+      <assignment shiftstate="2" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="false" contextid="G28"/>
+      <assignment shiftstate="3" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="false" contextid="G28"/>
+      <assignment shiftstate="2" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="false" contextid="G29"/>
+      <assignment shiftstate="3" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="false" contextid="G29"/>
+      <assignment shiftstate="1" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" original="false" backup="false" contextid="G3"/>
+      <assignment shiftstate="2" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" original="false" backup="false" contextid="G3"/>
+      <assignment shiftstate="3" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" original="false" backup="false" contextid="G3"/>
+      <assignment shiftstate="1" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="false" contextid="G4"/>
+      <assignment shiftstate="2" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="false" contextid="G4"/>
+      <assignment shiftstate="3" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="false" contextid="G4"/>
+      <assignment shiftstate="2" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" original="false" backup="false" contextid="G5"/>
+      <assignment shiftstate="3" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" original="false" backup="false" contextid="G5"/>
+      <assignment shiftstate="2" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" original="false" backup="false" contextid="G6"/>
+      <assignment shiftstate="3" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" original="false" backup="false" contextid="G6"/>
+      <assignment shiftstate="1" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" original="false" backup="false" contextid="G7"/>
+      <assignment shiftstate="2" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" original="false" backup="false" contextid="G7"/>
+      <assignment shiftstate="3" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" original="false" backup="false" contextid="G7"/>
+      <assignment shiftstate="2" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false" contextid="G8"/>
+      <assignment shiftstate="3" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false" contextid="G8"/>
+      <assignment shiftstate="2" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false" contextid="G9"/>
+      <assignment shiftstate="3" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false" contextid="G9"/>
+      <assignment shiftstate="1" macroguid="{49D8F405-E657-46FE-A829-FB59D3527B1B}" original="false" backup="true" contextid="G29"/>
+      <assignment shiftstate="1" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="true" contextid="G26"/>
+      <assignment shiftstate="2" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="true" contextid="G26"/>
+      <assignment shiftstate="3" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="true" contextid="G26"/>
+      <assignment shiftstate="1" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="true" contextid="G4"/>
+      <assignment shiftstate="2" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="true" contextid="G4"/>
+      <assignment shiftstate="3" macroguid="{D9ED5310-3F5A-42C8-803C-32CF24C0A3CE}" original="false" backup="true" contextid="G4"/>
+      <assignment shiftstate="1" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="true" contextid="G11"/>
+      <assignment shiftstate="2" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="true" contextid="G11"/>
+      <assignment shiftstate="3" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="true" contextid="G11"/>
+      <assignment shiftstate="1" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="true" contextid="G28"/>
+      <assignment shiftstate="2" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="true" contextid="G28"/>
+      <assignment shiftstate="3" macroguid="{719E14B7-92C8-4231-AD72-C30450EBFC10}" original="false" backup="true" contextid="G28"/>
+      <assignment shiftstate="1" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="true" contextid="G10"/>
+      <assignment shiftstate="2" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="true" contextid="G10"/>
+      <assignment shiftstate="3" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="true" contextid="G10"/>
+      <assignment shiftstate="2" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="true" contextid="G29"/>
+      <assignment shiftstate="3" macroguid="{63BE7C7A-4937-4CC4-89A1-EA58900D686A}" original="false" backup="true" contextid="G29"/>
+      <assignment shiftstate="1" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="true" contextid="G12"/>
+      <assignment shiftstate="2" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="true" contextid="G12"/>
+      <assignment shiftstate="3" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="true" contextid="G12"/>
+      <assignment shiftstate="1" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="true" contextid="G27"/>
+      <assignment shiftstate="2" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="true" contextid="G27"/>
+      <assignment shiftstate="3" macroguid="{438FEFE1-A4AC-40C2-9247-B31379391066}" original="false" backup="true" contextid="G27"/>
+      <assignment shiftstate="1" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" original="false" backup="true" contextid="G15"/>
+      <assignment shiftstate="2" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" original="false" backup="true" contextid="G15"/>
+      <assignment shiftstate="3" macroguid="{B6A5C255-A379-498D-AAD9-290F1EB43B98}" original="false" backup="true" contextid="G15"/>
+      <assignment shiftstate="1" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" original="false" backup="true" contextid="G22"/>
+      <assignment shiftstate="2" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" original="false" backup="true" contextid="G22"/>
+      <assignment shiftstate="3" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" original="false" backup="true" contextid="G22"/>
+      <assignment shiftstate="1" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="true" contextid="G20"/>
+      <assignment shiftstate="2" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="true" contextid="G20"/>
+      <assignment shiftstate="3" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="true" contextid="G20"/>
+      <assignment shiftstate="1" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" original="false" backup="true" contextid="G13"/>
+      <assignment shiftstate="2" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" original="false" backup="true" contextid="G13"/>
+      <assignment shiftstate="3" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" original="false" backup="true" contextid="G13"/>
+      <assignment shiftstate="1" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" original="false" backup="true" contextid="G6"/>
+      <assignment shiftstate="2" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" original="false" backup="true" contextid="G6"/>
+      <assignment shiftstate="3" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" original="false" backup="true" contextid="G6"/>
+      <assignment shiftstate="1" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" original="false" backup="true" contextid="G7"/>
+      <assignment shiftstate="2" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" original="false" backup="true" contextid="G7"/>
+      <assignment shiftstate="3" macroguid="{569B3CF7-7D76-4E72-94A3-D8B6DA43C6A2}" original="false" backup="true" contextid="G7"/>
+      <assignment shiftstate="1" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" original="false" backup="true" contextid="G16"/>
+      <assignment shiftstate="2" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" original="false" backup="true" contextid="G16"/>
+      <assignment shiftstate="3" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" original="false" backup="true" contextid="G16"/>
+      <assignment shiftstate="1" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="true" contextid="G21"/>
+      <assignment shiftstate="2" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="true" contextid="G21"/>
+      <assignment shiftstate="3" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="true" contextid="G21"/>
+      <assignment shiftstate="1" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" original="false" backup="true" contextid="G5"/>
+      <assignment shiftstate="2" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" original="false" backup="true" contextid="G5"/>
+      <assignment shiftstate="3" macroguid="{35060C60-D9F5-4F61-B7F0-351005026E00}" original="false" backup="true" contextid="G5"/>
+      <assignment shiftstate="1" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="false" backup="true" contextid="G17"/>
+      <assignment shiftstate="2" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="false" backup="true" contextid="G17"/>
+      <assignment shiftstate="3" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="false" backup="true" contextid="G17"/>
+      <assignment shiftstate="1" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="true" contextid="G1"/>
+      <assignment shiftstate="2" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="true" contextid="G1"/>
+      <assignment shiftstate="3" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="true" contextid="G1"/>
+      <assignment shiftstate="1" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="true" contextid="G2"/>
+      <assignment shiftstate="2" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="true" contextid="G2"/>
+      <assignment shiftstate="3" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="true" contextid="G2"/>
+      <assignment shiftstate="1" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="true" contextid="G9"/>
+      <assignment shiftstate="2" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="true" contextid="G9"/>
+      <assignment shiftstate="3" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="true" contextid="G9"/>
+      <assignment shiftstate="1" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="true" contextid="G24"/>
+      <assignment shiftstate="2" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="true" contextid="G24"/>
+      <assignment shiftstate="3" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="true" contextid="G24"/>
+      <assignment shiftstate="1" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="true" contextid="G8"/>
+      <assignment shiftstate="2" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="true" contextid="G8"/>
+      <assignment shiftstate="3" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="true" contextid="G8"/>
+      <assignment shiftstate="1" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="true" contextid="G23"/>
+      <assignment shiftstate="2" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="true" contextid="G23"/>
+      <assignment shiftstate="3" macroguid="{CB9CC75B-A8ED-444E-8EDB-B28802D714CF}" original="false" backup="true" contextid="G23"/>
+      <assignment shiftstate="1" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="true" contextid="G25"/>
+      <assignment shiftstate="2" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="true" contextid="G25"/>
+      <assignment shiftstate="3" macroguid="{6FDA729B-2DD1-4505-9693-A8D2CC88A956}" original="false" backup="true" contextid="G25"/>
+      <assignment shiftstate="1" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="true" contextid="G19"/>
+      <assignment shiftstate="2" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="true" contextid="G19"/>
+      <assignment shiftstate="3" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="true" contextid="G19"/>
+      <assignment shiftstate="1" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" original="false" backup="true" contextid="G18"/>
+      <assignment shiftstate="2" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" original="false" backup="true" contextid="G18"/>
+      <assignment shiftstate="3" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" original="false" backup="true" contextid="G18"/>
+      <assignment shiftstate="1" macroguid="{5B291001-C751-4B91-9094-8A6C4180B10D}" original="false" backup="false" contextid="G1"/>
+      <assignment shiftstate="1" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" original="false" backup="true" contextid="G3"/>
+      <assignment shiftstate="2" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" original="false" backup="true" contextid="G3"/>
+      <assignment shiftstate="3" macroguid="{088F6952-C5AF-4CD9-8596-C1744B12501F}" original="false" backup="true" contextid="G3"/>
+      <assignment shiftstate="1" macroguid="{053C4FB8-E85A-4993-9C29-6E504C75DB2F}" original="false" backup="false" contextid="G5"/>
+      <assignment shiftstate="1" macroguid="{CEBC90AE-8677-4F05-BA4F-A8436AC9EAB6}" original="false" backup="false" contextid="G13"/>
+      <assignment shiftstate="1" macroguid="{0E5FBC48-AEF2-4D47-AB9A-52FF8DE7A581}" original="false" backup="false" contextid="G26"/>
+      <assignment shiftstate="1" macroguid="{244636E5-5C47-4982-8A76-E216A920F49F}" original="false" backup="false" contextid="G29"/>
+      <assignment shiftstate="1" macroguid="{D0AE6D96-FA68-44C3-9962-F25237E48823}" original="false" backup="false" contextid="G14"/>
+      <assignment shiftstate="1" macroguid="{7C5CEB62-4CC5-425F-A442-8ADB5C713D73}" original="false" backup="false" contextid="G28"/>
+      <assignment shiftstate="1" macroguid="{0BD1FF8D-B460-46A4-9866-EAFB2ECF3617}" original="false" backup="false" contextid="G27"/>
+      <assignment shiftstate="1" macroguid="{585D6928-6DA4-4865-A4CD-6E6A40687F75}" original="false" backup="false" contextid="G8"/>
+      <assignment shiftstate="1" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="false" backup="false" contextid="G9"/>
+      <assignment shiftstate="1" macroguid="{474C3E34-3395-4059-93C8-3D4076673135}" original="false" backup="false" contextid="G24"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse">
+      <assignment shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="false" backup="true" contextid="Button3"/>
+      <assignment shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="true" backup="false" contextid="Button4"/>
+      <assignment shiftstate="1" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="true" backup="false" contextid="Button5"/>
+      <assignment shiftstate="1" macroguid="{89F0C712-9AF7-4099-9C53-1868BF5B9A4E}" original="false" backup="true" contextid="Button6"/>
+      <assignment shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" original="false" backup="true" contextid="Button7"/>
+      <assignment shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" original="false" backup="true" contextid="Button8"/>
+      <assignment shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" backup="true" contextid="Button1"/>
+      <assignment shiftstate="1" macroguid="{5B79E529-A9B7-464D-8D53-B9E4F31040E6}" original="false" backup="false" contextid="Button1"/>
+      <assignment shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" original="false" backup="true" contextid="Button2"/>
+      <assignment shiftstate="1" macroguid="{DC79123C-17F3-435C-831C-E939FD5C2721}" original="false" backup="false" contextid="Button2"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G300">
+      <assignment shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="false" backup="true" contextid="Button3"/>
+      <assignment shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="true" backup="false" contextid="Button4"/>
+      <assignment shiftstate="1" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="true" backup="false" contextid="Button5"/>
+      <assignment shiftstate="1" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="false" contextid="Button6"/>
+      <assignment shiftstate="1" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="false" contextid="Button7"/>
+      <assignment shiftstate="1" macroguid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" original="true" backup="false" contextid="Button8"/>
+      <assignment shiftstate="1" macroguid="{28F1F32A-678A-4CD8-A0F4-41283A737EFC}" original="false" backup="true" contextid="Button9"/>
+      <assignment shiftstate="2" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="false" backup="true" contextid="Button3"/>
+      <assignment shiftstate="2" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="true" backup="false" contextid="Button4"/>
+      <assignment shiftstate="2" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="true" backup="false" contextid="Button5"/>
+      <assignment shiftstate="2" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" original="false" backup="true" contextid="Button6"/>
+      <assignment shiftstate="2" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" original="false" backup="true" contextid="Button7"/>
+      <assignment shiftstate="2" macroguid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" original="true" backup="false" contextid="Button8"/>
+      <assignment shiftstate="2" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" original="false" backup="true" contextid="Button9"/>
+      <assignment shiftstate="3" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="false" backup="true" contextid="Button3"/>
+      <assignment shiftstate="3" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="true" backup="false" contextid="Button4"/>
+      <assignment shiftstate="3" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="true" backup="false" contextid="Button5"/>
+      <assignment shiftstate="3" macroguid="{F7899D9E-8B25-45CB-B4BC-AAF99E4C87D4}" original="false" backup="true" contextid="Button6"/>
+      <assignment shiftstate="3" macroguid="{5638A489-F156-4122-A7DB-E0F880FACC0E}" original="false" backup="true" contextid="Button7"/>
+      <assignment shiftstate="3" macroguid="{53E81537-5916-4AB3-B052-ABF88B5DD218}" original="true" backup="false" contextid="Button8"/>
+      <assignment shiftstate="3" macroguid="{2F5C8F56-C184-4143-8852-2EB924626DCC}" original="false" backup="true" contextid="Button9"/>
+      <assignment shiftstate="1" macroguid="{6631B94C-725B-4541-B7FD-E0FEDA3156F3}" original="false" backup="true" contextid="Button6"/>
+      <assignment shiftstate="1" macroguid="{93ECFD56-95ED-4B57-A385-8CF72DB5F6B6}" original="false" backup="true" contextid="Button7"/>
+      <assignment shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" backup="true" contextid="Button1"/>
+      <assignment shiftstate="1" macroguid="{5B79E529-A9B7-464D-8D53-B9E4F31040E6}" original="false" backup="false" contextid="Button1"/>
+      <assignment shiftstate="2" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" backup="true" contextid="Button1"/>
+      <assignment shiftstate="2" macroguid="{5B79E529-A9B7-464D-8D53-B9E4F31040E6}" original="false" backup="false" contextid="Button1"/>
+      <assignment shiftstate="3" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" backup="true" contextid="Button1"/>
+      <assignment shiftstate="3" macroguid="{5B79E529-A9B7-464D-8D53-B9E4F31040E6}" original="false" backup="false" contextid="Button1"/>
+      <assignment shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" original="false" backup="true" contextid="Button2"/>
+      <assignment shiftstate="1" macroguid="{DC79123C-17F3-435C-831C-E939FD5C2721}" original="false" backup="false" contextid="Button2"/>
+      <assignment shiftstate="2" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" original="false" backup="true" contextid="Button2"/>
+      <assignment shiftstate="2" macroguid="{DC79123C-17F3-435C-831C-E939FD5C2721}" original="false" backup="false" contextid="Button2"/>
+      <assignment shiftstate="3" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" original="false" backup="true" contextid="Button2"/>
+      <assignment shiftstate="3" macroguid="{DC79123C-17F3-435C-831C-E939FD5C2721}" original="false" backup="false" contextid="Button2"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G9">
+      <assignment shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="false" backup="true" contextid="Button3"/>
+      <assignment shiftstate="1" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="false" contextid="Button5"/>
+      <assignment shiftstate="1" macroguid="{83F4556B-F7B0-4827-BC28-DDC800B97991}" original="false" backup="true" contextid="Button7"/>
+      <assignment shiftstate="1" macroguid="{72413D30-E855-4026-94A4-9A9CF0E7A51C}" original="false" backup="true" contextid="Button8"/>
+      <assignment shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" original="false" backup="true" contextid="Button9"/>
+      <assignment shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" original="false" backup="true" contextid="Button10"/>
+      <assignment shiftstate="1" macroguid="{33F8DE88-FEAC-42ED-BA8A-3C4755FA6D67}" original="false" backup="true" contextid="Button5"/>
+      <assignment shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="false" backup="true" contextid="Button1"/>
+      <assignment shiftstate="1" macroguid="{5B79E529-A9B7-464D-8D53-B9E4F31040E6}" original="false" backup="false" contextid="Button1"/>
+      <assignment shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" original="false" backup="true" contextid="Button2"/>
+      <assignment shiftstate="1" macroguid="{DC79123C-17F3-435C-831C-E939FD5C2721}" original="false" backup="false" contextid="Button2"/>
+      <assignment shiftstate="1" macroguid="{FC528BCE-3D33-42E7-8052-9EE6451715E2}" original="false" backup="true" contextid="Button4"/>
+      <assignment shiftstate="1" macroguid="{012C64E4-210B-4199-97BC-F051CE3488E6}" original="false" backup="false" contextid="Button4"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G600">
+        <mode shiftstate="1">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" shiftindex="0" defaultindex="0">
+            <dpi x="1200" y="1200" enabled="1"/>
+            <dpi x="2000" y="2000" enabled="0"/>
+            <dpi x="3200" y="3200" enabled="0"/>
+            <dpi x="5000" y="5000" enabled="0"/>
+            <dpi x="8200" y="8200" enabled="0"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+        <mode shiftstate="2">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" shiftindex="0" defaultindex="0">
+            <dpi x="1200" y="1200" enabled="1"/>
+            <dpi x="2000" y="2000" enabled="0"/>
+            <dpi x="3200" y="3200" enabled="0"/>
+            <dpi x="5000" y="5000" enabled="0"/>
+            <dpi x="8200" y="8200" enabled="0"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+        <mode shiftstate="3">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" shiftindex="0" defaultindex="1">
+            <dpi x="400" y="400" enabled="1"/>
+            <dpi x="1200" y="1200" enabled="1"/>
+            <dpi x="2000" y="2000" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+            <dpi x="8200" y="8200" enabled="0"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G9XCOD">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" shiftindex="1" defaultindex="1">
+            <dpi x="800" y="800" enabled="1"/>
+            <dpi x="1500" y="1500" enabled="1"/>
+            <dpi x="3050" y="3050" enabled="1"/>
+          </dpitable>
+          <movement speed="-1" acceleration="1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G300">
+      <mode shiftstate="1" color="#ff0000"/>
+      <mode shiftstate="2" color="#00ff00"/>
+      <mode shiftstate="3" color="#0000ff"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode shiftstate="1" color="#ffffff"/>
+      <mode shiftstate="2" color="#ffffff"/>
+      <mode shiftstate="3" color="#ffffff"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G9XCOD">
+      <mode shiftstate="1" color="#ff5500"/>
+      <mode shiftstate="2" color="#ff5500"/>
+      <mode shiftstate="3" color="#ff5500"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+	--OutputLogMessage("event = %s, arg = %s\n", event, arg);
+end</script>
+  </profile>
+</profiles>
